@@ -1,0 +1,15 @@
+{
+  "name": "poetic-content",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "OTA poems/ciphers content for the Poetic app (static JSON + validation scripts)",
+  "scripts": {
+    "next-id": "node scripts/next-id.mjs",
+    "validate": "node scripts/validate.mjs",
+    "build-delta": "node scripts/build-delta.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,425 @@
+{
+  "version": 10,
+  "poems": [
+    {
+      "id": "classic_00001",
+      "title": "The Road Not Taken",
+      "author": "Robert Frost",
+      "difficulty": "easy",
+      "theme": "Choices & Life Paths",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Two roads diverged in a yellow wood,\nAnd sorry I could not travel both\nAnd be one traveler, long I stood\nAnd looked down one as far as I could\nTo where it bent in the undergrowth;",
+        "Then took the other, as just as fair,\nAnd having perhaps the better claim,\nBecause it was grassy and wanted wear;\nThough as for that the passing there\nHad worn them really about the same,",
+        "And both that morning equally lay\nIn leaves no step had trodden black.\nOh, I kept the first for another day!\nYet knowing how way leads on to way,\nI doubted if I should ever come back.",
+        "I shall be telling this with a sigh\nSomewhere ages and ages hence:\nTwo roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "diverged",
+          "definition": "Split apart and moved in different directions from a single point.",
+          "rhyme_hint": "Rhymes with 'converged'; describes what two roads do at a fork."
+        },
+        {
+          "position": 2,
+          "correct_word": "undergrowth",
+          "definition": "Low-growing shrubs and plants beneath the trees of a forest.",
+          "rhyme_hint": "Rhymes with 'wood' in the first stanza; where the road bends out of sight."
+        },
+        {
+          "position": 3,
+          "correct_word": "hence",
+          "definition": "From this time forward; in the future.",
+          "rhyme_hint": "Rhymes with 'whence'; used in 'ages and ages ___'."
+        }
+      ],
+      "distractor_words": [
+        "path",
+        "forest",
+        "journey",
+        "wandered",
+        "thicket",
+        "shadow"
+      ]
+    },
+    {
+      "id": "classic_00002",
+      "title": "Stopping by Woods on a Snowy Evening",
+      "author": "Robert Frost",
+      "difficulty": "easy",
+      "theme": "Nature & Stillness",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "Whose woods these are I think I know.\nHis house is in the village though;\nHe will not see me stopping here\nTo watch his woods fill up with snow.",
+        "My little horse must think it queer\nTo stop without a farmhouse near\nBetween the woods and frozen lake\nThe darkest evening of the year.",
+        "He gives his harness bells a shake\nTo ask if there is some mistake.\nThe only other sound's the sweep\nOf easy wind and downy flake.",
+        "The woods are lovely, dark and deep,\nBut I have promises to keep,\nAnd miles to go before I sleep,\nAnd miles to go before I sleep."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "queer",
+          "definition": "Strange or odd; unusual.",
+          "rhyme_hint": "Rhymes with 'near'; the horse thinks stopping here is odd."
+        },
+        {
+          "position": 2,
+          "correct_word": "harness",
+          "definition": "The leather straps and gear by which a horse pulls a carriage.",
+          "rhyme_hint": "Rhymes with 'shake'; the bells are attached to it."
+        },
+        {
+          "position": 3,
+          "correct_word": "flake",
+          "definition": "A single small piece of snow.",
+          "rhyme_hint": "Rhymes with 'sweep' and 'deep'; falls softly from the sky."
+        }
+      ],
+      "distractor_words": [
+        "strange",
+        "collar",
+        "drift",
+        "frozen",
+        "village",
+        "mistake"
+      ]
+    },
+    {
+      "id": "classic_00003",
+      "title": "Because I could not stop for Death",
+      "author": "Emily Dickinson",
+      "difficulty": "hard",
+      "theme": "Death & Immortality",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Because I could not stop for Death –\nHe kindly stopped for me –\nThe Carriage held but just Ourselves –\nAnd Immortality.",
+        "We slowly drove – He knew no haste\nAnd I had put away\nMy labor and my leisure too,\nFor His Civility –",
+        "We passed the School, where Children strove\nAt Recess – in the Ring –\nWe passed the Fields of Gazing Grain –\nWe passed the Setting Sun –",
+        "Or rather – He passed Us –\nThe Dews drew quivering and Chill –\nFor only Gossamer, my Gown –\nMy Tippet – only Tulle –",
+        "We paused before a House that seemed\nA Swelling of the Ground –\nThe Roof was scarcely visible –\nThe Cornice – in the Ground –",
+        "Since then – 'tis Centuries – and yet\nFeels shorter than the Day\nI first surmised the Horses' Heads\nWere toward Eternity –"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "Immortality",
+          "definition": "Endless life; the state of living forever.",
+          "rhyme_hint": "Third rider in the carriage alongside the speaker and Death."
+        },
+        {
+          "position": 2,
+          "correct_word": "haste",
+          "definition": "Excessive speed or urgency of movement or action; hurry.",
+          "rhyme_hint": "Rhymes with 'Civility'; Death drives slowly, knowing none of this."
+        },
+        {
+          "position": 3,
+          "correct_word": "surmised",
+          "definition": "Supposed or inferred without certain evidence; guessed.",
+          "rhyme_hint": "Past-tense verb rhyming loosely with 'eyes'; means concluded or deduced."
+        }
+      ],
+      "distractor_words": [
+        "forever",
+        "rush",
+        "tomb",
+        "carriage",
+        "dusk",
+        "imagined"
+      ]
+    },
+    {
+      "id": "classic_00004",
+      "title": "“Hope” is the thing with feathers",
+      "author": "Emily Dickinson",
+      "difficulty": "medium",
+      "theme": "Perseverance & Faith",
+      "category": "Hope & Resilience",
+      "poem_stanzas": [
+        "“Hope” is the thing with feathers –\nThat perches in the soul –\nAnd sings the tune without the words –\nAnd never stops – at all –",
+        "And sweetest – in the Gale – is heard –\nAnd sore must be the storm –\nThat could abash the little Bird\nThat kept so many warm –",
+        "I've heard it in the chillest land –\nAnd on the strangest Sea –\nYet never – in Extremity –\nIt asked a crumb – of Me –"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "perches",
+          "definition": "Alights and rests on a raised spot, as a bird does on a branch.",
+          "rhyme_hint": "What a bird does when it lands; hope does this in the soul."
+        },
+        {
+          "position": 2,
+          "correct_word": "abash",
+          "definition": "To make someone feel embarrassed, ashamed, or disconcerted.",
+          "rhyme_hint": "Rhymes with 'dash'; only a very sore storm could do this to the Bird."
+        },
+        {
+          "position": 3,
+          "correct_word": "Extremity",
+          "definition": "The greatest or most intense degree of hardship or difficulty.",
+          "rhyme_hint": "Rhymes with 'Me'; even in this utmost state, hope asked nothing."
+        }
+      ],
+      "distractor_words": [
+        "roosts",
+        "hum",
+        "gale",
+        "comfort",
+        "shore",
+        "morsel"
+      ]
+    },
+    {
+      "id": "classic_00005",
+      "title": "The Tyger",
+      "author": "William Blake",
+      "difficulty": "hard",
+      "theme": "Creation & Mystery",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "Tyger Tyger, burning bright,\nIn the forests of the night;\nWhat immortal hand or eye,\nCould frame thy fearful symmetry?",
+        "In what distant deeps or skies,\nBurnt the fire of thine eyes?\nOn what wings dare he aspire?\nWhat the hand, dare seize the fire?",
+        "And what shoulder, & what art,\nCould twist the sinews of thy heart?\nAnd when thy heart began to beat,\nWhat dread hand? & what dread feet?",
+        "What the hammer? what the chain,\nIn what furnace was thy brain?\nWhat the anvil? what dread grasp,\nDare its deadly terrors clasp!",
+        "When the stars threw down their spears\nAnd water'd heaven with their tears:\nDid he smile his work to see?\nDid he who made the Lamb make thee?",
+        "Tyger Tyger burning bright,\nIn the forests of the night:\nWhat immortal hand or eye,\nDare frame thy fearful symmetry?"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "symmetry",
+          "definition": "Balanced, matching proportions on either side of a dividing line.",
+          "rhyme_hint": "Rhymes with 'eye'; the fearful balance of the tiger's form."
+        },
+        {
+          "position": 2,
+          "correct_word": "sinews",
+          "definition": "Tough cords of tissue that join muscles to bones; tendons.",
+          "rhyme_hint": "Twisted by the maker to build the tiger's heart."
+        },
+        {
+          "position": 3,
+          "correct_word": "furnace",
+          "definition": "An enclosed chamber in which material is burned or heated to very high temperatures.",
+          "rhyme_hint": "Rhymes with 'brain'; a blacksmith's fiery forge chamber."
+        }
+      ],
+      "distractor_words": [
+        "beauty",
+        "muscles",
+        "forge",
+        "darkness",
+        "flame",
+        "shape"
+      ]
+    },
+    {
+      "id": "classic_00006",
+      "title": "Ozymandias",
+      "author": "Percy Bysshe Shelley",
+      "difficulty": "medium",
+      "theme": "Power & Impermanence",
+      "category": "War & Society",
+      "poem_stanzas": [
+        "I met a traveller from an antique land,\nWho said—“Two vast and trunkless legs of stone\nStand in the desert... Near them, on the sand,\nHalf sunk a shattered visage lies, whose frown,\nAnd wrinkled lip, and sneer of cold command,\nTell that its sculptor well those passions read\nWhich yet survive, stamped on these lifeless things,\nThe hand that mocked them, and the heart that fed;\nAnd on the pedestal, these words appear:\nMy name is Ozymandias, King of Kings;\nLook on my Works, ye Mighty, and despair!\nNothing beside remains. Round the decay\nOf that colossal Wreck, boundless and bare\nThe lone and level sands stretch far away.”"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "visage",
+          "definition": "A person's face, especially the expression on it.",
+          "rhyme_hint": "Rhymes with 'sand' loosely; the shattered face of the fallen statue."
+        },
+        {
+          "position": 2,
+          "correct_word": "pedestal",
+          "definition": "The base or foundation on which a statue stands.",
+          "rhyme_hint": "Its inscription bears the king's proud words."
+        },
+        {
+          "position": 3,
+          "correct_word": "colossal",
+          "definition": "Enormously large; gigantic in scale.",
+          "rhyme_hint": "Rhymes internally with 'Wreck'; describes the immense ruined statue."
+        }
+      ],
+      "distractor_words": [
+        "statue",
+        "throne",
+        "giant",
+        "desert",
+        "ruin",
+        "frown"
+      ]
+    },
+    {
+      "id": "classic_00007",
+      "title": "Jabberwocky",
+      "author": "Lewis Carroll",
+      "difficulty": "easy",
+      "theme": "Nonsense & Adventure",
+      "category": "Joy & Whimsy",
+      "poem_stanzas": [
+        "'Twas brillig, and the slithy toves\n      Did gyre and gimble in the wabe:\nAll mimsy were the borogoves,\n      And the mome raths outgrabe.",
+        "“Beware the Jabberwock, my son!\n      The jaws that bite, the claws that catch!\nBeware the Jubjub bird, and shun\n      The frumious Bandersnatch!”",
+        "He took his vorpal sword in hand:\n      Long time the manxome foe he sought—\nSo rested he by the Tumtum tree,\n      And stood awhile in thought.",
+        "And, as in uffish thought he stood,\n      The Jabberwock, with eyes of flame,\nCame whiffling through the tulgey wood,\n      And burbled as it came!",
+        "One, two! One, two! And through and through\n      The vorpal blade went snicker-snack!\nHe left it dead, and with its head\n      He went galumphing back.",
+        "“And hast thou slain the Jabberwock?\n      Come to my arms, my beamish boy!\nO frabjous day! Callooh! Callay!”\n      He chortled in his joy.",
+        "'Twas brillig, and the slithy toves\n      Did gyre and gimble in the wabe:\nAll mimsy were the borogoves,\n      And the mome raths outgrabe."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "slithy",
+          "definition": "A coined word blending 'lithe' and 'slimy'; smooth and greasy in movement.",
+          "rhyme_hint": "Coined by Carroll; describes the active toves, like 'slimy'."
+        },
+        {
+          "position": 2,
+          "correct_word": "vorpal",
+          "definition": "A coined word meaning deadly sharp; describing the hero's magical sword.",
+          "rhyme_hint": "Describes both the sword and its blade later in the poem."
+        },
+        {
+          "position": 3,
+          "correct_word": "chortled",
+          "definition": "Laughed in a cheerful, chuckling way; a word Carroll coined.",
+          "rhyme_hint": "A blend of 'chuckle' and 'snort'; done in joy after the victory."
+        }
+      ],
+      "distractor_words": [
+        "mimsy",
+        "gyre",
+        "blade",
+        "galumphing",
+        "frumious",
+        "beamish"
+      ]
+    },
+    {
+      "id": "classic_00008",
+      "title": "Sonnet 18: Shall I compare thee to a summer's day?",
+      "author": "William Shakespeare",
+      "difficulty": "hard",
+      "theme": "Love & Eternity",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "Shall I compare thee to a summer's day?\nThou art more lovely and more temperate:\nRough winds do shake the darling buds of May,\nAnd summer's lease hath all too short a date:\nSometime too hot the eye of heaven shines,\nAnd often is his gold complexion dimm'd;\nAnd every fair from fair sometime declines,\nBy chance or nature's changing course untrimm'd;\nBut thy eternal summer shall not fade\nNor lose possession of that fair thou owest;\nNor shall Death brag thou wander'st in his shade,\nWhen in eternal lines to time thou growest:\n   So long as men can breathe or eyes can see,\n   So long lives this, and this gives life to thee."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "temperate",
+          "definition": "Mild and moderate in temperature; free from extremes.",
+          "rhyme_hint": "Rhymes with 'date'; the beloved is gentler than a summer's day."
+        },
+        {
+          "position": 2,
+          "correct_word": "eternal",
+          "definition": "Lasting or existing forever; without end.",
+          "rhyme_hint": "Used twice; the beloved's summer will never fade."
+        },
+        {
+          "position": 3,
+          "correct_word": "owest",
+          "definition": "An archaic verb form meaning you own or possess.",
+          "rhyme_hint": "Related to 'owned'; the fairness the beloved possesses."
+        }
+      ],
+      "distractor_words": [
+        "gentle",
+        "immortal",
+        "fair",
+        "shade",
+        "fades",
+        "possess"
+      ]
+    },
+    {
+      "id": "classic_00009",
+      "title": "I Wandered Lonely as a Cloud",
+      "author": "William Wordsworth",
+      "difficulty": "medium",
+      "theme": "Nature & Memory",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "I wander'd lonely as a cloud\nThat floats on high o'er vales and hills,\nWhen all at once I saw a crowd,\nA host, of golden daffodils;\nBeside the lake, beneath the trees,\nFluttering and dancing in the breeze.",
+        "Continuous as the stars that shine\nAnd twinkle on the milky way,\nThey stretch'd in never-ending line\nAlong the margin of a bay:\nTen thousand saw I at a glance,\nTossing their heads in sprightly dance.",
+        "The waves beside them danced; but they\nOut-did the sparkling waves in glee:\nA poet could not but be gay,\nIn such a jocund company:\nI gazed—and gazed—but little thought\nWhat wealth the show to me had brought:",
+        "For oft, when on my couch I lie\nIn vacant or in pensive mood,\nThey flash upon that inward eye\nWhich is the bliss of solitude;\nAnd then my heart with pleasure fills,\nAnd dances with the daffodils."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "vales",
+          "definition": "Valleys; low stretches of land between hills.",
+          "rhyme_hint": "Archaic plural rhyming with 'hills'; the cloud floats over these."
+        },
+        {
+          "position": 2,
+          "correct_word": "sprightly",
+          "definition": "Lively, brisk, and energetic in manner.",
+          "rhyme_hint": "Rhymes with 'light'-like feel; describes the daffodils' lively dance."
+        },
+        {
+          "position": 3,
+          "correct_word": "jocund",
+          "definition": "Cheerful and lighthearted.",
+          "rhyme_hint": "Rhymes with 'gay' in the same stanza; describes the flowers' company."
+        }
+      ],
+      "distractor_words": [
+        "meadows",
+        "gay",
+        "merry",
+        "dance",
+        "golden",
+        "bay"
+      ]
+    },
+    {
+      "id": "classic_00010",
+      "title": "Invictus",
+      "author": "William Ernest Henley",
+      "difficulty": "hard",
+      "theme": "Courage & Fate",
+      "category": "Hope & Resilience",
+      "poem_stanzas": [
+        "Out of the night that covers me,\nBlack as the pit from pole to pole,\nI thank whatever gods may be\nFor my unconquerable soul.",
+        "In the fell clutch of circumstance\nI have not winced nor cried aloud.\nUnder the bludgeonings of chance\nMy head is bloody, but unbowed.",
+        "Beyond this place of wrath and tears\nLooms but the Horror of the shade,\nAnd yet the menace of the years\nFinds and shall find me unafraid.",
+        "It matters not how strait the gate,\nHow charged with punishments the scroll,\nI am the master of my fate,\nI am the captain of my soul."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "clutch",
+          "definition": "A tight, grasping hold, as of talons closing on prey.",
+          "rhyme_hint": "Rhymes with 'much'; circumstance grips the speaker like a claw."
+        },
+        {
+          "position": 2,
+          "correct_word": "bludgeonings",
+          "definition": "Repeated heavy beatings, as with a club.",
+          "rhyme_hint": "From the weapon 'bludgeon'; the blows dealt by chance."
+        },
+        {
+          "position": 3,
+          "correct_word": "strait",
+          "definition": "Narrow, confined, or restricted; causing difficulty.",
+          "rhyme_hint": "Homophone of 'straight' but means narrow; describes the gate."
+        }
+      ],
+      "distractor_words": [
+        "darkness",
+        "punishment",
+        "master",
+        "wound",
+        "terror",
+        "scroll"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+name: validate-content
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Syntax-check scripts
+        run: |
+          node --check scripts/next-id.mjs
+          node --check scripts/validate.mjs
+          node --check scripts/build-delta.mjs
+      - name: Registry + manifest parse
+        run: |
+          node -e "JSON.parse(require('fs').readFileSync('content/manifest.json','utf8')); JSON.parse(require('fs').readFileSync('content/registry/poems_index.json','utf8')); JSON.parse(require('fs').readFileSync('content/registry/ciphers_index.json','utf8')); console.log('registry OK')"
+      - name: Smoke-test examples (schema only; ids reserved for docs)
+        run: |
+          node scripts/validate.mjs --new examples/poem_delta_example.json --skip-dup
+          node scripts/validate.mjs --new examples/cipher_delta_example.json --skip-dup

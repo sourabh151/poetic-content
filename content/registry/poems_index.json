@@ -1,0 +1,30 @@
+{
+  "next_id": "classic_00011",
+  "max_numeric": 10,
+  "count": 10,
+  "updatedToVersion": 10,
+  "ids": [
+    "classic_00001",
+    "classic_00002",
+    "classic_00003",
+    "classic_00004",
+    "classic_00005",
+    "classic_00006",
+    "classic_00007",
+    "classic_00008",
+    "classic_00009",
+    "classic_00010"
+  ],
+  "title_author_keys": [
+    "the road not taken|robert frost",
+    "stopping by woods on a snowy evening|robert frost",
+    "because i could not stop for death|emily dickinson",
+    "“hope” is the thing with feathers|emily dickinson",
+    "the tyger|william blake",
+    "ozymandias|percy bysshe shelley",
+    "jabberwocky|lewis carroll",
+    "sonnet 18: shall i compare thee to a summer's day?|william shakespeare",
+    "i wandered lonely as a cloud|william wordsworth",
+    "invictus|william ernest henley"
+  ]
+}

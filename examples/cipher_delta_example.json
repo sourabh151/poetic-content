@@ -1,0 +1,16 @@
+{
+  "version": 7,
+  "ciphers": [
+    {
+      "id": "cipher_00101",
+      "difficulty": "medium",
+      "categoryName": "Geography",
+      "poem_stanzas": [
+        "I am the road that walks without feet\nI am born in hills where small streams meet\nI carve the land with patient art\nI carry mountains in my heart",
+        "Dams may hold me, bridges span my face\nBoats ride my back from place to place\nI feed the fields and quench the town\nI meet the sea and lay my burden down"
+      ],
+      "answer_word": "river",
+      "hint": "The flowing road that seeks the sea."
+    }
+  ]
+}
