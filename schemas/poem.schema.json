@@ -1,0 +1,56 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/sourabh151/poetic-content/schemas/poem.schema.json",
+  "title": "Poem entry (OTA)",
+  "description": "One poem as shipped in deltas/full files. scripts/validate.mjs is authoritative; this schema is for app-side and editor use.",
+  "type": "object",
+  "required": ["id", "title", "author", "difficulty", "theme", "category", "poem_stanzas", "missing_words", "distractor_words"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^classic_\\d{5}$" },
+    "title": { "type": "string", "minLength": 1 },
+    "author": { "type": "string", "minLength": 1 },
+    "difficulty": { "type": "string", "enum": ["easy", "medium", "hard"] },
+    "theme": { "type": "string", "minLength": 1 },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Life & Destiny",
+        "Love & Heartache",
+        "Nature & Seasons",
+        "Hope & Resilience",
+        "Mind & Solitude",
+        "War & Society",
+        "Spirituality & Mystery",
+        "Joy & Whimsy"
+      ]
+    },
+    "poem_stanzas": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "missing_words": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 3,
+      "items": {
+        "type": "object",
+        "required": ["position", "correct_word", "definition", "rhyme_hint"],
+        "additionalProperties": false,
+        "properties": {
+          "position": { "type": "integer", "enum": [1, 2, 3] },
+          "correct_word": { "type": "string", "minLength": 1 },
+          "definition": { "type": "string", "minLength": 10 },
+          "rhyme_hint": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "distractor_words": {
+      "type": "array",
+      "minItems": 6,
+      "maxItems": 6,
+      "items": { "type": "string", "minLength": 1 }
+    }
+  }
+}

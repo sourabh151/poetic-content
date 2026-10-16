@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/sourabh151/poetic-content/schemas/cipher.schema.json",
+  "title": "Cipher entry (OTA)",
+  "description": "One cipher riddle as shipped in deltas/full files. scripts/validate.mjs is authoritative; this schema is for app-side and editor use. Note: leak checks (answer_word inside stanzas/hint) and forbidden phrases are enforced by validate.mjs, not expressible here.",
+  "type": "object",
+  "required": ["id", "difficulty", "categoryName", "poem_stanzas", "answer_word", "hint"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^cipher_\\d{5}$" },
+    "difficulty": { "type": "string", "enum": ["easy", "medium", "hard"] },
+    "categoryName": { "type": "string", "minLength": 1 },
+    "poem_stanzas": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "answer_word": { "type": "string", "pattern": "^[a-z]{3,10}$" },
+    "hint": { "type": "string", "minLength": 10 }
+  }
+}

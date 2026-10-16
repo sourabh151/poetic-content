@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/sourabh151/poetic-content/schemas/manifest.schema.json",
+  "title": "OTA manifest",
+  "description": "content/manifest.json: versions + ordered delta history. The app fetches this first, then replays missing deltas in `to` order.",
+  "type": "object",
+  "required": ["poemsVersion", "ciphersVersion", "minAppVersion", "updatedAt", "poemsDeltas", "ciphersDeltas"],
+  "properties": {
+    "poemsVersion": { "type": "integer", "minimum": 0 },
+    "ciphersVersion": { "type": "integer", "minimum": 0 },
+    "minAppVersion": { "type": "string", "minLength": 1 },
+    "updatedAt": { "type": "string", "minLength": 1 },
+    "notes": { "type": "object" },
+    "poemsDeltas": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/delta" }
+    },
+    "ciphersDeltas": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/delta" }
+    }
+  },
+  "definitions": {
+    "delta": {
+      "type": "object",
+      "required": ["from", "to", "url", "count", "corrections", "size", "sha256", "minAppVersion"],
+      "additionalProperties": false,
+      "properties": {
+        "from": { "type": "integer", "minimum": 0 },
+        "to": { "type": "integer", "minimum": 1 },
+        "url": { "type": "string", "minLength": 1, "description": "Relative to content/, e.g. deltas/poems_v2.json" },
+        "count": { "type": "integer", "minimum": 0, "description": "New entries in the delta" },
+        "corrections": { "type": "integer", "minimum": 0, "description": "Same-id typo fixes in the delta" },
+        "size": { "type": "integer", "minimum": 1, "description": "Delta file bytes (skip/retry budgeting on mobile)" },
+        "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "minAppVersion": { "type": "string", "minLength": 1 }
+      }
+    }
+  }
+}

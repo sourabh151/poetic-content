@@ -1,8 +1,8 @@
 {
-  "version": 7,
+  "version": 2,
   "ciphers": [
     {
-      "id": "cipher_00101",
+      "id": "cipher_09999",
       "difficulty": "medium",
       "categoryName": "Geography",
       "poem_stanzas": [

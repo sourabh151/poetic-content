@@ -1,1 +1,3 @@
 node_modules/
+# NOTE: content/registry/.reserved.json is intentionally TRACKED (next-id
+# reservations ride with the draft PR; build-delta clears on publish).

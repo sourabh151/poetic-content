@@ -17,10 +17,28 @@ jobs:
           node --check scripts/next-id.mjs
           node --check scripts/validate.mjs
           node --check scripts/build-delta.mjs
+          node --check scripts/verify.mjs
       - name: Registry + manifest parse
         run: |
           node -e "JSON.parse(require('fs').readFileSync('content/manifest.json','utf8')); JSON.parse(require('fs').readFileSync('content/registry/poems_index.json','utf8')); JSON.parse(require('fs').readFileSync('content/registry/ciphers_index.json','utf8')); console.log('registry OK')"
-      - name: Smoke-test examples (schema only; ids reserved for docs)
+      - name: Validate examples (full checks; ids are doc-reserved, never published)
         run: |
-          node scripts/validate.mjs --new examples/poem_delta_example.json --skip-dup
-          node scripts/validate.mjs --new examples/cipher_delta_example.json --skip-dup
+          node scripts/validate.mjs --new examples/poem_delta_example.json
+          node scripts/validate.mjs --new examples/cipher_delta_example.json
+      - name: Validate full files as drafts (schema gates on published content)
+        run: |
+          node -e "
+            const fs = require('fs');
+            const path = require('path');
+            for (const f of fs.readdirSync('content/full')) {
+              const m = f.match(/^(poems|ciphers)_full_v\d+\.json$/);
+              if (!m) continue;
+              const full = JSON.parse(fs.readFileSync(path.join('content/full', f), 'utf8'));
+              const key = m[1];
+              fs.writeFileSync('/tmp/full-check-' + key + '.json', JSON.stringify({ [key]: full[key] }));
+            }
+          "
+          node scripts/validate.mjs --new /tmp/full-check-poems.json --skip-dup
+          node scripts/validate.mjs --new /tmp/full-check-ciphers.json --skip-dup
+      - name: Repo consistency (registry <-> fulls <-> manifest <-> deltas)
+        run: node scripts/verify.mjs

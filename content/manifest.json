@@ -1,11 +1,11 @@
 {
-  "poemsVersion": 10,
-  "ciphersVersion": 6,
+  "poemsVersion": 1,
+  "ciphersVersion": 1,
   "minAppVersion": "1.0.0",
   "updatedAt": "2026-10-07T00:00:00Z",
   "poemsDeltas": [],
   "ciphersDeltas": [],
   "notes": {
-    "en": "Seed: 10 poems and 100 ciphers bundled with the app (ciphers_v6 flat schema)."
+    "en": "Seed v1: 10 poems and 100 ciphers bundled with the app."
   }
 }

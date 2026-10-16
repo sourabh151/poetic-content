@@ -48,12 +48,15 @@ DB: `ciphers(id, difficulty, category_name TEXT, poem_stanzas, answer_word, hint
   - Bad (generic, length, question): `I am 5 letters, hidden in Nature lore\nWhat am I, that borrows every tone?`
   - Good (clue-rich, no length, no question): `I speak without a mouth, I hear without ears\nI move without legs, yet I travel far\nI am born in a whisper, I die in the wind\nNo body to hold me, yet I linger`
   - Second stanza example: `In canyons I answer, in halls I return\nI mimic your voice, but I have none of my own\nYou chase me where stone throws your voice back\nI am the shadow of sound on its track`
-- **Must not contain** `answer_word` as a substring (case-insensitive, whole word or part). The riddle points to the word, must not reveal it. Check after writing: lowercased poem must not include lowercased answer.
+- **Must not name** the `answer_word` as a standalone word (case-insensitive,
+  word boundaries) in the riddle or hint. Rhymes that merely contain the sound
+  (e.g. `grain`/`plain` for `rain`) are legitimate clue-craft. Check after
+  writing: lowercased poem must not include the lowercased answer as a whole word.
 - **Style**: poetic, loosely metered, each line ends with its own image. Use `\n` within stanza strings. Keep language accessible for `easy`, more layered for `hard`, but always clue-dense.
 
 ## 4. Answer Word
 
-- `answer_word`: single word, `lowercased`, `3-10` characters, `a-z` only (no spaces, hyphens, apostrophes). Length = number of letter blanks in `cipher.tsx` (`guess` array). Verified at `create-ciphers-db.ts` with `^[a-z]+$` and `2-12` check — keep 3-10 for new entries.
+- `answer_word`: single word, `lowercased`, `3-10` characters, `a-z` only (no spaces, hyphens, apostrophes). Length = number of letter blanks in `cipher.tsx` (`guess` array). **3-10 is authoritative for OTA** (the app's legacy `create-ciphers-db.ts` also accepts 2-12 for the bundled seed, but new entries must be 3-10 — enforced by `validate.mjs`).
 - Must be a common English noun/verb that fits category. Avoid obscure or proper nouns. No duplicate `answer_word` across the 100 (ensure uniqueness, case-insensitive).
 - Examples: `echo`, `heart`, `moon`, `keyboard`, `river`, `fire`, `footsteps`, `secret`, `flame`, `guitar`.
 
@@ -84,7 +87,7 @@ For **each** cipher (repeat 100 times, do not batch without checking):
 2. Write `hint` (1-2 sentences, not containing answer, not mentioning length).
 3. Write `poem_stanzas` 2×4 lines, each line a distinct clue, no length, no "What am I", not containing answer.
 4. **Self-check this cipher before next:**
-   - Lowercased `poem_stanzas` joined does NOT contain lowercased `answer_word` substring.
+   - Lowercased `poem_stanzas` joined does NOT contain lowercased `answer_word` as a standalone word (rhymes like `grain` for `rain` are OK).
    - Lowercased `hint` does NOT contain `answer_word`.
    - No line contains `letters`, `characters`, `What am I`, `Who am I` (case-insensitive).
    - `hint` is 1-2 sentences, poem is 8 lines total, 2 stanzas.
@@ -93,7 +96,7 @@ For **each** cipher (repeat 100 times, do not batch without checking):
    `{"ciphers": [...]}`) in `id` order — do NOT edit any published file.
 6. Run `node scripts/validate.mjs --new /tmp/draft.json` (must exit 0),
    then follow the publish steps in "JSON Delta Contract" below
-   (`build-delta.mjs` → commit → tag `content-vN` → push).
+   (`build-delta.mjs --new` → commit → tag `ciphers-vN` → push).
 
 ## 9. Validation
 
@@ -121,7 +124,7 @@ poem_stanzas, answer_word, hint)` — **no categories table, no JOINs**.
 
 ```json
 {
-  "version": 7,
+  "version": 2,
   "ciphers": [
     {
       "id": "cipher_00101",
@@ -142,15 +145,28 @@ poem_stanzas, answer_word, hint)` — **no categories table, no JOINs**.
 - Same checks apply within a single draft batch.
 - Off-list `categoryName` → WARNING (suggest closest known value), not error.
 
-### Publish
-
-Append draft entries to a new `content/full/ciphers_full_v<to>.json`
-(copy previous full + append), then:
+### Publish (script builds the new full file — never hand-edit `content/full/`)
 
 ```bash
 node scripts/validate.mjs --new /tmp/draft.json
-node scripts/build-delta.mjs --type ciphers --to 7 --full content/full/ciphers_full_v7.json
+node scripts/build-delta.mjs --type ciphers --to 2 --new /tmp/draft.json
 ```
 
-See `examples/cipher_delta_example.json` for a complete valid entry.
+`build-delta.mjs --new` appends the draft to a new `content/full/ciphers_full_v<to>.json`
+itself (prev entries carried byte-identical, corrections applied by replacement),
+then writes the delta, updates `manifest.json` and bumps the registry.
+See `examples/cipher_delta_example.json` for a complete valid entry
+(doc id `cipher_09999` — never publish the example as-is; reserve real ids).
+
+### Corrections (typo fixes, same id)
+
+Ship as `{"ciphers": [...new...], "cipher_corrections": [{...same id, fixed body...}]}`.
+Correction ids must already be published; full schema still applies; a changed
+`answer_word` must not collide with a different published cipher. The app applies
+corrections with `REPLACE` (see `INTEGRATION.md`).
+
+### Batch limits (keep deltas cheap on mobile)
+
+- ≤ 100 new ciphers per draft, draft file ≤ 200KB (`validate.mjs` warns above this).
+- Split larger batches; publish sequentially.
 

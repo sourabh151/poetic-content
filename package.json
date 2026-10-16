@@ -7,7 +7,9 @@
   "scripts": {
     "next-id": "node scripts/next-id.mjs",
     "validate": "node scripts/validate.mjs",
-    "build-delta": "node scripts/build-delta.mjs"
+    "build-delta": "node scripts/build-delta.mjs",
+    "verify": "node scripts/verify.mjs",
+    "check": "node scripts/validate.mjs --new examples/poem_delta_example.json && node scripts/validate.mjs --new examples/cipher_delta_example.json && node scripts/verify.mjs"
   },
   "engines": {
     "node": ">=18"

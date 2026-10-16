@@ -144,7 +144,7 @@ Field rules above still apply; only the envelope changes.
 
 ```json
 {
-  "version": 11,
+  "version": 2,
   "poems": [
     {
       "id": "classic_00011",
@@ -172,16 +172,28 @@ Field rules above still apply; only the envelope changes.
   already in `title_author_keys` → ERROR
 - Same checks apply within a single draft batch.
 
-### Publish
-
-Append draft entries to a new `content/full/poems_full_v<to>.json`
-(copy previous full + append), then:
+### Publish (script builds the new full file — never hand-edit `content/full/`)
 
 ```bash
 node scripts/validate.mjs --new /tmp/draft.json
-node scripts/build-delta.mjs --type poems --to 11 --full content/full/poems_full_v11.json
+node scripts/build-delta.mjs --type poems --to 2 --new /tmp/draft.json
 ```
 
-`build-delta.mjs` writes the delta, updates `manifest.json`
-(`poemsVersion`, `poemsDeltas[]` with `sha256`) and bumps the registry.
-See `examples/poem_delta_example.json` for a complete valid entry.
+`build-delta.mjs --new` appends the draft to a new `content/full/poems_full_v<to>.json`
+itself (prev entries carried byte-identical, corrections applied by replacement),
+then writes the delta, updates `manifest.json` (`poemsVersion`, `poemsDeltas[]`
+with `sha256` + `size` + per-delta `minAppVersion`) and bumps the registry.
+See `examples/poem_delta_example.json` for a complete valid entry
+(doc id `classic_09999` — never publish the example as-is; reserve real ids).
+
+### Corrections (typo fixes, same id)
+
+Ship as `{"poems": [...new...], "poem_corrections": [{...same id, fixed body...}]}`.
+Correction ids must already be published; full schema still applies; a changed
+`title|author` must not collide with a different published poem. The app applies
+corrections with `REPLACE` (see `INTEGRATION.md`).
+
+### Batch limits (keep deltas cheap on mobile)
+
+- ≤ 50 new poems per draft, draft file ≤ 200KB (`validate.mjs` warns above this).
+- Split larger batches; publish sequentially (`--to 2`, then `--to 3`).

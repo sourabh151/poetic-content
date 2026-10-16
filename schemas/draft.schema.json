@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/sourabh151/poetic-content/schemas/draft.schema.json",
+  "title": "Contributor draft",
+  "description": "Draft file validated by scripts/validate.mjs and consumed by scripts/build-delta.mjs --new. poems/ciphers are new entries; *_corrections are same-id typo fixes for published entries.",
+  "type": "object",
+  "properties": {
+    "poems": {
+      "type": "array",
+      "maxItems": 50,
+      "items": { "$ref": "poem.schema.json" }
+    },
+    "poem_corrections": {
+      "type": "array",
+      "items": { "$ref": "poem.schema.json" }
+    },
+    "ciphers": {
+      "type": "array",
+      "maxItems": 100,
+      "items": { "$ref": "cipher.schema.json" }
+    },
+    "cipher_corrections": {
+      "type": "array",
+      "items": { "$ref": "cipher.schema.json" }
+    }
+  },
+  "anyOf": [
+    { "required": ["poems"] },
+    { "required": ["poem_corrections"] },
+    { "required": ["ciphers"] },
+    { "required": ["cipher_corrections"] }
+  ]
+}
