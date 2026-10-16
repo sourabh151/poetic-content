@@ -1,10 +1,42 @@
 {
-  "poemsVersion": 1,
-  "ciphersVersion": 1,
+  "poemsVersion": 3,
+  "ciphersVersion": 2,
   "minAppVersion": "1.0.0",
-  "updatedAt": "2026-10-07T00:00:00Z",
-  "poemsDeltas": [],
-  "ciphersDeltas": [],
+  "updatedAt": "2026-10-16T19:51:10.273Z",
+  "poemsDeltas": [
+    {
+      "from": 1,
+      "to": 2,
+      "url": "deltas/poems_v2.json",
+      "count": 25,
+      "corrections": 0,
+      "size": 45688,
+      "sha256": "026222ce06afd30c0a671228e388da9203206e85dfccccd68367376fcdd6d4cc",
+      "minAppVersion": "1.0.0"
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "url": "deltas/poems_v3.json",
+      "count": 25,
+      "corrections": 0,
+      "size": 86758,
+      "sha256": "845c4f77130dff1804692d8aa6c712e02e1b7f703aca8f93a98f0626fddef117",
+      "minAppVersion": "1.0.0"
+    }
+  ],
+  "ciphersDeltas": [
+    {
+      "from": 1,
+      "to": 2,
+      "url": "deltas/ciphers_v2.json",
+      "count": 50,
+      "corrections": 0,
+      "size": 26978,
+      "sha256": "de4b3f7fd9ba14682f5adf59e483620ba267be4a2a5609f2ecefe0848cf36d68",
+      "minAppVersion": "1.0.0"
+    }
+  ],
   "notes": {
     "en": "Seed v1: 10 poems and 100 ciphers bundled with the app."
   }
