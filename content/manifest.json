@@ -1,8 +1,8 @@
 {
-  "poemsVersion": 8,
+  "poemsVersion": 9,
   "ciphersVersion": 5,
   "minAppVersion": "1.0.0",
-  "updatedAt": "2026-10-17T05:21:35.350Z",
+  "updatedAt": "2026-10-17T05:28:21.427Z",
   "poemsDeltas": [
     {
       "from": 1,
@@ -72,6 +72,16 @@
       "corrections": 0,
       "size": 87275,
       "sha256": "33905b04c855eaf32e47a22812fb1cae9e44fec2b6e2a8cbfd0e3384b202c0a8",
+      "minAppVersion": "1.0.0"
+    },
+    {
+      "from": 8,
+      "to": 9,
+      "url": "deltas/poems_v9.json",
+      "count": 50,
+      "corrections": 0,
+      "size": 86327,
+      "sha256": "f0e9cbd43021c4daf16ffd01cee6ef5f972d3804194258a8af37304451938ad9",
       "minAppVersion": "1.0.0"
     }
   ],

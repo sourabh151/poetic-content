@@ -1,0 +1,2052 @@
+{
+  "version": 9,
+  "poems": [
+    {
+      "id": "classic_00261",
+      "title": "Sonnet 73: That time of year thou mayst in me behold",
+      "author": "William Shakespeare",
+      "difficulty": "medium",
+      "theme": "Aging & Love",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "That time of year thou mayst in me behold\nWhen yellow leaves, or none, or few, do hang\nUpon those boughs which shake against the cold,\nBare ruined choirs, where late the sweet birds sang.\nIn me thou see'st the twilight of such day\nAs after sunset fadeth in the west;\nWhich by and by black night doth take away,\nDeath's second self, that seals up all in rest.\nIn me thou see'st the glowing of such fire,\nThat on the ashes of his youth doth lie,\nAs the death-bed whereon it must expire,\nConsumed with that which it was nourished by.\n   This thou perceivest, which makes thy love more strong,\n   To love that well which thou must leave ere long."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "boughs",
+          "definition": "Main branches of a tree.",
+          "rhyme_hint": "cows, vows, plows"
+        },
+        {
+          "position": 2,
+          "correct_word": "twilight",
+          "definition": "The soft light after sunset.",
+          "rhyme_hint": "light, bright, flight"
+        },
+        {
+          "position": 3,
+          "correct_word": "expire",
+          "definition": "Come to an end; die.",
+          "rhyme_hint": "fire, higher, dire"
+        }
+      ],
+      "distractor_words": [
+        "leaves",
+        "cold",
+        "sunset",
+        "night",
+        "ashes",
+        "youth"
+      ]
+    },
+    {
+      "id": "classic_00262",
+      "title": "Sonnet 55: Not marble, nor the gilded monuments",
+      "author": "William Shakespeare",
+      "difficulty": "medium",
+      "theme": "Immortality of Verse",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Not marble, nor the gilded monuments\nOf princes, shall outlive this powerful rhyme;\nBut you shall shine more bright in these contents\nThan unswept stone, besmeared with sluttish time.\nWhen wasteful war shall statues overturn,\nAnd broils root out the work of masonry,\nNor Mars his sword nor war's quick fire shall burn\nThe living record of your memory.\n'Gainst death and all-oblivious enmity\nShall you pace forth; your praise shall still find room\nEven in the eyes of all posterity\nThat wear this world out to the ending doom.\n   So, till the judgment that yourself arise,\n   You live in this, and dwell in lovers' eyes."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "marble",
+          "definition": "A hard, veined stone used in sculpture.",
+          "rhyme_hint": "warble, garble"
+        },
+        {
+          "position": 2,
+          "correct_word": "masonry",
+          "definition": "Stonework built by a mason.",
+          "rhyme_hint": "fantasy, ecstasy"
+        },
+        {
+          "position": 3,
+          "correct_word": "posterity",
+          "definition": "All future generations.",
+          "rhyme_hint": "prosperity, sincerity"
+        }
+      ],
+      "distractor_words": [
+        "monuments",
+        "princes",
+        "statues",
+        "war",
+        "stone",
+        "eyes"
+      ]
+    },
+    {
+      "id": "classic_00263",
+      "title": "Sonnet 60: Like as the waves make towards the pebbled shore",
+      "author": "William Shakespeare",
+      "difficulty": "medium",
+      "theme": "Time & Mortality",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Like as the waves make towards the pebbled shore,\nSo do our minutes hasten to their end;\nEach changing place with that which goes before,\nIn sequent toil all forwards do contend.\nNativity, once in the main of light,\nCrawls to maturity, wherewith being crowned,\nCrooked eclipses 'gainst his glory fight,\nAnd Time that gave doth now his gift confound.\nTime doth transfix the flourish set on youth\nAnd delves the parallels in beauty's brow,\nFeeds on the rarities of nature's truth,\nAnd nothing stands but for his scythe to mow:\n   And yet to times in hope my verse shall stand,\n   Praising thy worth, despite his cruel hand."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "sequent",
+          "definition": "Following in order; successive.",
+          "rhyme_hint": "frequent, decent"
+        },
+        {
+          "position": 2,
+          "correct_word": "transfix",
+          "definition": "Pierce or make motionless.",
+          "rhyme_hint": "six, fix, sticks"
+        },
+        {
+          "position": 3,
+          "correct_word": "scythe",
+          "definition": "A tool with a long curved blade for mowing.",
+          "rhyme_hint": "tithe, writhe, blithe"
+        }
+      ],
+      "distractor_words": [
+        "waves",
+        "shore",
+        "minutes",
+        "youth",
+        "beauty",
+        "Time"
+      ]
+    },
+    {
+      "id": "classic_00264",
+      "title": "Blow, Blow, Thou Winter Wind",
+      "author": "William Shakespeare",
+      "difficulty": "easy",
+      "theme": "Ingratitude & Mirth",
+      "category": "Joy & Whimsy",
+      "poem_stanzas": [
+        "Blow, blow, thou winter wind,\nThou art not so unkind\nAs man's ingratitude;\nThy tooth is not so keen,\nBecause thou art not seen,\nAlthough thy breath be rude.",
+        "Heigh-ho! sing, heigh-ho! unto the green holly:\nMost friendship is feigning, most loving mere folly:\nThen, heigh-ho, the holly!\nThis life is most jolly.",
+        "Freeze, freeze, thou bitter sky,\nThat dost not bite so nigh\nAs benefits forgot:\nThough thou the waters warp,\nThy sting is not so sharp\nAs friend remember'd not.",
+        "Heigh-ho! sing, heigh-ho! unto the green holly:\nMost friendship is feigning, most loving mere folly:\nThen, heigh-ho, the holly!\nThis life is most jolly."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "ingratitude",
+          "definition": "Lack of gratitude; thanklessness.",
+          "rhyme_hint": "attitude, gratitude, solitude"
+        },
+        {
+          "position": 2,
+          "correct_word": "feigning",
+          "definition": "Pretending; simulating.",
+          "rhyme_hint": "raining, reigning, straining"
+        },
+        {
+          "position": 3,
+          "correct_word": "jolly",
+          "definition": "Cheerful and merry.",
+          "rhyme_hint": "holly, folly"
+        }
+      ],
+      "distractor_words": [
+        "winter",
+        "wind",
+        "tooth",
+        "breath",
+        "freeze",
+        "friendship"
+      ]
+    },
+    {
+      "id": "classic_00265",
+      "title": "Full Fathom Five",
+      "author": "William Shakespeare",
+      "difficulty": "medium",
+      "theme": "Death & the Sea",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "Full fathom five thy father lies;\nOf his bones are coral made;\nThose are pearls that were his eyes:\nNothing of him that doth fade,\nBut doth suffer a sea-change\nInto something rich and strange.\nSea-nymphs hourly ring his knell:\nDing-dong.\nHark! now I hear them—Ding-dong, bell."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "fathom",
+          "definition": "A unit of depth for measuring water.",
+          "rhyme_hint": "atom, phantom"
+        },
+        {
+          "position": 2,
+          "correct_word": "pearls",
+          "definition": "Precious gems formed in oysters.",
+          "rhyme_hint": "girls, curls, swirls"
+        },
+        {
+          "position": 3,
+          "correct_word": "knell",
+          "definition": "The sound of a bell rung for a death.",
+          "rhyme_hint": "bell, well, tell"
+        }
+      ],
+      "distractor_words": [
+        "bones",
+        "coral",
+        "eyes",
+        "sea",
+        "nymphs",
+        "father"
+      ]
+    },
+    {
+      "id": "classic_00266",
+      "title": "The Good-Morrow",
+      "author": "John Donne",
+      "difficulty": "hard",
+      "theme": "Awakening Love",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "I wonder, by my troth, what thou and I\nDid, till we loved? were we not weaned till then?\nBut sucked on country pleasures, childishly?\nOr snorted we in the Seven Sleepers' den?\n'Twas so; but this, all pleasures fancies be.\nIf ever any beauty I did see,\nWhich I desired, and got, 'twas but a dream of thee.",
+        "And now good-morrow to our waking souls,\nWhich watch not one another out of fear;\nFor love, all love of other sights controls,\nAnd makes one little room an everywhere.\nLet sea-discoverers to new worlds have gone,\nLet maps to other, worlds on worlds have shown,\nLet us possess one world, each hath one, and is one.",
+        "My face in thine eye, thine in mine appears,\nAnd true plain hearts do in the faces rest;\nWhere can we find two better hemispheres,\nWithout sharp north, without declining west?\nWhatever dies, was not mixed equally;\nIf our two loves be one, or, thou and I\nLove so alike, that none do slacken, none can die."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "troth",
+          "definition": "Faithfulness; a pledged promise.",
+          "rhyme_hint": "both, growth, oath"
+        },
+        {
+          "position": 2,
+          "correct_word": "hemispheres",
+          "definition": "Halves of a sphere or globe.",
+          "rhyme_hint": "spheres, peers, careers"
+        },
+        {
+          "position": 3,
+          "correct_word": "slacken",
+          "definition": "Loosen or become less intense.",
+          "rhyme_hint": "blacken, bracken, waken"
+        }
+      ],
+      "distractor_words": [
+        "love",
+        "dream",
+        "soul",
+        "world",
+        "hearts",
+        "face"
+      ]
+    },
+    {
+      "id": "classic_00267",
+      "title": "The Sun Rising",
+      "author": "John Donne",
+      "difficulty": "hard",
+      "theme": "Love & the Cosmos",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "Busy old fool, unruly sun,\nWhy dost thou thus,\nThrough windows, and through curtains call on us?\nMust to thy motions lovers' seasons run?\nSaucy pedantic wretch, go chide\nLate school-boys, and sour prentices,\nGo tell court-huntsmen that the king will ride,\nCall country ants to harvest offices;\nLove, all alike, no season knows, nor clime,\nNor hours, days, months, which are the rags of time.",
+        "Thy beams, so reverend and strong\nWhy shouldst thou think?\nI could eclipse and cloud them with a wink,\nBut that I would not lose her sight so long;\nIf her eyes have not blinded thine,\nLook, and to-morrow late, tell me,\nWhether both th' Indias of spice and mine\nBe where thou leftst them, or lie here with me.\nAsk for those kings whom thou saw'st yesterday,\nAnd thou shalt hear, All here in one bed lay.",
+        "She's all states, and all princes I,\nNothing else is.\nPrinces do but play us; compared to this,\nAll honour's mimic, all wealth alchemy.\nThou, sun, art half as happy as we,\nIn that the world's contracted thus.\nThine age asks ease, and since thy duties be\nTo warm the world, that's done in warming us.\nShine here to us, and thou art everywhere;\nThis bed thy centre is, these walls, thy sphere."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "pedantic",
+          "definition": "Overly concerned with formal rules.",
+          "rhyme_hint": "frantic, romantic, atlantic"
+        },
+        {
+          "position": 2,
+          "correct_word": "alchemy",
+          "definition": "The medieval quest to turn base metal into gold.",
+          "rhyme_hint": "chemistry, symmetry"
+        },
+        {
+          "position": 3,
+          "correct_word": "sphere",
+          "definition": "A perfectly round three-dimensional shape.",
+          "rhyme_hint": "here, near, clear"
+        }
+      ],
+      "distractor_words": [
+        "sun",
+        "windows",
+        "kings",
+        "beams",
+        "world",
+        "bed"
+      ]
+    },
+    {
+      "id": "classic_00268",
+      "title": "A Valediction: Forbidding Mourning",
+      "author": "John Donne",
+      "difficulty": "hard",
+      "theme": "Parting & Spiritual Love",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "As virtuous men pass mildly away,\nAnd whisper to their souls to go,\nWhilst some of their sad friends do say\nThe breath goes now, and some say, no:",
+        "So let us melt, and make no noise,\nNo tear-floods, nor sigh-tempests move;\n'Twere profanation of our joys\nTo tell the laity our love.",
+        "Moving of th' earth brings harms and fears,\nMen reckon what it did, and meant;\nBut trepidation of the spheres,\nThough greater far, is innocent.",
+        "Dull sublunary lovers' love\n(Whose soul is sense) cannot admit\nAbsence, because it doth remove\nThose things which elemented it.",
+        "But we by a love so much refined,\nThat our selves know not what it is,\nInter-assured of the mind,\nCare less, eyes, lips, and hands to miss.",
+        "Our two souls therefore, which are one,\nThough I must go, endure not yet\nA breach, but an expansion,\nLike gold to airy thinness beat.",
+        "If they be two, they are two so\nAs stiff twin compasses are two;\nThy soul, the fixed foot, makes no show\nTo move, but doth, if th' other do.",
+        "And though it in the center sit,\nYet when the other far doth roam,\nIt leans and hearkens after it,\nAnd grows erect, as that comes home.",
+        "Such wilt thou be to me, who must,\nLike th' other foot, obliquely run;\nThy firmness makes my circle just,\nAnd makes me end where I begun."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "trepidation",
+          "definition": "A feeling of fear or agitation.",
+          "rhyme_hint": "foundation, aberration"
+        },
+        {
+          "position": 2,
+          "correct_word": "sublunary",
+          "definition": "Belonging to the earth, beneath the moon.",
+          "rhyme_hint": "ordinary, adversary"
+        },
+        {
+          "position": 3,
+          "correct_word": "obliquely",
+          "definition": "In a slanting or indirect manner.",
+          "rhyme_hint": "directly, correctly"
+        }
+      ],
+      "distractor_words": [
+        "souls",
+        "friends",
+        "tears",
+        "gold",
+        "compass",
+        "circle"
+      ]
+    },
+    {
+      "id": "classic_00269",
+      "title": "On My First Son",
+      "author": "Ben Jonson",
+      "difficulty": "medium",
+      "theme": "Grief & Fatherhood",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Farewell, thou child of my right hand, and joy;\nMy sin was too much hope of thee, loved boy.\nSeven years thou wert lent to me, and I thee pay,\nExacted by thy fate, on the just day.\nO, could I lose all father now! For why\nWill man lament the state he should envy?\nTo have so soon 'scaped world's and flesh's rage,\nAnd if no other misery, yet age!\nRest in soft peace, and, asked, say, Here doth lie\nBen Jonson his best piece of poetry.\nFor whose sake henceforth all his vows be such\nAs what he loves may never like too much."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "lament",
+          "definition": "Express deep grief or sorrow.",
+          "rhyme_hint": "content, spent, went"
+        },
+        {
+          "position": 2,
+          "correct_word": "exacted",
+          "definition": "Demanded and taken by force.",
+          "rhyme_hint": "acted, distracted, attracted"
+        },
+        {
+          "position": 3,
+          "correct_word": "poetry",
+          "definition": "Literary work written in verse.",
+          "rhyme_hint": "merry, cherry"
+        }
+      ],
+      "distractor_words": [
+        "child",
+        "joy",
+        "hope",
+        "fate",
+        "peace",
+        "flesh"
+      ]
+    },
+    {
+      "id": "classic_00270",
+      "title": "Still to Be Neat",
+      "author": "Ben Jonson",
+      "difficulty": "medium",
+      "theme": "Simplicity & Beauty",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "Still to be neat, still to be dressed,\nAs you were going to a feast;\nStill to be powdered, still perfumed:\nLady, it is to be presumed,\nThough art's hid causes are not found,\nAll is not sweet, all is not sound.",
+        "Give me a look, give me a face,\nThat makes simplicity a grace;\nRobes loosely flowing, hair as free:\nSuch sweet neglect more taketh me\nThan all th' adulteries of art;\nThey strike mine eyes, but not my heart."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "powdered",
+          "definition": "Dusted with powder, as the face or hair.",
+          "rhyme_hint": "dowered, soured, cowered"
+        },
+        {
+          "position": 2,
+          "correct_word": "simplicity",
+          "definition": "The quality of being plain and uncomplicated.",
+          "rhyme_hint": "duplicity, complicity"
+        },
+        {
+          "position": 3,
+          "correct_word": "adulteries",
+          "definition": "Acts of adultery; corruptions.",
+          "rhyme_hint": "mysteries, batteries"
+        }
+      ],
+      "distractor_words": [
+        "feast",
+        "perfume",
+        "grace",
+        "robes",
+        "art",
+        "eyes"
+      ]
+    },
+    {
+      "id": "classic_00271",
+      "title": "To Daffodils",
+      "author": "Robert Herrick",
+      "difficulty": "medium",
+      "theme": "Transience of Life",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Fair Daffodils, we weep to see\nYou haste away so soon;\nAs yet the early-rising sun\nHas not attained his noon.\nStay, stay,\nUntil the hasting day\nHas run\nBut to the even-song;\nAnd, having prayed together, we\nWill go with you along.",
+        "We have short time to stay, as you,\nWe have as short a spring;\nAs quick a growth to meet decay,\nAs you, or anything.\nWe die\nAs your hours do, and dry\nAway,\nLike to the summer's rain;\nOr as the pearls of morning's dew,\nNe'er to be found again."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "attained",
+          "definition": "Reached or achieved.",
+          "rhyme_hint": "sustained, contained, remained"
+        },
+        {
+          "position": 2,
+          "correct_word": "decay",
+          "definition": "Rot or decline.",
+          "rhyme_hint": "away, day, way"
+        },
+        {
+          "position": 3,
+          "correct_word": "pearls",
+          "definition": "Precious gems formed in oysters.",
+          "rhyme_hint": "girls, curls, swirls"
+        }
+      ],
+      "distractor_words": [
+        "daffodils",
+        "spring",
+        "noon",
+        "rain",
+        "dew",
+        "hours"
+      ]
+    },
+    {
+      "id": "classic_00272",
+      "title": "The Night-Piece, to Julia",
+      "author": "Robert Herrick",
+      "difficulty": "medium",
+      "theme": "Night & Devotion",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "Her eyes the glow-worm lend thee,\nThe shooting stars attend thee;\nAnd the elves also,\nWhose little eyes glow\nLike the sparks of fire, befriend thee.",
+        "No Will-o'-the-wisp mislight thee,\nNor snake or slow-worm bite thee;\nBut on, on thy way,\nNot making a stay,\nSince ghost there's none to affright thee.",
+        "Let not the dark thee cumber;\nWhat though the moon does slumber?\nThe stars of the night\nWill lend thee their light,\nLike tapers clear without number.",
+        "Then, Julia, let me woo thee,\nThus, thus to come unto me;\nAnd when I shall meet\nThy silv'ry feet,\nMy soul I'll pour into thee."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "glow-worm",
+          "definition": "A beetle that emits a green light at night.",
+          "rhyme_hint": "swarm, warm"
+        },
+        {
+          "position": 2,
+          "correct_word": "slumber",
+          "definition": "Sleep; a state of rest.",
+          "rhyme_hint": "number, lumber, cumber"
+        },
+        {
+          "position": 3,
+          "correct_word": "tapers",
+          "definition": "Thin candles.",
+          "rhyme_hint": "capers, drapers, papers"
+        }
+      ],
+      "distractor_words": [
+        "elves",
+        "stars",
+        "moon",
+        "fire",
+        "ghost",
+        "light"
+      ]
+    },
+    {
+      "id": "classic_00273",
+      "title": "Redemption",
+      "author": "George Herbert",
+      "difficulty": "hard",
+      "theme": "Divine Grace",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "Having been tenant long to a rich Lord,\n   Not thriving, I resolved to be bold,\n   And make a suit unto him, to afford\nA new small-rented lease, and cancel th' old.\nIn heaven at his manor I him sought:\n   They told me there, that he was lately gone\n   About some land, which he had dearly bought\nLong since on earth, to take possession.\nI straight returned, and knowing his great birth,\n   Sought him accordingly in great resorts;\n   In cities, theatres, gardens, parks, and courts:\nAt length I heard a ragged noise and mirth\n   Of thieves and murderers: there I him espied,\n   Who straight, Your suit is granted, said, and died."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "tenant",
+          "definition": "One who rents land or property.",
+          "rhyme_hint": "penitent, permanent"
+        },
+        {
+          "position": 2,
+          "correct_word": "lease",
+          "definition": "A contract to rent property.",
+          "rhyme_hint": "peace, cease, grease"
+        },
+        {
+          "position": 3,
+          "correct_word": "espied",
+          "definition": "Caught sight of; saw.",
+          "rhyme_hint": "died, cried, tried"
+        }
+      ],
+      "distractor_words": [
+        "heaven",
+        "manor",
+        "cities",
+        "gardens",
+        "thieves",
+        "mirth"
+      ]
+    },
+    {
+      "id": "classic_00274",
+      "title": "The Collar",
+      "author": "George Herbert",
+      "difficulty": "hard",
+      "theme": "Rebellion & Submission",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "I struck the board, and cried, \"No more;\n   I will abroad!\nWhat? shall I ever sigh and pine?\nMy lines and life are free; free as the road,\n   Loose as the wind, as large as store.\n      Shall I be still in suit?\n   Have I no harvest but a thorn\n   To let me blood, and not restore\nWhat I have lost with cordial fruit?\n      Sure there was wine\n   Before my sighs did dry it: there was corn\n   Before my tears did drown it.\n      Is the year only lost to me?\n      Have I no bays to crown it,\nNo flowers, no garlands gay? all blasted?\n      All wasted?\n   Not so, my heart: but there is fruit,\n   And thou hast hands.\n   Recover all thy sigh-blown age\nOn double pleasures: leave thy cold dispute\nOf what is fit and not. Forsake thy cage,\n   Thy rope of sands,\nWhich petty thoughts have made, and made to thee\nGood cable, to enforce and draw,\n   And be thy law,\n   While thou didst wink and wouldst not see.\n      Away! take heed;\n   I will abroad.\nCall in thy death's-head there; tie up thy fears;\n   He that forbears\n   To suit and serve his need\n   Deserves his load.\"\nBut as I raved and grew more fierce and wild\n   At every word,\nMethought I heard one calling, Child!\n   And I replied, My Lord."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "cordial",
+          "definition": "Warm and friendly; restorative.",
+          "rhyme_hint": "ordinal, marginal"
+        },
+        {
+          "position": 2,
+          "correct_word": "blasted",
+          "definition": "Withered or destroyed.",
+          "rhyme_hint": "lasted, fasted, tasted"
+        },
+        {
+          "position": 3,
+          "correct_word": "forbears",
+          "definition": "Refrains or abstains from.",
+          "rhyme_hint": "wears, bears, shares"
+        }
+      ],
+      "distractor_words": [
+        "cage",
+        "rope",
+        "fruit",
+        "tears",
+        "heart",
+        "wine"
+      ]
+    },
+    {
+      "id": "classic_00275",
+      "title": "The Mower to the Glow-Worms",
+      "author": "Andrew Marvell",
+      "difficulty": "medium",
+      "theme": "Nature & Lost Love",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "Ye living lamps, by whose dear light\nThe nightingale does sit so late,\nAnd studying all the summer night,\nHer matchless songs does meditate;",
+        "Ye country comets, that portend\nNo war nor prince's funeral,\nShining unto no higher end\nThan to presage the grass's fall;",
+        "Ye glow-worms, whose officious flame\nTo wand'ring mowers shows the way,\nThat in the night have lost their aim,\nAnd after foolish fires do stray;",
+        "Your courteous lights in vain you waste,\nSince Juliana here is come,\nFor she my mind hath so displac'd\nThat I shall never find my home."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "meditate",
+          "definition": "Think deeply or focus the mind.",
+          "rhyme_hint": "hesitate, estimate"
+        },
+        {
+          "position": 2,
+          "correct_word": "portend",
+          "definition": "Be a sign or warning of.",
+          "rhyme_hint": "attend, depend, mend"
+        },
+        {
+          "position": 3,
+          "correct_word": "officious",
+          "definition": "Eager to please or meddle; dutiful.",
+          "rhyme_hint": "precious, suspicious, ambitious"
+        }
+      ],
+      "distractor_words": [
+        "lamps",
+        "nightingale",
+        "comets",
+        "mowers",
+        "glow",
+        "home"
+      ]
+    },
+    {
+      "id": "classic_00276",
+      "title": "The Grasshopper",
+      "author": "Richard Lovelace",
+      "difficulty": "hard",
+      "theme": "Summer & Friendship",
+      "category": "Joy & Whimsy",
+      "poem_stanzas": [
+        "O thou that swing'st upon the waving hair\n   Of some well-filled oaten beard,\nDrunk every night with a delicious tear\n   Dropped thee from heaven, where now thou art reared;",
+        "The joys of earth and air are thine entire,\n   That with thy feet and wings dost hop and fly;\nAnd when thy poppy works thou dost retire\n   To thy carved acorn-bed to lie.",
+        "Up with the day, the sun thou welcom'st then,\n   Sport'st in the gilt-plats of his beams,\nAnd all these merry days mak'st merry men,\n   Thyself, and melancholy streams.",
+        "But ah, the sickle! golden ears are cropped;\n   Ceres and Bacchus bid good night;\nSharp frosty fingers all your flowers have topped,\n   And what scythes spared, winds shave off quite.",
+        "Poor verdant fool! and now green ice! thy joys,\n   Large and as lasting as thy perch of grass,\nBid us lay in 'gainst winter, rain, and noise,\n   And poise their broken legs with glass.",
+        "Thou best of men and friends! we will create\n   A genuine summer in each other's breast;\nAnd spite of this cold time and frozen fate,\n   Thaw us a warm seat to our rest.",
+        "Our sacred hearths shall burn eternally\n   As vestal flames; the North Wind, he\nShall strike his frost-stretched wings, dissolve, and fly\n   This Etna in epitome.",
+        "Dropping December shall come weeping in,\n   Bewail th' usurping of his reign;\nBut when in showers of old Greek we begin,\n   Shall cry he hath his crown again.",
+        "Night as clear Hesper shall our tapers whip\n   From the light casements where we play,\nAnd the dark hag, from her black mantle, strip,\n   And stick there everlasting day."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "oaten",
+          "definition": "Made of oats, as a straw or pipe.",
+          "rhyme_hint": "wheaten, beaten, sweeten"
+        },
+        {
+          "position": 2,
+          "correct_word": "poppy",
+          "definition": "A flower that yields a sleep-inducing drug.",
+          "rhyme_hint": "happy, sappy, choppy"
+        },
+        {
+          "position": 3,
+          "correct_word": "Hesper",
+          "definition": "The evening star; the west.",
+          "rhyme_hint": "vesper, crisper"
+        }
+      ],
+      "distractor_words": [
+        "grass",
+        "fields",
+        "sickle",
+        "frost",
+        "winter",
+        "summer"
+      ]
+    },
+    {
+      "id": "classic_00277",
+      "title": "Why So Pale and Wan, Fond Lover?",
+      "author": "John Suckling",
+      "difficulty": "easy",
+      "theme": "Foolish Love",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "Why so pale and wan, fond lover?\n   Prithee, why so pale?\nWill, when looking well can't move her,\n   Looking ill prevail?\n   Prithee, why so pale?",
+        "Why so dull and mute, young sinner?\n   Prithee, why so mute?\nWill, when speaking well can't win her,\n   Saying nothing do't?\n   Prithee, why so mute?",
+        "Quit, quit for shame! This will not move;\n   This cannot take her.\nIf of herself she will not love,\n   Nothing can make her:\n   The devil take her!"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "wan",
+          "definition": "Pale and sickly.",
+          "rhyme_hint": "man, fan, tan"
+        },
+        {
+          "position": 2,
+          "correct_word": "prevail",
+          "definition": "Prove more powerful; win.",
+          "rhyme_hint": "fail, gale, scale"
+        },
+        {
+          "position": 3,
+          "correct_word": "sinner",
+          "definition": "One who commits a sin.",
+          "rhyme_hint": "winner, dinner, thinner"
+        }
+      ],
+      "distractor_words": [
+        "lover",
+        "pale",
+        "mute",
+        "shame",
+        "love",
+        "devil"
+      ]
+    },
+    {
+      "id": "classic_00278",
+      "title": "Sonnet 31: With How Sad Steps, O Moon",
+      "author": "Philip Sidney",
+      "difficulty": "hard",
+      "theme": "Love & the Moon",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "With how sad steps, O Moon, thou climb'st the skies!\n   How silently, and with how wan a face!\nWhat, may it be that even in heav'nly place\n   That busy archer his sharp arrows tries!\nSure, if that long-with-love-acquainted eyes\n   Can judge of love, thou feel'st a lover's case,\n   I read it in thy looks; thy languish'd grace,\nTo me, that feel the like, thy state descries.\nThen, ev'n of fellowship, O Moon, tell me,\n   Is constant love deem'd there but want of wit?\n   Are beauties there as proud as here they be?\nDo they above love to be loved, and yet\n   Those lovers scorn whom that love doth possess?\n   Do they call virtue there ungratefulness?"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "fellowship",
+          "definition": "Companionship; shared feeling.",
+          "rhyme_hint": "worship, courtship, hardship"
+        },
+        {
+          "position": 2,
+          "correct_word": "languish'd",
+          "definition": "Grown weak or pining.",
+          "rhyme_hint": "anguished, distinguished"
+        },
+        {
+          "position": 3,
+          "correct_word": "possess",
+          "definition": "Have and own; hold.",
+          "rhyme_hint": "excess, distress, confess"
+        }
+      ],
+      "distractor_words": [
+        "Moon",
+        "skies",
+        "love",
+        "beauties",
+        "virtue",
+        "arrows"
+      ]
+    },
+    {
+      "id": "classic_00279",
+      "title": "My True Love Hath My Heart",
+      "author": "Philip Sidney",
+      "difficulty": "easy",
+      "theme": "Exchange of Hearts",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "My true love hath my heart, and I have his,\nBy just exchange one for another given:\nI hold his dear, and mine he cannot miss,\nThere never was a better bargain driven:\n   My true love hath my heart, and I have his.",
+        "His heart in me keeps him and me in one,\nMy heart in him his thoughts and senses guides:\nHe loves my heart, for once it was his own,\nI cherish his because in me it bides:\n   My true love hath my heart, and I have his."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "bargain",
+          "definition": "An agreement or a good deal.",
+          "rhyme_hint": "margin, pigeon"
+        },
+        {
+          "position": 2,
+          "correct_word": "senses",
+          "definition": "Faculties of sight, hearing, touch, and the rest.",
+          "rhyme_hint": "fences, tenses, chances"
+        },
+        {
+          "position": 3,
+          "correct_word": "bides",
+          "definition": "Remains or waits.",
+          "rhyme_hint": "hides, tides, slides"
+        }
+      ],
+      "distractor_words": [
+        "heart",
+        "exchange",
+        "thoughts",
+        "love",
+        "dear",
+        "guides"
+      ]
+    },
+    {
+      "id": "classic_00280",
+      "title": "Sonnet 75: One Day I Wrote Her Name",
+      "author": "Edmund Spenser",
+      "difficulty": "medium",
+      "theme": "Love & Immortality",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "One day I wrote her name upon the strand,\n   But came the waves and washed it away:\n   Again I wrote it with a second hand,\nBut came the tide, and made my pains his prey.\nVain man, said she, that doest in vain assay,\n   A mortal thing so to immortalize,\n   For I myself shall like to this decay,\nAnd eek my name be wiped out likewise.\nNot so (quoth I), let baser things devise\n   To die in dust, but you shall live by fame:\n   My verse your virtues rare shall eternize,\nAnd in the heavens write your glorious name.\n   Where whenas death shall all the world subdue,\n   Our love shall live, and later life renew."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "strand",
+          "definition": "The shore of a sea or lake.",
+          "rhyme_hint": "hand, sand, land"
+        },
+        {
+          "position": 2,
+          "correct_word": "immortalize",
+          "definition": "Make famous forever.",
+          "rhyme_hint": "realize, moralize, idolize"
+        },
+        {
+          "position": 3,
+          "correct_word": "eternize",
+          "definition": "Make eternal; preserve forever.",
+          "rhyme_hint": "sermonize, harmonize"
+        }
+      ],
+      "distractor_words": [
+        "name",
+        "waves",
+        "tide",
+        "dust",
+        "fame",
+        "verse"
+      ]
+    },
+    {
+      "id": "classic_00281",
+      "title": "Since There's No Help",
+      "author": "Michael Drayton",
+      "difficulty": "medium",
+      "theme": "Parting & Last Hope",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "Since there's no help, come let us kiss and part.\nNay, I have done, you get no more of me;\nAnd I am glad, yea glad with all my heart,\nThat thus so cleanly I myself can free.\nShake hands for ever, cancel all our vows,\nAnd when we meet at any time again,\nBe it not seen in either of our brows\nThat we one jot of former love retain.\nNow at the last gasp of Love's latest breath,\nWhen, his pulse failing, Passion speechless lies,\nWhen Faith is kneeling by his bed of death,\nAnd Innocence is closing up his eyes,\nNow if thou wouldst, when all have given him over,\nFrom death to life thou mightst him yet recover."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "jot",
+          "definition": "A very small amount.",
+          "rhyme_hint": "not, plot, spot"
+        },
+        {
+          "position": 2,
+          "correct_word": "kneeling",
+          "definition": "Resting on the knees.",
+          "rhyme_hint": "feeling, dealing, healing"
+        },
+        {
+          "position": 3,
+          "correct_word": "recover",
+          "definition": "Return to health or a former state.",
+          "rhyme_hint": "discover, cover, lover"
+        }
+      ],
+      "distractor_words": [
+        "kiss",
+        "vows",
+        "brows",
+        "breath",
+        "death",
+        "eyes"
+      ]
+    },
+    {
+      "id": "classic_00282",
+      "title": "To a Mouse",
+      "author": "Robert Burns",
+      "difficulty": "hard",
+      "theme": "Nature & Fellow Mortals",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Wee, sleekit, cowrin, tim'rous beastie,\nO, what a panic's in thy breastie!\nThou need na start awa sae hasty,\n          Wi' bickering brattle!\nI wad be laith to rin an' chase thee,\n          Wi' murd'ring pattle!",
+        "I'm truly sorry man's dominion\nHas broken Nature's social union,\nAn' justifies that ill opinion\n          Which makes thee startle\nAt me, thy poor, earth-born companion,\n          An' fellow-mortal!",
+        "I doubt na, whiles, but thou may thieve;\nWhat then? poor beastie, thou maun live!\nA daimen icker in a thrave\n          'S a sma' request;\nI'll get a blessin wi' the lave,\n          An' never miss't!",
+        "Thy wee bit housie, too, in ruin!\nIts silly wa's the win's are strewin!\nAn' naething, now, to big a new ane,\n          O' foggage green!\nAn' bleak December's winds ensuin,\n          Baith snell an' keen!",
+        "Thou saw the fields laid bare an' waste,\nAn' weary winter comin fast,\nAn' cozie here, beneath the blast,\n          Thou thought to dwell—\nTill crash! the cruel coulter past\n          Out thro' thy cell.",
+        "That wee bit heap o' leaves an' stibble\nHas cost thee mony a weary nibble!\nNow thou's turn'd out, for a' thy trouble,\n          But house or hald,\nTo thole the winter's sleety dribble,\n          An' cranreuch cauld!",
+        "But, Mousie, thou art no thy-lane,\nIn proving foresight may be vain;\nThe best-laid schemes o' mice an' men\n          Gang aft agley,\nAn' lea'e us nought but grief an' pain,\n          For promis'd joy!",
+        "Still thou art blest, compar'd wi' me\nThe present only toucheth thee:\nBut, Och! I backward cast my e'e\n          On prospects drear!\nAn' forward, tho' I canna see,\n          I guess an' fear!"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "sleekit",
+          "definition": "Smooth and glossy; sly (Scots).",
+          "rhyme_hint": "cheeky, sneaky"
+        },
+        {
+          "position": 2,
+          "correct_word": "stibble",
+          "definition": "Stubble; the cut stalks of grain (Scots).",
+          "rhyme_hint": "nibble, dribble, thimble"
+        },
+        {
+          "position": 3,
+          "correct_word": "agley",
+          "definition": "Awry; off course (Scots).",
+          "rhyme_hint": "away, grey, say"
+        }
+      ],
+      "distractor_words": [
+        "beastie",
+        "winter",
+        "fields",
+        "schemes",
+        "grief",
+        "joy"
+      ]
+    },
+    {
+      "id": "classic_00283",
+      "title": "A Man's a Man for A' That",
+      "author": "Robert Burns",
+      "difficulty": "hard",
+      "theme": "Equality & Worth",
+      "category": "War & Society",
+      "poem_stanzas": [
+        "Is there for honest poverty\n   That hings his head, an' a' that?\nThe coward slave, we pass him by,\n   We dare be poor for a' that!\n      For a' that, an' a' that,\n      Our toils obscure, an' a' that;\n      The rank is but the guinea's stamp,\n      The man's the gowd for a' that.",
+        "What tho' on hamely fare we dine,\n   Wear hodden-grey, an' a' that?\nGie fools their silks, and knaves their wine,\n   A man's a man for a' that!\n      For a' that, an' a' that,\n      Their tinsel show, an' a' that;\n      The honest man, tho' e'er sae poor,\n      Is king o' men for a' that.",
+        "Ye see yon birkie ca'd a lord,\n   Wha struts, an' stares, an' a' that?\nTho' hundreds worship at his word,\n   He's but a coof for a' that.\n      For a' that, an' a' that,\n      His ribband, star, an' a' that,\n      The man o' independent mind\n      He looks an' laughs at a' that.",
+        "A prince can mak a belted knight,\n   A marquis, duke, an' a' that!\nBut an honest man's aboon his might—\n   Guid faith, he mauna fa' that!\n      For a' that, an' a' that,\n      Their dignities, an' a' that,\n      The pith o' sense, an' pride o' worth,\n      Are higher rank than a' that.",
+        "Then let us pray that come it may,\n   As come it will for a' that,\nThat sense and worth, o'er a' the earth,\n   Shall bear the gree, an' a' that.\n      For a' that, an' a' that,\n      It's comin yet for a' that,\n      That man to man, the world o'er,\n      Shall brothers be for a' that!"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "gowd",
+          "definition": "Gold (Scots).",
+          "rhyme_hint": "loud, proud, crowd"
+        },
+        {
+          "position": 2,
+          "correct_word": "hodden-grey",
+          "definition": "A coarse grey woollen cloth (Scots).",
+          "rhyme_hint": "away, day, play"
+        },
+        {
+          "position": 3,
+          "correct_word": "coof",
+          "definition": "A fool or dolt (Scots).",
+          "rhyme_hint": "goof, roof, hoof"
+        }
+      ],
+      "distractor_words": [
+        "honest",
+        "poverty",
+        "lord",
+        "prince",
+        "rank",
+        "brothers"
+      ]
+    },
+    {
+      "id": "classic_00284",
+      "title": "John Anderson My Jo",
+      "author": "Robert Burns",
+      "difficulty": "medium",
+      "theme": "Age & Lifelong Love",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "John Anderson my jo, John,\nWhen we were first acquent,\nYour locks were like the raven,\nYour bonie brow was brent;\nBut now your brow is beld, John,\nYour locks are like the snaw;\nBut blessings on your frosty pow,\nJohn Anderson my jo.",
+        "John Anderson my jo, John,\nWe clamb the hill thegither;\nAnd mony a canty day, John,\nWe've had wi' ane anither:\nNow we maun totter down, John,\nAnd hand in hand we'll go,\nAnd sleep thegither at the foot,\nJohn Anderson my jo."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "acquent",
+          "definition": "Acquainted (Scots).",
+          "rhyme_hint": "spent, went, rent"
+        },
+        {
+          "position": 2,
+          "correct_word": "snaw",
+          "definition": "Snow (Scots).",
+          "rhyme_hint": "awe, draw, law"
+        },
+        {
+          "position": 3,
+          "correct_word": "thegither",
+          "definition": "Together (Scots).",
+          "rhyme_hint": "whither, thither, hither"
+        }
+      ],
+      "distractor_words": [
+        "locks",
+        "raven",
+        "brow",
+        "hill",
+        "sleep",
+        "hand"
+      ]
+    },
+    {
+      "id": "classic_00285",
+      "title": "Believe Me, If All Those Endearing Young Charms",
+      "author": "Thomas Moore",
+      "difficulty": "medium",
+      "theme": "Enduring Love",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "Believe me, if all those endearing young charms,\n   Which I gaze on so fondly to-day,\nWere to change by to-morrow, and fleet in my arms,\n   Like fairy-gifts fading away,\nThou wouldst still be ador'd, as this moment thou art,\n   Let thy loveliness fade as it will,\nAnd around the dear ruin each wish of my heart\n   Would entwine itself verdantly still.",
+        "It is not while beauty and youth are thine own,\n   And thy cheeks unprofan'd by a tear,\nThat the fervour and faith of a soul can be known,\n   To which time will but make thee more dear;\nNo, the heart that has truly lov'd never forgets,\n   But as truly loves on to the close,\nAs the sun-flower turns on her god, when he sets,\n   The same look which she turn'd when he rose."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "fleet",
+          "definition": "Pass or move swiftly away.",
+          "rhyme_hint": "sweet, meet, street"
+        },
+        {
+          "position": 2,
+          "correct_word": "verdantly",
+          "definition": "In a green or fresh manner.",
+          "rhyme_hint": "ardently, blatantly"
+        },
+        {
+          "position": 3,
+          "correct_word": "profan'd",
+          "definition": "Made unholy; desecrated.",
+          "rhyme_hint": "stained, chained, drained"
+        }
+      ],
+      "distractor_words": [
+        "charms",
+        "beauty",
+        "youth",
+        "tear",
+        "faith",
+        "sun-flower"
+      ]
+    },
+    {
+      "id": "classic_00286",
+      "title": "Oft, in the Stilly Night",
+      "author": "Thomas Moore",
+      "difficulty": "medium",
+      "theme": "Memory & Loss",
+      "category": "Mind & Solitude",
+      "poem_stanzas": [
+        "Oft, in the stilly night,\n   Ere slumber's chain has bound me,\nFond Memory brings the light\n   Of other days around me;\n      The smiles, the tears,\n      Of boyhood's years,\n   The words of love then spoken;\n      The eyes that shone,\n      Now dimm'd and gone,\n   The cheerful hearts now broken!\nThus, in the stilly night,\n   Ere slumber's chain has bound me,\nSad Memory brings the light\n   Of other days around me.",
+        "When I remember all\n   The friends, so link'd together,\nI've seen around me fall,\n   Like leaves in wintry weather;\n      I feel like one\n      Who treads alone\n   Some banquet-hall deserted,\n      Whose lights are fled,\n      Whose garlands dead,\n   And all but he departed!\nThus, in the stilly night,\n   Ere slumber's chain has bound me,\nSad Memory brings the light\n   Of other days around me."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "stilly",
+          "definition": "Quietly; in a still manner.",
+          "rhyme_hint": "chilly, silly"
+        },
+        {
+          "position": 2,
+          "correct_word": "banquet-hall",
+          "definition": "A large room for feasting.",
+          "rhyme_hint": "fall, all, call"
+        },
+        {
+          "position": 3,
+          "correct_word": "departed",
+          "definition": "Gone away; left.",
+          "rhyme_hint": "started, parted, guarded"
+        }
+      ],
+      "distractor_words": [
+        "night",
+        "memory",
+        "friends",
+        "leaves",
+        "lights",
+        "tears"
+      ]
+    },
+    {
+      "id": "classic_00287",
+      "title": "The Tables Turned",
+      "author": "William Wordsworth",
+      "difficulty": "medium",
+      "theme": "Nature over Books",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "Up! up! my Friend, and quit your books;\nOr surely you'll grow double:\nUp! up! my Friend, and clear your looks;\nWhy all this toil and trouble?",
+        "The sun, above the mountain's head,\nA freshening lustre mellow\nThrough all the long green fields has spread,\nHis first sweet evening yellow.",
+        "Books! 'tis a dull and endless strife:\nCome, hear the woodland linnet,\nHow sweet his music! on my life,\nThere's more of wisdom in it.",
+        "And hark! how blithe the throstle sings!\nHe, too, is no mean preacher:\nCome forth into the light of things,\nLet Nature be your teacher.",
+        "She has a world of ready wealth,\nOur minds and hearts to bless—\nSpontaneous wisdom breathed by health,\nTruth breathed by cheerfulness.",
+        "One impulse from a vernal wood\nMay teach you more of man,\nOf moral evil and of good,\nThan all the sages can.",
+        "Sweet is the lore which Nature brings;\nOur meddling intellect\nMis-shapes the beauteous forms of things:—\nWe murder to dissect.",
+        "Enough of Science and of Art;\nClose up those barren leaves;\nCome forth, and bring with you a heart\nThat watches and receives."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "lustre",
+          "definition": "A gentle sheen or soft glow.",
+          "rhyme_hint": "cluster, bluster, muster"
+        },
+        {
+          "position": 2,
+          "correct_word": "linnet",
+          "definition": "A small brown songbird.",
+          "rhyme_hint": "spinet, minute"
+        },
+        {
+          "position": 3,
+          "correct_word": "vernal",
+          "definition": "Relating to spring.",
+          "rhyme_hint": "kernel, journal, eternal"
+        }
+      ],
+      "distractor_words": [
+        "books",
+        "sun",
+        "fields",
+        "wisdom",
+        "Nature",
+        "Science"
+      ]
+    },
+    {
+      "id": "classic_00288",
+      "title": "Expostulation and Reply",
+      "author": "William Wordsworth",
+      "difficulty": "medium",
+      "theme": "Reflection & Passiveness",
+      "category": "Mind & Solitude",
+      "poem_stanzas": [
+        "\"Why, William, on that old grey stone,\nThus for the length of half a day,\nWhy, William, sit you thus alone,\nAnd dream your time away?",
+        "\"Where are your books?—that light bequeathed\nTo Beings else forlorn and blind!\nUp! up! and drink the spirit breathed\nFrom dead men to their kind.",
+        "\"You look round on your Mother Earth,\nAs if she for no purpose bore you;\nAs if you were her first-born birth,\nAnd none had lived before you!\"",
+        "One morning thus, by Esthwaite lake,\nWhen life was sweet, I knew not why,\nTo me my good friend Matthew spake,\nAnd thus I made reply:",
+        "\"The eye—it cannot choose but see;\nWe cannot bid the ear be still;\nOur bodies feel, where'er they be,\nAgainst or with our will.",
+        "\"Nor less I deem that there are Powers\nWhich of themselves our minds impress;\nThat we can feed this mind of ours\nIn a wise passiveness.",
+        "\"Think you, 'mid all this mighty sum\nOf things for ever speaking,\nThat nothing of itself will come,\nBut we must still be seeking?",
+        "\"—Then ask not wherefore, here, alone,\nConversing as I may,\nI sit upon this old grey stone,\nAnd dream my time away.\""
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "bequeathed",
+          "definition": "Left to someone in a will.",
+          "rhyme_hint": "breathed, seethed, wreathed"
+        },
+        {
+          "position": 2,
+          "correct_word": "passiveness",
+          "definition": "The state of being passive.",
+          "rhyme_hint": "happiness, carelessness"
+        },
+        {
+          "position": 3,
+          "correct_word": "wherefore",
+          "definition": "For what reason; why.",
+          "rhyme_hint": "before, therefore, more"
+        }
+      ],
+      "distractor_words": [
+        "stone",
+        "books",
+        "earth",
+        "mind",
+        "nature",
+        "dream"
+      ]
+    },
+    {
+      "id": "classic_00289",
+      "title": "To a Skylark",
+      "author": "William Wordsworth",
+      "difficulty": "medium",
+      "theme": "Nature & Aspiration",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "Ethereal minstrel! pilgrim of the sky!\nDost thou despise the earth where cares abound?\nOr, while the wings aspire, are heart and eye\nBoth with thy nest upon the dewy ground?\nThy nest which thou canst drop into at will,\nThose quivering wings composed, that music still!",
+        "Leave to the nightingale her shady wood;\nA privacy of glorious light is thine;\nWhence thou dost pour upon the world a flood\nOf harmony, with instinct more divine;\nType of the wise who soar, but never roam;\nTrue to the kindred points of Heaven and Home!"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "Ethereal",
+          "definition": "Heavenly; delicate and light.",
+          "rhyme_hint": "aerial, imperial, material"
+        },
+        {
+          "position": 2,
+          "correct_word": "minstrel",
+          "definition": "A medieval singer or musician.",
+          "rhyme_hint": "pastoral, mistral"
+        },
+        {
+          "position": 3,
+          "correct_word": "nightingale",
+          "definition": "A small bird known for its beautiful night song.",
+          "rhyme_hint": "gale, scale, tale"
+        }
+      ],
+      "distractor_words": [
+        "sky",
+        "earth",
+        "wings",
+        "nest",
+        "harmony",
+        "Heaven"
+      ]
+    },
+    {
+      "id": "classic_00290",
+      "title": "Written in March",
+      "author": "William Wordsworth",
+      "difficulty": "easy",
+      "theme": "Spring & Renewal",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "The Cock is crowing,\nThe stream is flowing,\nThe small birds twitter,\nThe lake doth glitter,\n   The green field sleeps in the sun;\nThe oldest and youngest\nAre at work with the strongest;\nThe cattle are grazing,\nTheir heads never raising;\n   There are forty feeding like one!",
+        "Like an army defeated\nThe snow hath retreated,\nAnd now doth fare ill\nOn the top of the bare hill;\n   The ploughboy is whooping—anon—anon:\nThere's joy in the mountains;\nThere's life in the fountains;\nSmall clouds are sailing,\nBlue sky prevailing;\n   The rain is over and gone!"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "glitter",
+          "definition": "Shine with a shimmering light.",
+          "rhyme_hint": "twitter, litter, bitter"
+        },
+        {
+          "position": 2,
+          "correct_word": "retreated",
+          "definition": "Withdrawn or gone back.",
+          "rhyme_hint": "defeated, repeated, completed"
+        },
+        {
+          "position": 3,
+          "correct_word": "prevailing",
+          "definition": "Predominating; widespread.",
+          "rhyme_hint": "sailing, failing, wailing"
+        }
+      ],
+      "distractor_words": [
+        "stream",
+        "cattle",
+        "snow",
+        "mountains",
+        "clouds",
+        "rain"
+      ]
+    },
+    {
+      "id": "classic_00291",
+      "title": "Sonnets from the Portuguese 1",
+      "author": "Elizabeth Barrett Browning",
+      "difficulty": "hard",
+      "theme": "Love's Awakening",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "I thought once how Theocritus had sung\nOf the sweet years, the dear and wished-for years,\nWho each one in a gracious hand appears\nTo bear a gift for mortals, old or young:\nAnd, as I mused it in his antique tongue,\nI saw, in gradual vision through my tears,\nThe sweet, sad years, the melancholy years,\nThose of my own life, who by turns had flung\nA shadow across me. Straightway I was 'ware,\nSo weeping, how a mystic Shape did move\nBehind me, and drew me backward by the hair;\nAnd a voice said in mastery, while I strove,—\n'Guess now who holds thee?'—'Death,' I said. But, there,\nThe silver answer rang,—'Not Death, but Love.'"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "antique",
+          "definition": "Belonging to an earlier period.",
+          "rhyme_hint": "technique, unique, critique"
+        },
+        {
+          "position": 2,
+          "correct_word": "melancholy",
+          "definition": "A deep, pensive sadness.",
+          "rhyme_hint": "folly, jolly, holy"
+        },
+        {
+          "position": 3,
+          "correct_word": "mystic",
+          "definition": "Spiritually symbolic or mysterious.",
+          "rhyme_hint": "statistic, simplistic"
+        }
+      ],
+      "distractor_words": [
+        "years",
+        "shadow",
+        "voice",
+        "Death",
+        "Love",
+        "tears"
+      ]
+    },
+    {
+      "id": "classic_00292",
+      "title": "Sonnets from the Portuguese 21",
+      "author": "Elizabeth Barrett Browning",
+      "difficulty": "hard",
+      "theme": "Reassurance in Love",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "Say over again, and yet once over again,\nThat thou dost love me. Though the word repeated\nShould seem 'a cuckoo-song,' as thou dost treat it,\nRemember, never to the hill or plain,\nValley and wood, without her cuckoo-strain\nComes the fresh Spring in all her green completed.\nBeloved, I, amid the darkness greeted\nBy a doubtful spirit-voice, in that doubt's pain\nCry, 'Speak once more—thou lovest!' Who can fear\nToo many stars, though each in heaven shall roll,\nToo many flowers, though each shall crown the year?\nSay thou dost love me, love me, love me—toll\nThe silver iterance!—only minding, Dear,\nTo love me also in silence with thy soul."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "cuckoo",
+          "definition": "A bird that repeats its two-note call.",
+          "rhyme_hint": "undo, anew, taboo"
+        },
+        {
+          "position": 2,
+          "correct_word": "iterance",
+          "definition": "Repetition; recurrence.",
+          "rhyme_hint": "utterance, tolerance"
+        },
+        {
+          "position": 3,
+          "correct_word": "silence",
+          "definition": "Absence of sound.",
+          "rhyme_hint": "violence, reliance"
+        }
+      ],
+      "distractor_words": [
+        "love",
+        "spring",
+        "stars",
+        "flowers",
+        "year",
+        "soul"
+      ]
+    },
+    {
+      "id": "classic_00293",
+      "title": "Sonnets from the Portuguese 14",
+      "author": "Elizabeth Barrett Browning",
+      "difficulty": "hard",
+      "theme": "Love for Its Own Sake",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "If thou must love me, let it be for nought\nExcept for love's sake only. Do not say\n'I love her for her smile—her look—her way\nOf speaking gently,—for a trick of thought\nThat falls in well with mine, and certes brought\nA sense of pleasant ease on such a day'—\nFor these things in themselves, Belovèd, may\nBe changed, or change for thee,—and love, so wrought,\nMay be unwrought so. Neither love me for\nThine own dear pity's wiping my cheeks dry,—\nA creature might forget to weep, who bore\nThy comfort long, and lose thy love thereby!\nBut love me for love's sake, that evermore\nThou mayst love on, through love's eternity."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "nought",
+          "definition": "Nothing at all; zero.",
+          "rhyme_hint": "bought, caught, sought"
+        },
+        {
+          "position": 2,
+          "correct_word": "certes",
+          "definition": "Certainly; assuredly (archaic).",
+          "rhyme_hint": "courtesies, perfidies"
+        },
+        {
+          "position": 3,
+          "correct_word": "evermore",
+          "definition": "Forever; for all time.",
+          "rhyme_hint": "before, adore, restore"
+        }
+      ],
+      "distractor_words": [
+        "love",
+        "smile",
+        "pity",
+        "weep",
+        "comfort",
+        "eternity"
+      ]
+    },
+    {
+      "id": "classic_00294",
+      "title": "Meeting at Night",
+      "author": "Robert Browning",
+      "difficulty": "medium",
+      "theme": "A Night Journey",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "The grey sea and the long black land;\nAnd the yellow half-moon large and low;\nAnd the startled little waves that leap\nIn fiery ringlets from their sleep,\nAs I gain the cove with pushing prow,\nAnd quench its speed i' the slushy sand.",
+        "Then a mile of warm sea-scented beach;\nThree fields to cross till a farm appears;\nA tap at the pane, the quick sharp scratch\nAnd blue spurt of a lighted match,\nAnd a voice less loud, thro' its joys and fears,\nThan the two hearts beating each to each!"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "prow",
+          "definition": "The front part of a boat.",
+          "rhyme_hint": "now, how, brow"
+        },
+        {
+          "position": 2,
+          "correct_word": "quench",
+          "definition": "Satisfy or extinguish.",
+          "rhyme_hint": "clench, trench, bench"
+        },
+        {
+          "position": 3,
+          "correct_word": "pane",
+          "definition": "A single sheet of glass in a window.",
+          "rhyme_hint": "rain, main, plain"
+        }
+      ],
+      "distractor_words": [
+        "sea",
+        "moon",
+        "waves",
+        "beach",
+        "farm",
+        "hearts"
+      ]
+    },
+    {
+      "id": "classic_00295",
+      "title": "Parting at Morning",
+      "author": "Robert Browning",
+      "difficulty": "easy",
+      "theme": "Dawn & Duty",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "Round the cape of a sudden came the sea,\nAnd the sun looked over the mountain's rim:\nAnd straight was a path of gold for him,\nAnd the need of a world of men for me."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "cape",
+          "definition": "A headland projecting into the sea.",
+          "rhyme_hint": "shape, grape, tape"
+        },
+        {
+          "position": 2,
+          "correct_word": "rim",
+          "definition": "The outer edge of something.",
+          "rhyme_hint": "brim, trim, dim"
+        },
+        {
+          "position": 3,
+          "correct_word": "need",
+          "definition": "A requirement or necessity.",
+          "rhyme_hint": "deed, seed, speed"
+        }
+      ],
+      "distractor_words": [
+        "sea",
+        "sun",
+        "mountain",
+        "path",
+        "gold",
+        "world"
+      ]
+    },
+    {
+      "id": "classic_00296",
+      "title": "Rabbi Ben Ezra (Excerpt)",
+      "author": "Robert Browning",
+      "difficulty": "hard",
+      "theme": "Age & Trust",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Grow old along with me!\nThe best is yet to be,\nThe last of life, for which the first was made:\nOur times are in His hand\nWho saith \"A whole I planned,\nYouth shows but half; trust God: see all, nor be afraid!\"",
+        "Not that, amassing flowers,\nYouth sighed \"Which rose make ours,\nWhich lily leave and then as best recall?\"\nNot that, admiring stars,\nIt yearned \"Nor Jove, nor Mars;\nMine be some figured flame which blends, transcends them all!\""
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "saith",
+          "definition": "Says (archaic).",
+          "rhyme_hint": "faith, wraith, bathe"
+        },
+        {
+          "position": 2,
+          "correct_word": "Jove",
+          "definition": "The Roman god Jupiter.",
+          "rhyme_hint": "love, dove, above"
+        },
+        {
+          "position": 3,
+          "correct_word": "transcends",
+          "definition": "Goes beyond or surpasses.",
+          "rhyme_hint": "friends, ends, bends"
+        }
+      ],
+      "distractor_words": [
+        "Grow",
+        "life",
+        "hand",
+        "Youth",
+        "stars",
+        "flame"
+      ]
+    },
+    {
+      "id": "classic_00297",
+      "title": "Love and Friendship",
+      "author": "Emily Brontë",
+      "difficulty": "easy",
+      "theme": "Love versus Friendship",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Love is like the wild rose-briar,\nFriendship like the holly-tree—\nThe holly is dark when the rose-briar blooms\nBut which will bloom most constantly?",
+        "The wild rose-briar is sweet in spring,\nIts summer blossoms scent the air;\nYet wait till winter comes again\nAnd who will call the wild-briar fair?",
+        "Then scorn the silly rose-wreath now\nAnd deck thee with the holly's sheen,\nThat when December blights thy brow\nHe may still leave thy garland green."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "holly-tree",
+          "definition": "An evergreen tree with red berries.",
+          "rhyme_hint": "be, see, free"
+        },
+        {
+          "position": 2,
+          "correct_word": "blights",
+          "definition": "Ruins or withers a plant.",
+          "rhyme_hint": "lights, nights, heights"
+        },
+        {
+          "position": 3,
+          "correct_word": "garland",
+          "definition": "A wreath of flowers or leaves.",
+          "rhyme_hint": "land, hand, stand"
+        }
+      ],
+      "distractor_words": [
+        "love",
+        "friendship",
+        "spring",
+        "winter",
+        "rose",
+        "green"
+      ]
+    },
+    {
+      "id": "classic_00298",
+      "title": "Remembrance",
+      "author": "Emily Brontë",
+      "difficulty": "hard",
+      "theme": "Grief & Endurance",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Cold in the earth—and the deep snow piled above thee,\nFar, far removed, cold in the dreary grave!\nHave I forgot, my only Love, to love thee,\nSevered at last by Time's all-severing wave?",
+        "Now, when alone, do my thoughts no longer hover\nOver the mountains, on that northern shore,\nResting their wings where heath and fern-leaves cover\nThat noble heart for ever, ever more?",
+        "Cold in the earth—and fifteen wild Decembers,\nFrom those brown hills, have melted into spring:\nFaithful, indeed, is the spirit that remembers\nAfter such years of change and suffering!",
+        "Sweet Love of youth, forgive, if I forget thee,\nWhile the world's tide is bearing me along;\nOther desires and other hopes beset me,\nHopes which obscure, but cannot do thee wrong!",
+        "No later light has lightened up my heaven,\nNo second morn has ever shone for me;\nAll my life's bliss from thy dear life was given,\nAll my life's bliss is in the grave with thee.",
+        "But, when the days of golden dreams had perished,\nAnd even Despair was powerless to destroy,\nThen did I learn how existence could be cherished,\nStrengthened, and fed without the aid of joy.",
+        "Then did I check the tears of useless passion—\nWeaned my young soul from yearning after thine;\nSternly denied its burning wish to hasten\nDown to that tomb already more than mine.",
+        "And, even yet, I dare not let it languish,\nDare not indulge in memory's rapturous pain;\nOnce drinking deep of that divinest anguish,\nHow could I seek the empty world again?"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "heath",
+          "definition": "An area of open uncultivated land.",
+          "rhyme_hint": "death, breath, wreath"
+        },
+        {
+          "position": 2,
+          "correct_word": "perished",
+          "definition": "Died or came to an end.",
+          "rhyme_hint": "cherished, nourished, flourished"
+        },
+        {
+          "position": 3,
+          "correct_word": "languish",
+          "definition": "Lose vitality; grow weak.",
+          "rhyme_hint": "anguish, language"
+        }
+      ],
+      "distractor_words": [
+        "earth",
+        "snow",
+        "grave",
+        "winter",
+        "bliss",
+        "joy"
+      ]
+    },
+    {
+      "id": "classic_00299",
+      "title": "No Coward Soul Is Mine",
+      "author": "Emily Brontë",
+      "difficulty": "hard",
+      "theme": "Faith & Immortality",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "No coward soul is mine,\nNo trembler in the world's storm-troubled sphere:\nI see Heaven's glories shine,\nAnd faith shines equal, arming me from fear.",
+        "O God within my breast,\nAlmighty, ever-present Deity!\nLife—that in me has rest,\nAs I—undying Life—have power in Thee!",
+        "Vain are the thousand creeds\nThat move men's hearts: unutterably vain;\nWorthless as withered weeds,\nOr idlest froth amid the boundless main,",
+        "To waken doubt in one\nHolding so fast by thine infinity;\nSo surely anchored on\nThe steadfast rock of immortality.",
+        "With wide-embracing love\nThy spirit animates eternal years,\nPervades and broods above,\nChanges, sustains, dissolves, creates and rears.",
+        "Though earth and man were gone,\nAnd suns and universes ceased to be,\nAnd Thou were left alone,\nEvery existence would exist in Thee.",
+        "There is not room for Death,\nNor atom that his might could render void:\nThou—Thou art Being and Breath,\nAnd what Thou art may never be destroyed."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "creeds",
+          "definition": "Formal statements of belief.",
+          "rhyme_hint": "deeds, reads, leads"
+        },
+        {
+          "position": 2,
+          "correct_word": "anchored",
+          "definition": "Held firmly in place.",
+          "rhyme_hint": "harkened, darkened"
+        },
+        {
+          "position": 3,
+          "correct_word": "void",
+          "definition": "Empty; without force.",
+          "rhyme_hint": "avoid, poised, noise"
+        }
+      ],
+      "distractor_words": [
+        "soul",
+        "faith",
+        "fear",
+        "death",
+        "life",
+        "love"
+      ]
+    },
+    {
+      "id": "classic_00300",
+      "title": "The Night Is Darkening Round Me",
+      "author": "Emily Brontë",
+      "difficulty": "easy",
+      "theme": "Entrapment & Resolve",
+      "category": "Mind & Solitude",
+      "poem_stanzas": [
+        "The night is darkening round me,\nThe wild winds coldly blow;\nBut a tyrant spell has bound me,\nAnd I cannot, cannot go.",
+        "The giant trees are bending\nTheir bare boughs weighed with snow;\nThe storm is fast descending,\nAnd yet I cannot go.",
+        "Clouds beyond clouds above me,\nWastes beyond wastes below;\nBut nothing drear can move me;\nI will not, cannot go."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "tyrant",
+          "definition": "A cruel and oppressive ruler.",
+          "rhyme_hint": "silent, violent"
+        },
+        {
+          "position": 2,
+          "correct_word": "boughs",
+          "definition": "Main branches of a tree.",
+          "rhyme_hint": "cows, ploughs, vows"
+        },
+        {
+          "position": 3,
+          "correct_word": "wastes",
+          "definition": "Desolate, empty regions.",
+          "rhyme_hint": "tastes, pastes, hastes"
+        }
+      ],
+      "distractor_words": [
+        "night",
+        "winds",
+        "spell",
+        "trees",
+        "snow",
+        "clouds"
+      ]
+    },
+    {
+      "id": "classic_00301",
+      "title": "Life",
+      "author": "Charlotte Brontë",
+      "difficulty": "medium",
+      "theme": "Hope & Courage",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Life, believe, is not a dream\nSo dark as sages say;\nOft a little morning rain\nForetells a pleasant day.\nSometimes there are clouds of gloom,\nBut these are transient all;\nIf the shower will make the roses bloom,\nO why lament its fall?",
+        "Rapidly, merrily,\nLife's sunny hours flit by,\nGratefully, cheerily,\nEnjoy them as they fly!",
+        "What though Death at times steps in,\nAnd calls our Best away?\nWhat though sorrow seems to win,\nO'er hope, a heavy sway?\nYet hope again elastic springs,\nUnconquered, though she fell;\nStill buoyant are her golden wings,\nStill strong to bear us well.\nManfully, fearlessly,\nThe day of trial bear,\nFor gloriously, victoriously,\nCan courage quell despair!"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "transient",
+          "definition": "Lasting only a short time.",
+          "rhyme_hint": "ancient, patient"
+        },
+        {
+          "position": 2,
+          "correct_word": "elastic",
+          "definition": "Able to spring back; flexible.",
+          "rhyme_hint": "drastic, plastic, fantastic"
+        },
+        {
+          "position": 3,
+          "correct_word": "quell",
+          "definition": "Put an end to; suppress.",
+          "rhyme_hint": "tell, well, fell"
+        }
+      ],
+      "distractor_words": [
+        "dream",
+        "rain",
+        "clouds",
+        "hope",
+        "courage",
+        "despair"
+      ]
+    },
+    {
+      "id": "classic_00302",
+      "title": "The Woodspurge",
+      "author": "Dante Gabriel Rossetti",
+      "difficulty": "medium",
+      "theme": "Grief & Perception",
+      "category": "Mind & Solitude",
+      "poem_stanzas": [
+        "The wind flapped loose, the wind was still,\nShaken out dead from tree and hill:\nI had walked on at the wind's will,—\nI sat now, for the wind was still.",
+        "Between my knees my forehead was,—\nMy lips, drawn in, said not Alas!\nMy hair was over in the grass,\nMy naked ears heard the day pass.",
+        "My eyes, wide open, had the run\nOf some ten weeds to fix upon;\nAmong those few, out of the sun,\nThe woodspurge flowered, three cups in one.",
+        "From perfect grief there need not be\nWisdom or even memory:\nOne thing then learnt remains to me,—\nThe woodspurge has a cup of three."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "woodspurge",
+          "definition": "A small plant with cup-like flowers.",
+          "rhyme_hint": "urge, dirge, verge"
+        },
+        {
+          "position": 2,
+          "correct_word": "grief",
+          "definition": "Deep sorrow.",
+          "rhyme_hint": "belief, thief, relief"
+        },
+        {
+          "position": 3,
+          "correct_word": "wisdom",
+          "definition": "The quality of being wise.",
+          "rhyme_hint": "kingdom, freedom"
+        }
+      ],
+      "distractor_words": [
+        "wind",
+        "forehead",
+        "grass",
+        "eyes",
+        "weeds",
+        "flowered"
+      ]
+    },
+    {
+      "id": "classic_00303",
+      "title": "Silent Noon",
+      "author": "Dante Gabriel Rossetti",
+      "difficulty": "hard",
+      "theme": "Perfect Stillness",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "Your hands lie open in the long fresh grass,—\n   The finger-points look through like rosy blooms:\n   Your eyes smile peace. The pasture gleams and glooms\n'Neath billowing skies that scatter and amass.\nAll round our nest, far as the eye can pass,\n   Are golden kingcup-fields with silver edge\n   Where the cow-parsley skirts the hawthorn-hedge.\n'Tis visible silence, still as the hour-glass.\nDeep in the sun-searched growths the dragon-fly\n   Hangs like a blue thread loosened from the sky:—\n   So this wing'd hour is dropt to us from above.\nOh! clasp we to our hearts, for deathless dower,\nThis close-companioned inarticulate hour\n   When twofold silence was the song of love."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "kingcup",
+          "definition": "A marsh plant with bright yellow flowers.",
+          "rhyme_hint": "cup, up, pup"
+        },
+        {
+          "position": 2,
+          "correct_word": "hawthorn-hedge",
+          "definition": "A boundary of thorny shrubs.",
+          "rhyme_hint": "edge, ledge, pledge"
+        },
+        {
+          "position": 3,
+          "correct_word": "inarticulate",
+          "definition": "Unable to express oneself clearly.",
+          "rhyme_hint": "particular, perpendicular"
+        }
+      ],
+      "distractor_words": [
+        "grass",
+        "eyes",
+        "pasture",
+        "skies",
+        "silence",
+        "dragon-fly"
+      ]
+    },
+    {
+      "id": "classic_00304",
+      "title": "Sudden Light",
+      "author": "Dante Gabriel Rossetti",
+      "difficulty": "medium",
+      "theme": "Recognition & Recurrence",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "I have been here before,\nBut when or how I cannot tell:\nI know the grass beyond the door,\nThe sweet keen smell,\nThe sighing sound, the lights around the shore.",
+        "You have been mine before,—\nHow long ago I may not know:\nBut just when at that swallow's soar\nYour neck turn'd so,\nSome veil did fall,—I knew it all of yore.",
+        "Has this been thus before?\nAnd shall not thus time's eddying flight\nStill with our lives our love restore\nIn death's despite,\nAnd day and night yield one delight once more?"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "eddying",
+          "definition": "Moving in a circular current.",
+          "rhyme_hint": "steadying, readying"
+        },
+        {
+          "position": 2,
+          "correct_word": "yore",
+          "definition": "Time long past.",
+          "rhyme_hint": "more, roar, floor"
+        },
+        {
+          "position": 3,
+          "correct_word": "despite",
+          "definition": "In spite of; notwithstanding.",
+          "rhyme_hint": "night, light, sight"
+        }
+      ],
+      "distractor_words": [
+        "grass",
+        "smell",
+        "swallow",
+        "veil",
+        "love",
+        "delight"
+      ]
+    },
+    {
+      "id": "classic_00305",
+      "title": "Sleeping at Last",
+      "author": "Christina Rossetti",
+      "difficulty": "medium",
+      "theme": "Rest after Struggle",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Sleeping at last, the trouble and tumult over,\nSleeping at last, the struggle and horror past,\nCold and white, out of sight of friend and of lover,\nSleeping at last.",
+        "No more a tired heart downcast or overcast,\nNo more pangs that wring or shifting fears that hover,\nSleeping at last in a dreamless sleep locked fast.",
+        "Fast asleep. Singing birds in their leafy cover\nCannot wake her, nor shake her the gusty blast.\nUnder the purple thyme and the purple clover\nSleeping at last."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "tumult",
+          "definition": "A loud, confused noise; uproar.",
+          "rhyme_hint": "result, consult, insult"
+        },
+        {
+          "position": 2,
+          "correct_word": "overcast",
+          "definition": "Covered with clouds; gloomy.",
+          "rhyme_hint": "contrast, broadcast, forecast"
+        },
+        {
+          "position": 3,
+          "correct_word": "clover",
+          "definition": "A low plant with three-lobed leaves.",
+          "rhyme_hint": "rover, moreover"
+        }
+      ],
+      "distractor_words": [
+        "sleep",
+        "struggle",
+        "friend",
+        "heart",
+        "fears",
+        "thyme"
+      ]
+    },
+    {
+      "id": "classic_00306",
+      "title": "Mirage",
+      "author": "Christina Rossetti",
+      "difficulty": "medium",
+      "theme": "Disillusionment",
+      "category": "Mind & Solitude",
+      "poem_stanzas": [
+        "The hope I dreamed of was a dream,\nWas but a dream; and now I wake\nExceeding comfortless, and worn, and old,\nFor a dream's sake.",
+        "I hang my harp upon a tree,\nA weeping willow in a lake;\nI hang my silenced harp there, wrung and snapt\nFor a dream's sake.",
+        "Lie still, lie still, my breaking heart;\nMy silent heart, lie still and break:\nLife, and the world, and mine own self, are changed\nFor a dream's sake."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "harp",
+          "definition": "A stringed musical instrument.",
+          "rhyme_hint": "sharp, tarp, warp"
+        },
+        {
+          "position": 2,
+          "correct_word": "silenced",
+          "definition": "Made quiet; stilled.",
+          "rhyme_hint": "violence, licence"
+        },
+        {
+          "position": 3,
+          "correct_word": "breaking",
+          "definition": "Splitting apart; shattering.",
+          "rhyme_hint": "making, taking, waking"
+        }
+      ],
+      "distractor_words": [
+        "hope",
+        "dream",
+        "willow",
+        "lake",
+        "heart",
+        "life"
+      ]
+    },
+    {
+      "id": "classic_00307",
+      "title": "A Better Resurrection",
+      "author": "Christina Rossetti",
+      "difficulty": "hard",
+      "theme": "Desolation & Revival",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "I have no wit, no words, no tears;\nMy heart within me like a stone\nIs numbed too much for hopes or fears.\nLook right, look left, I dwell alone;\nI lift mine eyes, but dimmed with grief\nNo everlasting hills I see;\nMy life is in the falling leaf:\nO Jesus, quicken me.",
+        "My life is like a faded leaf,\nMy harvest dwindled to a husk:\nTruly my life is void and brief\nAnd tedious in the barren dusk;\nMy life is like a frozen thing,\nNo bud nor greenness can I see:\nYet rise it shall—the sap of Spring;\nO Jesus, rise in me.",
+        "My life is like a broken bowl,\nA broken bowl that cannot hold\nOne drop of water for my soul\nOr cordial in the careless cold.\nBreak fast as one whose days are sped,\nAnd let Thy Body be my Bread,\nAnd let Thy Blood be Wine indeed;\nO Jesus, come with speed."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "quicken",
+          "definition": "Bring to life; revive.",
+          "rhyme_hint": "sicken, thicken"
+        },
+        {
+          "position": 2,
+          "correct_word": "husk",
+          "definition": "The dry outer covering of a seed.",
+          "rhyme_hint": "musk, tusk, brusque"
+        },
+        {
+          "position": 3,
+          "correct_word": "cordial",
+          "definition": "A sweet fruit drink; warmly genial.",
+          "rhyme_hint": "floral, moral"
+        }
+      ],
+      "distractor_words": [
+        "wit",
+        "tears",
+        "heart",
+        "grief",
+        "leaf",
+        "Spring"
+      ]
+    },
+    {
+      "id": "classic_00308",
+      "title": "To Any Reader",
+      "author": "Robert Louis Stevenson",
+      "difficulty": "easy",
+      "theme": "Childhood & Memory",
+      "category": "Joy & Whimsy",
+      "poem_stanzas": [
+        "As from the house your mother sees\nYou playing round the garden trees,\nSo you may see, if you will look\nThrough the windows of this book,\nAnother child, far, far away,\nAnd in another garden, play.\nBut do not think you can at all,\nBy knocking on the window, call\nThat child to hear you. He intent\nIs all on his play-business bent.\nHe does not hear; he will not look,\nNor yet be lured out of this book.\nFor, long ago, the truth to say,\nHe has grown up and gone away,\nAnd it is but a child of air\nThat lingers in the garden there."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "lured",
+          "definition": "Tempted or enticed.",
+          "rhyme_hint": "cured, assured, endured"
+        },
+        {
+          "position": 2,
+          "correct_word": "lingers",
+          "definition": "Remains or stays on.",
+          "rhyme_hint": "fingers, singers"
+        },
+        {
+          "position": 3,
+          "correct_word": "intent",
+          "definition": "Resolutely focused; purpose.",
+          "rhyme_hint": "content, bent, spent"
+        }
+      ],
+      "distractor_words": [
+        "house",
+        "garden",
+        "window",
+        "book",
+        "child",
+        "play"
+      ]
+    },
+    {
+      "id": "classic_00309",
+      "title": "Escape at Bedtime",
+      "author": "Robert Louis Stevenson",
+      "difficulty": "easy",
+      "theme": "Night Sky & Wonder",
+      "category": "Joy & Whimsy",
+      "poem_stanzas": [
+        "The lights from the parlour and kitchen shone out\nThrough the blinds and the windows and bars;\nAnd high overhead and all moving about,\nThere were thousands of millions of stars.\nThere ne'er were such thousands of leaves on a tree,\nOr of people in church or the Park,\nAs the crowds of the stars that looked down upon me,\nAnd that glittered and winked in the dark.",
+        "The Dog, and the Plough, and the Hunter, and all,\nAnd the star of the sailor, and Mars,\nThese shone in the sky, and the pail by the wall\nWould be half full of water and stars.\nThey saw me at last, and they chased me with cries,\nAnd they soon had me packed into bed;\nBut the glory kept shining and bright in my eyes,\nAnd the stars going round in my head."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "blinds",
+          "definition": "Window coverings of slats or cloth.",
+          "rhyme_hint": "minds, finds, rinds"
+        },
+        {
+          "position": 2,
+          "correct_word": "glittered",
+          "definition": "Sparkled with flashes of light.",
+          "rhyme_hint": "flattered, scattered"
+        },
+        {
+          "position": 3,
+          "correct_word": "glory",
+          "definition": "Great beauty or splendour.",
+          "rhyme_hint": "story, quarry, hoary"
+        }
+      ],
+      "distractor_words": [
+        "lights",
+        "stars",
+        "leaves",
+        "church",
+        "water",
+        "bed"
+      ]
+    },
+    {
+      "id": "classic_00310",
+      "title": "Fairy Bread",
+      "author": "Robert Louis Stevenson",
+      "difficulty": "easy",
+      "theme": "Imagination & Play",
+      "category": "Joy & Whimsy",
+      "poem_stanzas": [
+        "Come up here, O dusty feet!\nHere is fairy bread to eat.\nHere in my retiring room,\nChildren, you may dine\nOn the golden smell of broom\nAnd the shade of pine;\nAnd when you have eaten well,\nFairy stories hear and tell."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "dusty",
+          "definition": "Covered with fine particles of dirt.",
+          "rhyme_hint": "rusty, musty, trusty"
+        },
+        {
+          "position": 2,
+          "correct_word": "broom",
+          "definition": "A yellow-flowered shrub; a sweeping brush.",
+          "rhyme_hint": "doom, loom, bloom"
+        },
+        {
+          "position": 3,
+          "correct_word": "dine",
+          "definition": "Eat dinner.",
+          "rhyme_hint": "fine, line, mine"
+        }
+      ],
+      "distractor_words": [
+        "fairy",
+        "bread",
+        "children",
+        "golden",
+        "shade",
+        "stories"
+      ]
+    }
+  ]
+}
