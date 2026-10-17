@@ -1,0 +1,2040 @@
+{
+  "version": 13,
+  "poems": [
+    {
+      "id": "classic_00461",
+      "title": "Sonnet 2: When Forty Winters Shall Besiege Thy Brow",
+      "author": "William Shakespeare",
+      "difficulty": "hard",
+      "theme": "Time & Beauty",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "When forty winters shall besiege thy brow,\nAnd dig deep trenches in thy beauty's field,\nThy youth's proud livery so gazed on now,\nWill be a tattered weed of small worth held:\nThen being asked where all thy beauty lies,\nWhere all the treasure of thy lusty days,\nTo say, within thine own deep-sunken eyes,\nWere an all-eating shame and thriftless praise.\nHow much more praise deserved thy beauty's use,\nIf thou couldst answer 'This fair child of mine\nShall sum my count and make my old excuse,'\nProving his beauty by succession thine!\nThis were to be new made when thou art old,\nAnd see thy blood warm when thou feel'st it cold."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "trenches",
+          "definition": "Long narrow ditches dug in the ground.",
+          "rhyme_hint": "benches, wenches, stenches"
+        },
+        {
+          "position": 2,
+          "correct_word": "livery",
+          "definition": "A distinctive uniform worn by a servant or official.",
+          "rhyme_hint": "delivery, bravery, slavery"
+        },
+        {
+          "position": 3,
+          "correct_word": "succession",
+          "definition": "The action of following in order or taking over a role.",
+          "rhyme_hint": "procession, confession, profession"
+        }
+      ],
+      "distractor_words": [
+        "winters",
+        "brow",
+        "beauty",
+        "youth",
+        "child",
+        "blood"
+      ]
+    },
+    {
+      "id": "classic_00462",
+      "title": "Sonnet 12: When I Do Count the Clock That Tells the Time",
+      "author": "William Shakespeare",
+      "difficulty": "hard",
+      "theme": "Time & Mortality",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "When I do count the clock that tells the time,\nAnd see the brave day sunk in hideous night;\nWhen I behold the violet past prime,\nAnd sable curls all silvered o'er with white;\nWhen lofty trees I see barren of leaves,\nWhich erst from heat did canopy the herd,\nAnd summer's green all girded up in sheaves,\nBorne on the bier with white and bristly beard:\nThen of thy beauty do I question make,\nThat thou among the wastes of time must go,\nSince sweets and beauties do themselves forsake,\nAnd die as fast as they see others grow;\nAnd nothing 'gainst Time's scythe can make defence\nSave breed, to brave him when he takes thee hence."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "hideous",
+          "definition": "Very ugly or unpleasant.",
+          "rhyme_hint": "previous, devious, envious"
+        },
+        {
+          "position": 2,
+          "correct_word": "barren",
+          "definition": "Unable to produce fruit or offspring; infertile.",
+          "rhyme_hint": "baron, heron, parent"
+        },
+        {
+          "position": 3,
+          "correct_word": "scythe",
+          "definition": "A tool with a long curved blade for cutting grass.",
+          "rhyme_hint": "tithe, blithe, writhe"
+        }
+      ],
+      "distractor_words": [
+        "clock",
+        "night",
+        "violet",
+        "trees",
+        "summer",
+        "beauty"
+      ]
+    },
+    {
+      "id": "classic_00463",
+      "title": "Sonnet 30: When to the Sessions of Sweet Silent Thought",
+      "author": "William Shakespeare",
+      "difficulty": "hard",
+      "theme": "Memory & Grief",
+      "category": "Mind & Solitude",
+      "poem_stanzas": [
+        "When to the sessions of sweet silent thought\nI summon up remembrance of things past,\nI sigh the lack of many a thing I sought,\nAnd with old woes new wail my dear time's waste:\nThen can I drown an eye, unused to flow,\nFor precious friends hid in death's dateless night,\nAnd weep afresh love's long since cancelled woe,\nAnd moan the expense of many a vanished sight:\nThen can I grieve at grievances foregone,\nAnd heavily from woe to woe tell o'er\nThe sad account of fore-bemoaned moan,\nWhich I new pay as if not paid before.\nBut if the while I think on thee, dear friend,\nAll losses are restored and sorrows end."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "sessions",
+          "definition": "Formal meetings or periods of activity.",
+          "rhyme_hint": "possessions, confessions, lessons"
+        },
+        {
+          "position": 2,
+          "correct_word": "expense",
+          "definition": "The cost incurred; money spent.",
+          "rhyme_hint": "defence, intense, sense"
+        },
+        {
+          "position": 3,
+          "correct_word": "restored",
+          "definition": "Brought back; returned to a former state.",
+          "rhyme_hint": "reward, ignored, adored"
+        }
+      ],
+      "distractor_words": [
+        "thought",
+        "past",
+        "friends",
+        "night",
+        "woe",
+        "losses"
+      ]
+    },
+    {
+      "id": "classic_00464",
+      "title": "Sonnet 33: Full Many a Glorious Morning Have I Seen",
+      "author": "William Shakespeare",
+      "difficulty": "hard",
+      "theme": "Love & Disappointment",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "Full many a glorious morning have I seen\nFlatter the mountain-tops with sovereign eye,\nKissing with golden face the meadows green,\nGilding pale streams with heavenly alchemy;\nAnon permit the basest clouds to ride\nWith ugly rack on his celestial face,\nAnd from the forlorn world his visage hide,\nStealing unseen to west with this disgrace:\nEven so my sun one early morn did shine\nWith all triumphant splendour on my brow;\nBut out, alack, he was but one hour mine,\nThe region cloud hath masked him from me now.\nYet him for this my love no whit disdaineth;\nSuns of the world may stain when heaven's sun staineth."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "meadows",
+          "definition": "Fields of grass and flowers.",
+          "rhyme_hint": "shadows, fellows, windows"
+        },
+        {
+          "position": 2,
+          "correct_word": "alchemy",
+          "definition": "An early form of chemistry seeking to turn metals to gold.",
+          "rhyme_hint": "chemistry, harmony, symmetry"
+        },
+        {
+          "position": 3,
+          "correct_word": "alack",
+          "definition": "An archaic exclamation of sorrow or regret.",
+          "rhyme_hint": "black, back, sack"
+        }
+      ],
+      "distractor_words": [
+        "morning",
+        "mountain",
+        "face",
+        "clouds",
+        "sun",
+        "west"
+      ]
+    },
+    {
+      "id": "classic_00465",
+      "title": "Sonnet 65: Since Brass, Nor Stone, Nor Earth, Nor Boundless Sea",
+      "author": "William Shakespeare",
+      "difficulty": "hard",
+      "theme": "Time & Immortality",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Since brass, nor stone, nor earth, nor boundless sea,\nBut sad mortality o'er-sways their power,\nHow with this rage shall beauty hold a plea,\nWhose action is no stronger than a flower?\nO, how shall summer's honey breath hold out\nAgainst the wreckful siege of battering days,\nWhen rocks impregnable are not so stout,\nNor gates of steel so strong, but Time decays?\nO fearful meditation! where, alack,\nShall Time's best jewel from Time's chest lie hid?\nOr what strong hand can hold his swift foot back?\nOr who his spoil of beauty can forbid?\nO, none, unless this miracle have might,\nThat in black ink my love may still shine bright."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "mortality",
+          "definition": "The state of being subject to death.",
+          "rhyme_hint": "immortality, morality, reality"
+        },
+        {
+          "position": 2,
+          "correct_word": "siege",
+          "definition": "A military operation surrounding a place.",
+          "rhyme_hint": "liege, besiege, prestige"
+        },
+        {
+          "position": 3,
+          "correct_word": "meditation",
+          "definition": "The act of thinking deeply or focusing the mind.",
+          "rhyme_hint": "temptation, foundation, station"
+        }
+      ],
+      "distractor_words": [
+        "brass",
+        "stone",
+        "sea",
+        "beauty",
+        "flower",
+        "summer"
+      ]
+    },
+    {
+      "id": "classic_00466",
+      "title": "Sonnet 106: When in the Chronicle of Wasted Time",
+      "author": "William Shakespeare",
+      "difficulty": "hard",
+      "theme": "Praise & Posterity",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "When in the chronicle of wasted time\nI see descriptions of the fairest wights,\nAnd beauty making beautiful old rhyme\nIn praise of ladies dead and lovely knights,\nThen, in the blazon of sweet beauty's best,\nOf hand, of foot, of lip, of eye, of brow,\nI see their antique pen would have expressed\nEven such a beauty as you master now.\nSo all their praises are but prophecies\nOf this our time, all you prefiguring;\nAnd, for they looked but with divining eyes,\nThey had not skill enough your worth to sing:\nFor we, which now behold these present days,\nHave eyes to wonder, but lack tongues to praise."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "chronicle",
+          "definition": "A factual written account of important events.",
+          "rhyme_hint": "article, particle, obstacle"
+        },
+        {
+          "position": 2,
+          "correct_word": "wights",
+          "definition": "An archaic word for persons or creatures.",
+          "rhyme_hint": "knights, nights, lights"
+        },
+        {
+          "position": 3,
+          "correct_word": "prophecies",
+          "definition": "Predictions of future events.",
+          "rhyme_hint": "fantasies, mysteries, histories"
+        }
+      ],
+      "distractor_words": [
+        "beauty",
+        "ladies",
+        "lords",
+        "hand",
+        "eye",
+        "praise"
+      ]
+    },
+    {
+      "id": "classic_00467",
+      "title": "Sigh No More, Ladies",
+      "author": "William Shakespeare",
+      "difficulty": "medium",
+      "theme": "Love & Fickleness",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "Sigh no more, ladies, sigh no more,\nMen were deceivers ever,\nOne foot in sea and one on shore,\nTo one thing constant never:\nThen sigh not so, but let them go,\nAnd be you blithe and bonny,\nConverting all your sounds of woe\nInto Hey nonny, nonny.",
+        "Sing no more ditties, sing no moe,\nOf dumps so dull and heavy;\nThe fraud of men was ever so,\nSince summer first was leafy:\nThen sigh not so, but let them go,\nAnd be you blithe and bonny,\nConverting all your sounds of woe\nInto Hey nonny, nonny."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "deceivers",
+          "definition": "People who deceive or mislead others.",
+          "rhyme_hint": "believers, achievers, weavers"
+        },
+        {
+          "position": 2,
+          "correct_word": "blithe",
+          "definition": "Cheerful and carefree.",
+          "rhyme_hint": "scythe, tithe, writhe"
+        },
+        {
+          "position": 3,
+          "correct_word": "ditties",
+          "definition": "Short simple songs.",
+          "rhyme_hint": "cities, pretties, kitties"
+        }
+      ],
+      "distractor_words": [
+        "ladies",
+        "sea",
+        "shore",
+        "woe",
+        "men",
+        "summer"
+      ]
+    },
+    {
+      "id": "classic_00468",
+      "title": "It Was a Lover and His Lass",
+      "author": "William Shakespeare",
+      "difficulty": "easy",
+      "theme": "Spring & Love",
+      "category": "Joy & Whimsy",
+      "poem_stanzas": [
+        "It was a lover and his lass,\n   With a hey, and a ho, and a hey nonino,\nThat o'er the green corn-field did pass\n   In the spring time, the only pretty ring time,\nWhen birds do sing, hey ding a ding, ding:\nSweet lovers love the spring.",
+        "Between the acres of the rye,\n   With a hey, and a ho, and a hey nonino,\nThese pretty country folks would lie,\n   In the spring time, the only pretty ring time,\nWhen birds do sing, hey ding a ding, ding:\nSweet lovers love the spring.",
+        "This carol they began that hour,\n   With a hey, and a ho, and a hey nonino,\nHow that a life was but a flower\n   In the spring time, the only pretty ring time,\nWhen birds do sing, hey ding a ding, ding:\nSweet lovers love the spring.",
+        "And therefore take the present time,\n   With a hey, and a ho, and a hey nonino,\nFor love is crowned with the prime\n   In the spring time, the only pretty ring time,\nWhen birds do sing, hey ding a ding, ding:\nSweet lovers love the spring."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "lass",
+          "definition": "A girl or young woman.",
+          "rhyme_hint": "grass, pass, glass"
+        },
+        {
+          "position": 2,
+          "correct_word": "rye",
+          "definition": "A cereal grass grown for its grain.",
+          "rhyme_hint": "sky, by, fly"
+        },
+        {
+          "position": 3,
+          "correct_word": "carol",
+          "definition": "A song of joy, especially at Christmas.",
+          "rhyme_hint": "barrel, apparel, peril"
+        }
+      ],
+      "distractor_words": [
+        "lover",
+        "corn",
+        "spring",
+        "birds",
+        "flower",
+        "time"
+      ]
+    },
+    {
+      "id": "classic_00469",
+      "title": "O Mistress Mine",
+      "author": "William Shakespeare",
+      "difficulty": "medium",
+      "theme": "Love & Time",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "O mistress mine, where are you roaming?\nO, stay and hear; your true love's coming,\n   That can sing both high and low:\nTrip no further, pretty sweeting;\nJourneys end in lovers meeting,\n   Every wise man's son doth know.",
+        "What is love? 'tis not hereafter;\nPresent mirth hath present laughter;\n   What's to come is still unsure:\nIn delay there lies no plenty;\nThen come kiss me, sweet and twenty,\n   Youth's a stuff will not endure."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "roaming",
+          "definition": "Moving about without a fixed purpose.",
+          "rhyme_hint": "foaming, homing, combing"
+        },
+        {
+          "position": 2,
+          "correct_word": "sweeting",
+          "definition": "An archaic term of endearment for a sweetheart.",
+          "rhyme_hint": "greeting, meeting, fleeting"
+        },
+        {
+          "position": 3,
+          "correct_word": "plenty",
+          "definition": "A large amount; abundance.",
+          "rhyme_hint": "twenty, empty, sentry"
+        }
+      ],
+      "distractor_words": [
+        "mistress",
+        "love",
+        "journey",
+        "mirth",
+        "laughter",
+        "youth"
+      ]
+    },
+    {
+      "id": "classic_00470",
+      "title": "Take, O Take Those Lips Away",
+      "author": "William Shakespeare",
+      "difficulty": "medium",
+      "theme": "Love & Betrayal",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "Take, O take those lips away,\nThat so sweetly were forsworn;\nAnd those eyes, the break of day,\nLights that do mislead the morn:\nBut my kisses bring again,\nBring again,\nSeals of love, but sealed in vain,\nSealed in vain.",
+        "Hide, O hide those hills of snow,\nWhich thy frozen bosom bears,\nOn whose tops the pinks that grow\nAre of those that April wears;\nBut first set my poor heart free,\nBound in those icy chains by thee."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "forsworn",
+          "definition": "Having broken an oath or promise.",
+          "rhyme_hint": "worn, torn, born"
+        },
+        {
+          "position": 2,
+          "correct_word": "mislead",
+          "definition": "To cause to go in the wrong direction or believe falsely.",
+          "rhyme_hint": "succeed, proceed, indeed"
+        },
+        {
+          "position": 3,
+          "correct_word": "bosom",
+          "definition": "A woman's chest; the front of a garment.",
+          "rhyme_hint": "blossom, awesome, possum"
+        }
+      ],
+      "distractor_words": [
+        "lips",
+        "eyes",
+        "morn",
+        "kisses",
+        "heart",
+        "April"
+      ]
+    },
+    {
+      "id": "classic_00471",
+      "title": "Answer to a Child's Question",
+      "author": "Samuel Taylor Coleridge",
+      "difficulty": "easy",
+      "theme": "Nature & Song",
+      "category": "Joy & Whimsy",
+      "poem_stanzas": [
+        "Do you ask what the birds say? The Sparrow, the Dove,\nThe Linnet and Thrush say, 'I love and I love!'\nIn the winter they're silent—the wind is so strong;\nWhat it says, I don't know, but it sings a loud song.\nBut green leaves, and blossoms, and sunny warm weather,\nAnd singing, and loving—all come back together.\nBut the Lark is so brimful of gladness and love,\nThe green fields below him, the blue sky above,\nThat he sings, and he sings; and for ever sings he—\n'I love my Love, and my Love loves me!'"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "strong",
+          "definition": "Having great physical power or intensity.",
+          "rhyme_hint": "long, song, gong"
+        },
+        {
+          "position": 2,
+          "correct_word": "together",
+          "definition": "In company with one another.",
+          "rhyme_hint": "weather, feather, heather"
+        },
+        {
+          "position": 3,
+          "correct_word": "gladness",
+          "definition": "The state of feeling joy or pleasure.",
+          "rhyme_hint": "sadness, madness, badness"
+        }
+      ],
+      "distractor_words": [
+        "sparrow",
+        "winter",
+        "leaves",
+        "lark",
+        "fields",
+        "sky"
+      ]
+    },
+    {
+      "id": "classic_00472",
+      "title": "The Knight's Tomb",
+      "author": "Samuel Taylor Coleridge",
+      "difficulty": "medium",
+      "theme": "Death & Memory",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Where is the grave of Sir Arthur O'Kellyn?\nWhere may the grave of that good man be?—\nBy the side of a spring, on the breast of Helvellyn,\nUnder the twigs of a young birch tree!\nThe oak that in summer was sweet to hear,\nAnd rustled its leaves in the fall of the year,\nAnd whistled and roared in the winter alone,\nIs gone,—and the birch in its stead is grown.—\nThe Knight's bones are dust,\nAnd his good sword rust;—\nHis soul is with the saints, I trust."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "grave",
+          "definition": "A place where a dead body is buried; a tomb.",
+          "rhyme_hint": "brave, cave, wave"
+        },
+        {
+          "position": 2,
+          "correct_word": "birch",
+          "definition": "A slender tree with thin, pale bark.",
+          "rhyme_hint": "perch, lurch, church"
+        },
+        {
+          "position": 3,
+          "correct_word": "saints",
+          "definition": "Holy people honoured in a religion.",
+          "rhyme_hint": "paints, complaints, faints"
+        }
+      ],
+      "distractor_words": [
+        "knight",
+        "sword",
+        "bones",
+        "oak",
+        "winter",
+        "soul"
+      ]
+    },
+    {
+      "id": "classic_00473",
+      "title": "On the Sea",
+      "author": "John Keats",
+      "difficulty": "hard",
+      "theme": "The Sea",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "It keeps eternal whisperings around\nDesolate shores, and with its mighty swell\nGluts twice ten thousand Caverns, till the spell\nOf Hecate leaves them their old shadowy sound.\nOften 'tis in such gentle temper found,\nThat scarcely will the very smallest shell\nBe moved for days from where it sometime fell,\nWhen last the winds of Heaven were unbound.\nOh ye! who have your eye-balls vexed and tired,\nFeast them upon the wideness of the Sea;\nOh ye! whose ears are dinned with uproar rude,\nOr fed too much with cloying melody—\nSit ye near some old Cavern's Mouth, and brood\nUntil ye start, as if the sea-nymphs quired!"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "swell",
+          "definition": "A slow, regular rise and fall of the sea; a large wave.",
+          "rhyme_hint": "bell, tell, well"
+        },
+        {
+          "position": 2,
+          "correct_word": "shell",
+          "definition": "The hard outer casing of a mollusc or egg.",
+          "rhyme_hint": "fell, dell, tell"
+        },
+        {
+          "position": 3,
+          "correct_word": "temper",
+          "definition": "A person's state of mind; a mood or disposition.",
+          "rhyme_hint": "hamper, camper, damper"
+        }
+      ],
+      "distractor_words": [
+        "shore",
+        "cavern",
+        "wind",
+        "wave",
+        "music",
+        "brood"
+      ]
+    },
+    {
+      "id": "classic_00474",
+      "title": "To Kosciusko",
+      "author": "John Keats",
+      "difficulty": "hard",
+      "theme": "Heroism & Renown",
+      "category": "War & Society",
+      "poem_stanzas": [
+        "Good Kosciusko, thy great name alone\nIs a full harvest whence to reap high feeling;\nIt comes upon us like the glorious pealing\nOf the wide spheres—an everlasting tone.\nAnd now it tells me, that in worlds unknown,\nThe names of heroes, burst from clouds concealing,\nAnd changed to harmonies, for ever stealing\nThrough cloudless blue, and round each silver throne.\nIt tells me too, that on a happy day,\nWhen some good spirit walks upon the earth,\nThy name with Alfred's, and the great of yore\nGently commingling, gives tremendous birth\nTo a loud hymn, that sounds far, far away\nTo where the great God lives for evermore."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "pealing",
+          "definition": "The loud ringing sound of bells or thunder.",
+          "rhyme_hint": "feeling, dealing, stealing"
+        },
+        {
+          "position": 2,
+          "correct_word": "spheres",
+          "definition": "Perfectly round bodies; the heavens themselves.",
+          "rhyme_hint": "years, fears, tears"
+        },
+        {
+          "position": 3,
+          "correct_word": "hymn",
+          "definition": "A song of praise, especially to a deity.",
+          "rhyme_hint": "dim, limb, trim"
+        }
+      ],
+      "distractor_words": [
+        "name",
+        "heroes",
+        "clouds",
+        "throne",
+        "glory",
+        "spirit"
+      ]
+    },
+    {
+      "id": "classic_00475",
+      "title": "Stepping Westward",
+      "author": "William Wordsworth",
+      "difficulty": "hard",
+      "theme": "Journeys & Fate",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "\"What, you are stepping westward?\"—\"Yea.\"\n—'Twould be a wildish destiny,\nIf we, who thus together roam\nIn a strange Land, and far from home,\nWere in this place the guests of Chance:\nYet who would stop, or fear to advance,\nThough home or shelter he had none,\nWith such a Sky to lead him on?",
+        "The dewy ground was dark and cold;\nBehind, all gloomy to behold;\nAnd stepping westward seemed to be\nA kind of heavenly destiny:\nI liked the greeting; 'twas a sound\nOf something without place or bound;\nAnd seemed to give me spiritual right\nTo travel through that region bright.",
+        "The voice was soft, and she who spake\nWas walking by her native Lake:\nThe salutation had to me\nThe very sound of courtesy:\nIts power was felt; and while my eye\nWas fixed upon the glowing sky,\nThe echo of the voice enwrought\nA human sweetness with the thought\nOf travelling through the world that lay\nBefore me in my endless way."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "cold",
+          "definition": "Having a low temperature; lacking warmth.",
+          "rhyme_hint": "gold, bold, told"
+        },
+        {
+          "position": 2,
+          "correct_word": "bright",
+          "definition": "Giving out much light; vivid or glowing.",
+          "rhyme_hint": "light, night, sight"
+        },
+        {
+          "position": 3,
+          "correct_word": "endless",
+          "definition": "Having no end or limit; infinite.",
+          "rhyme_hint": "friendless, countless, senseless"
+        }
+      ],
+      "distractor_words": [
+        "westward",
+        "lake",
+        "voice",
+        "sky",
+        "home",
+        "way"
+      ]
+    },
+    {
+      "id": "classic_00476",
+      "title": "Childe Harold's Pilgrimage (Excerpt)",
+      "author": "George Gordon Byron",
+      "difficulty": "hard",
+      "theme": "The Sea & Solitude",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "There is a pleasure in the pathless woods,\nThere is a rapture on the lonely shore,\nThere is society where none intrudes,\nBy the deep Sea, and music in its roar:\nI love not Man the less, but Nature more,\nFrom these our interviews, in which I steal\nFrom all I may be, or have been before,\nTo mingle with the Universe, and feel\nWhat I can ne'er express, yet cannot all conceal.",
+        "Roll on, thou deep and dark blue Ocean—roll!\nTen thousand fleets sweep over thee in vain;\nMan marks the earth with ruin—his control\nStops with the shore;—upon the watery plain\nThe wrecks are all thy deed, nor doth remain\nA shadow of man's ravage, save his own,\nWhen for a moment, like a drop of rain,\nHe sinks into thy depths with bubbling groan,\nWithout a grave, unknell'd, uncoffin'd, and unknown."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "rapture",
+          "definition": "A feeling of intense pleasure or joy.",
+          "rhyme_hint": "capture, fracture, scripture"
+        },
+        {
+          "position": 2,
+          "correct_word": "shore",
+          "definition": "The land along the edge of a sea or lake.",
+          "rhyme_hint": "roar, more, before"
+        },
+        {
+          "position": 3,
+          "correct_word": "Ocean",
+          "definition": "The vast body of salt water covering most of the earth.",
+          "rhyme_hint": "notion, motion, lotion"
+        }
+      ],
+      "distractor_words": [
+        "woods",
+        "music",
+        "nature",
+        "fleets",
+        "earth",
+        "grave"
+      ]
+    },
+    {
+      "id": "classic_00477",
+      "title": "The Lotos-Eaters (Excerpt)",
+      "author": "Alfred, Lord Tennyson",
+      "difficulty": "medium",
+      "theme": "Drowsy Escape",
+      "category": "Mind & Solitude",
+      "poem_stanzas": [
+        "There is sweet music here that softer falls\nThan petals from blown roses on the grass,\nOr night-dews on still waters between walls\nOf shadowy granite, in a gleaming pass;\nMusic that gentlier on the spirit lies,\nThan tir'd eyelids upon tir'd eyes;\nMusic that brings sweet sleep down from the blissful skies.\nHere are cool mosses deep,\nAnd thro' the moss the ivies creep,\nAnd in the stream the long-leaved flowers weep,\nAnd from the craggy ledge the poppy hangs in sleep."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "petals",
+          "definition": "The delicate coloured segments of a flower.",
+          "rhyme_hint": "metals, nettles, kettles"
+        },
+        {
+          "position": 2,
+          "correct_word": "mosses",
+          "definition": "Small flowerless plants forming low green cushions.",
+          "rhyme_hint": "bosses, losses, crosses"
+        },
+        {
+          "position": 3,
+          "correct_word": "poppy",
+          "definition": "A plant with large showy flowers; the source of opium.",
+          "rhyme_hint": "copy, happy, sloppy"
+        }
+      ],
+      "distractor_words": [
+        "music",
+        "roses",
+        "waters",
+        "granite",
+        "ivies",
+        "sleep"
+      ]
+    },
+    {
+      "id": "classic_00478",
+      "title": "The Brook",
+      "author": "Alfred, Lord Tennyson",
+      "difficulty": "easy",
+      "theme": "Rivers & Time",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "I come from haunts of coot and hern,\n   I make a sudden sally\nAnd sparkle out among the fern,\n   To bicker down a valley.",
+        "By thirty hills I hurry down,\n   Or slip between the ridges,\nBy twenty thorpes, a little town,\n   And half a hundred bridges.",
+        "Till last by Philip's farm I flow\n   To join the brimming river,\nFor men may come and men may go,\n   But I go on for ever.",
+        "I chatter over stony ways,\n   In little sharps and trebles,\nI bubble into eddying bays,\n   I babble on the pebbles.",
+        "With many a curve my banks I fret\n   By many a field and fallow,\nAnd many a fairy foreland set\n   With willow-weed and mallow.",
+        "I chatter, chatter, as I flow\n   To join the brimming river,\nFor men may come and men may go,\n   But I go on for ever.",
+        "I wind about, and in and out,\n   With here a blossom sailing,\nAnd here and there a lusty trout,\n   And here and there a grayling,",
+        "And here and there a foamy flake\n   Upon me, as I travel\nWith many a silvery waterbreak\n   Above the golden gravel,",
+        "And draw them all along, and flow\n   To join the brimming river,\nFor men may come and men may go,\n   But I go on for ever.",
+        "I steal by lawns and grassy plots,\n   I slide by hazel covers;\nI move the sweet forget-me-nots\n   That grow for happy lovers.",
+        "I slip, I slide, I gloom, I glance,\n   Among my skimming swallows;\nI make the netted sunbeam dance\n   Against my sandy shallows.",
+        "I murmur under moon and stars\n   In brambly wildernesses;\nI linger by my shingly bars;\n   I loiter round my cresses;",
+        "And out again I curve and flow\n   To join the brimming river,\nFor men may come and men may go,\n   But I go on for ever."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "bicker",
+          "definition": "To flow or move with a rippling, gurgling sound.",
+          "rhyme_hint": "sticker, thicker, quicker"
+        },
+        {
+          "position": 2,
+          "correct_word": "mallow",
+          "definition": "A plant with pink or white flowers.",
+          "rhyme_hint": "fallow, shallow, swallow"
+        },
+        {
+          "position": 3,
+          "correct_word": "grayling",
+          "definition": "A silvery freshwater fish related to the trout.",
+          "rhyme_hint": "ailing, failing, trailing"
+        }
+      ],
+      "distractor_words": [
+        "valley",
+        "hills",
+        "river",
+        "bridges",
+        "trout",
+        "sunbeam"
+      ]
+    },
+    {
+      "id": "classic_00479",
+      "title": "The Pied Piper of Hamelin (Excerpt)",
+      "author": "Robert Browning",
+      "difficulty": "medium",
+      "theme": "Legend & Consequence",
+      "category": "Joy & Whimsy",
+      "poem_stanzas": [
+        "Hamelin Town's in Brunswick,\nBy famous Hanover city;\nThe river Weser, deep and wide,\nWashes its wall on the southern side;\nA pleasanter spot you never spied;\nBut, when begins my ditty,\nAlmost five hundred years ago,\nTo see the townsfolk suffer so\nFrom vermin, was a pity.",
+        "Rats!\nThey fought the dogs, and killed the cats,\nAnd bit the babies in the cradles,\nAnd ate the cheeses out of the vats,\nAnd licked the soup from the cooks' own ladles,\nSplit open the kegs of salted sprats,\nMade nests inside men's Sunday hats,\nAnd even spoiled the women's chats,\nBy drowning their speaking\nWith shrieking and squeaking\nIn fifty different sharps and flats."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "vermin",
+          "definition": "Wild animals regarded as pests or nuisances.",
+          "rhyme_hint": "sermon, german, determine"
+        },
+        {
+          "position": 2,
+          "correct_word": "cradles",
+          "definition": "Small beds for infants, mounted on rockers.",
+          "rhyme_hint": "ladles, saddles, paddles"
+        },
+        {
+          "position": 3,
+          "correct_word": "sprats",
+          "definition": "Small edible sea fish of the herring family.",
+          "rhyme_hint": "rats, cats, hats"
+        }
+      ],
+      "distractor_words": [
+        "dogs",
+        "cheeses",
+        "soup",
+        "kegs",
+        "babies",
+        "townsfolk"
+      ]
+    },
+    {
+      "id": "classic_00480",
+      "title": "The Cry of the Children (Excerpt)",
+      "author": "Elizabeth Barrett Browning",
+      "difficulty": "hard",
+      "theme": "Sorrow & Injustice",
+      "category": "War & Society",
+      "poem_stanzas": [
+        "Do ye hear the children weeping, O my brothers,\n   Ere the sorrow comes with years?\nThey are leaning their young heads against their mothers,—\n   And that cannot stop their tears.\nThe young lambs are bleating in the meadows;\n   The young birds are chirping in the nest;\nThe young fawns are playing with the shadows;\n   The young flowers are blowing toward the west—\nBut the young, young children, O my brothers,\n   They are weeping bitterly!\nThey are weeping in the playtime of the others,\n   In the country of the free."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "bleating",
+          "definition": "Making the wavering cry of a sheep or goat.",
+          "rhyme_hint": "beating, fleeting, meeting"
+        },
+        {
+          "position": 2,
+          "correct_word": "fawns",
+          "definition": "Young deer.",
+          "rhyme_hint": "dawns, yawns, lawns"
+        },
+        {
+          "position": 3,
+          "correct_word": "meadows",
+          "definition": "Fields of grass and wild flowers.",
+          "rhyme_hint": "shadows, windows, fellows"
+        }
+      ],
+      "distractor_words": [
+        "children",
+        "mothers",
+        "tears",
+        "lambs",
+        "birds",
+        "flowers"
+      ]
+    },
+    {
+      "id": "classic_00481",
+      "title": "Who Has Seen the Wind?",
+      "author": "Christina Rossetti",
+      "difficulty": "easy",
+      "theme": "The Wind",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "Who has seen the wind?\nNeither I nor you:\nBut when the leaves hang trembling,\nThe wind is passing through.",
+        "Who has seen the wind?\nNeither you nor I:\nBut when the trees bow down their heads,\nThe wind is passing by."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "leaves",
+          "definition": "Flat green parts that grow from a plant's stem.",
+          "rhyme_hint": "weaves, heaves, sleeves"
+        },
+        {
+          "position": 2,
+          "correct_word": "trembling",
+          "definition": "Shaking slightly and involuntarily.",
+          "rhyme_hint": "rambling, tumbling, fumbling"
+        },
+        {
+          "position": 3,
+          "correct_word": "trees",
+          "definition": "Tall woody plants with a trunk and branches.",
+          "rhyme_hint": "breeze, seas, knees"
+        }
+      ],
+      "distractor_words": [
+        "wind",
+        "earth",
+        "sky",
+        "rain",
+        "clouds",
+        "birds"
+      ]
+    },
+    {
+      "id": "classic_00482",
+      "title": "Goblin Market (Excerpt)",
+      "author": "Christina Rossetti",
+      "difficulty": "medium",
+      "theme": "Temptation & Wonder",
+      "category": "Joy & Whimsy",
+      "poem_stanzas": [
+        "Morning and evening\nMaids heard the goblins cry:\n\"Come buy our orchard fruits,\nCome buy, come buy:\nApples and quinces,\nLemons and oranges,\nPlump unpecked cherries,\nMelons and raspberries,\nBloom-down-cheeked peaches,\nSwart-headed mulberries,\nWild free-born cranberries,\nCrab-apples, dewberries,\nPine-apples, blackberries,\nApricots, strawberries;—\nAll ripe together\nIn summer weather,—\nMorns that pass by,\nFair eves that fly;\nCome buy, come buy:\nOur grapes fresh from the vine,\nPomegranates full and fine,\nDates and sharp bullaces,\nRare pears and greengages,\nDamsons and bilberries,\nTaste them and try:\nCurrants and gooseberries,\nBright-fire-like barberries,\nFigs to fill your mouth,\nCitrons from the South,\nSweet to tongue and sound to eye;\nCome buy, come buy.\""
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "quinces",
+          "definition": "Hard yellow fruits resembling large tart apples.",
+          "rhyme_hint": "princes, minces, winces"
+        },
+        {
+          "position": 2,
+          "correct_word": "dewberries",
+          "definition": "Small sweet dark berries of a trailing bramble.",
+          "rhyme_hint": "berries, cherries, fairies"
+        },
+        {
+          "position": 3,
+          "correct_word": "greengages",
+          "definition": "A variety of sweet green plum.",
+          "rhyme_hint": "cages, pages, stages"
+        }
+      ],
+      "distractor_words": [
+        "apples",
+        "lemons",
+        "melons",
+        "grapes",
+        "pears",
+        "figs"
+      ]
+    },
+    {
+      "id": "classic_00483",
+      "title": "Leda and the Swan",
+      "author": "William Butler Yeats",
+      "difficulty": "hard",
+      "theme": "Myth & Violence",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "A sudden blow: the great wings beating still\nAbove the staggering girl, her thighs caressed\nBy the dark webs, her nape caught in his bill,\nHe holds her helpless breast upon his breast.",
+        "How can those terrified vague fingers push\nThe feathered glory from her loosening thighs?\nAnd how can body, laid in that white rush,\nBut feel the strange heart beating where it lies?",
+        "A shudder in the loins engenders there\nThe broken wall, the burning roof and tower\nAnd Agamemnon dead.",
+        "Being so caught up,\nSo mastered by the brute blood of the air,\nDid she put on his knowledge with his power\nBefore the indifferent beak could let her drop?"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "staggering",
+          "definition": "Walking or moving unsteadily; reeling.",
+          "rhyme_hint": "wandering, pondering, shattering"
+        },
+        {
+          "position": 2,
+          "correct_word": "terrified",
+          "definition": "Filled with overwhelming fear.",
+          "rhyme_hint": "petrified, horrified, glorified"
+        },
+        {
+          "position": 3,
+          "correct_word": "indifferent",
+          "definition": "Showing no interest, concern, or sympathy.",
+          "rhyme_hint": "different, reverent, belligerent"
+        }
+      ],
+      "distractor_words": [
+        "swan",
+        "wings",
+        "girl",
+        "beak",
+        "tower",
+        "heart"
+      ]
+    },
+    {
+      "id": "classic_00484",
+      "title": "The Magi",
+      "author": "William Butler Yeats",
+      "difficulty": "hard",
+      "theme": "Faith & Seeking",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "Now as at all times I can see in the mind's eye,\nIn their stiff, painted clothes, the pale unsatisfied ones\nAppear and disappear in the blue depth of the sky\nWith all their ancient faces like rain-beaten stones,\nAnd all their helms of silver hovering side by side,\nAnd all their eyes still fixed, hoping to find once more,\nBeing by Calvary's turbulence unsatisfied,\nThe uncontrollable mystery on the bestial floor."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "unsatisfied",
+          "definition": "Not content; still wanting something more.",
+          "rhyme_hint": "petrified, fortified, terrified"
+        },
+        {
+          "position": 2,
+          "correct_word": "Calvary",
+          "definition": "The hill near Jerusalem where Jesus was crucified.",
+          "rhyme_hint": "cavalry, salary, gallery"
+        },
+        {
+          "position": 3,
+          "correct_word": "bestial",
+          "definition": "Savage or beast-like in nature.",
+          "rhyme_hint": "wrestle, vessel, trestle"
+        }
+      ],
+      "distractor_words": [
+        "magi",
+        "sky",
+        "faces",
+        "silver",
+        "eyes",
+        "mystery"
+      ]
+    },
+    {
+      "id": "classic_00485",
+      "title": "Never Give All the Heart",
+      "author": "William Butler Yeats",
+      "difficulty": "medium",
+      "theme": "Love & Betrayal",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "Never give all the heart, for love\nWill hardly seem worth thinking of\nTo passionate women if it seem\nCertain, and they never dream\nThat it fades out from kiss to kiss;\nFor everything that's lovely is\nBut a brief, dreamy, kind delight.\nO never give the heart outright,\nFor they, for all smooth lips can say,\nHave given their hearts up to the play.\nAnd who could play it well enough\nIf deaf and dumb and blind with love?\nHe that made this knows all the cost,\nFor he gave all his heart and lost."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "fades",
+          "definition": "Gradually loses brightness, strength, or value.",
+          "rhyme_hint": "shades, grades, spades"
+        },
+        {
+          "position": 2,
+          "correct_word": "delight",
+          "definition": "Great pleasure or joy.",
+          "rhyme_hint": "tonight, bright, light"
+        },
+        {
+          "position": 3,
+          "correct_word": "blind",
+          "definition": "Unable to see; sightless.",
+          "rhyme_hint": "find, kind, mind"
+        }
+      ],
+      "distractor_words": [
+        "love",
+        "heart",
+        "kiss",
+        "dream",
+        "lips",
+        "play"
+      ]
+    },
+    {
+      "id": "classic_00486",
+      "title": "The Pasture",
+      "author": "Robert Frost",
+      "difficulty": "easy",
+      "theme": "Farm & Invitation",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "I'm going out to clean the pasture spring;\nI'll only stop to rake the leaves away\n(And wait to watch the water clear, I may):\nI sha'n't be gone long.—You come too.",
+        "I'm going out to fetch the little calf\nThat's standing by the mother. It's so young,\nIt totters when she licks it with her tongue.\nI sha'n't be gone long.—You come too."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "pasture",
+          "definition": "Grassland used for the grazing of cattle.",
+          "rhyme_hint": "faster, master, plaster"
+        },
+        {
+          "position": 2,
+          "correct_word": "calf",
+          "definition": "A young cow or bull.",
+          "rhyme_hint": "half, staff, laugh"
+        },
+        {
+          "position": 3,
+          "correct_word": "totters",
+          "definition": "Moves unsteadily; staggers.",
+          "rhyme_hint": "waters, daughters, shatters"
+        }
+      ],
+      "distractor_words": [
+        "spring",
+        "leaves",
+        "water",
+        "mother",
+        "tongue",
+        "farm"
+      ]
+    },
+    {
+      "id": "classic_00487",
+      "title": "Design",
+      "author": "Robert Frost",
+      "difficulty": "hard",
+      "theme": "Fate & Darkness",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "I found a dimpled spider, fat and white,\nOn a white heal-all, holding up a moth\nLike a white piece of rigid satin cloth—\nAssorted characters of death and blight\nMixed ready to begin the morning right,\nLike the ingredients of a witches' broth—\nA snow-drop spider, a flower like a froth,\nAnd dead wings carried like a paper kite.",
+        "What had that flower to do with being white,\nThe wayside blue and innocent heal-all?\nWhat brought the kindred spider to that height,\nThen steered the white moth thither in the night?\nWhat but design of darkness to appall?—\nIf design govern in a thing so small."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "dimpled",
+          "definition": "Having small hollows or indentations.",
+          "rhyme_hint": "simple, pimpled, crumpled"
+        },
+        {
+          "position": 2,
+          "correct_word": "satin",
+          "definition": "A smooth, glossy fabric.",
+          "rhyme_hint": "latin, matin, batten"
+        },
+        {
+          "position": 3,
+          "correct_word": "appall",
+          "definition": "To shock or dismay deeply.",
+          "rhyme_hint": "fall, hall, small"
+        }
+      ],
+      "distractor_words": [
+        "spider",
+        "moth",
+        "flower",
+        "white",
+        "night",
+        "broth"
+      ]
+    },
+    {
+      "id": "classic_00488",
+      "title": "Spring Pools",
+      "author": "Robert Frost",
+      "difficulty": "medium",
+      "theme": "Change & Season",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "These pools that, though in forests, still reflect\nThe total sky almost without defect,\nAnd like the flowers beside them, chill and shiver,\nWill like the flowers beside them soon be gone,\nAnd yet not out by any brook or river,\nBut up by roots to bring dark foliage on.",
+        "The trees that have it in their pent-up buds\nTo darken nature and be summer woods—\nLet them think twice before they use their powers\nTo blot out and drink up and sweep away\nThese flowery waters and these watery flowers\nFrom snow that melted only yesterday."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "reflect",
+          "definition": "To throw back light, heat, or an image.",
+          "rhyme_hint": "defect, connect, respect"
+        },
+        {
+          "position": 2,
+          "correct_word": "shiver",
+          "definition": "To tremble, especially from cold or fear.",
+          "rhyme_hint": "quiver, liver, sliver"
+        },
+        {
+          "position": 3,
+          "correct_word": "buds",
+          "definition": "Small growths that become leaves or flowers.",
+          "rhyme_hint": "duds, suds, woods"
+        }
+      ],
+      "distractor_words": [
+        "pools",
+        "forests",
+        "flowers",
+        "waters",
+        "trees",
+        "snow"
+      ]
+    },
+    {
+      "id": "classic_00489",
+      "title": "Tree at My Window",
+      "author": "Robert Frost",
+      "difficulty": "medium",
+      "theme": "Man & Nature",
+      "category": "Mind & Solitude",
+      "poem_stanzas": [
+        "Tree at my window, window tree,\nMy sash is lowered when night comes on;\nBut let there never be curtain drawn\nBetween you and me.",
+        "Vague dream-head lifted out of the ground,\nAnd thing next most diffuse to cloud,\nNot all your light tongues talking aloud\nCould be profound.",
+        "But, tree, I have seen you taken and tossed,\nAnd if you have seen me when I slept,\nYou have seen me when I was taken and swept\nAnd all but lost.",
+        "That day she put our heads together,\nFate had her imagination about her,\nYour head so much concerned with outer,\nMine with inner, weather."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "sash",
+          "definition": "A frame holding the glass of a window.",
+          "rhyme_hint": "cash, gash, flash"
+        },
+        {
+          "position": 2,
+          "correct_word": "diffuse",
+          "definition": "Spread out over a wide area; not concentrated.",
+          "rhyme_hint": "abuse, excuse, refuse"
+        },
+        {
+          "position": 3,
+          "correct_word": "tossed",
+          "definition": "Thrown about roughly; flung.",
+          "rhyme_hint": "cost, crossed, frosted"
+        }
+      ],
+      "distractor_words": [
+        "window",
+        "night",
+        "cloud",
+        "tongue",
+        "heads",
+        "weather"
+      ]
+    },
+    {
+      "id": "classic_00490",
+      "title": "A Sight in Camp in the Daybreak Gray and Dim",
+      "author": "Walt Whitman",
+      "difficulty": "hard",
+      "theme": "War & Compassion",
+      "category": "War & Society",
+      "poem_stanzas": [
+        "A sight in camp in the daybreak gray and dim,\nAs from my tent I emerge so early sleepless,\nAs slow I walk in the cool fresh air the paths near by the hospital tent,\nThree forms I see on stretchers lying, brought out there untended lying,\nOver each the blanket spread, ample brownish woolen blanket,\nGray and heavy blanket, folding, covering all.",
+        "Curious I halt and silent stand,\nThen with light fingers I from the face of the nearest the first just lift the blanket;\nWho are you elderly man so gaunt and grim, with well-grayed hair, and flesh all sunken about the eyes?\nWho are you my dear comrade?",
+        "Then to the second I step—and who are you my child and darling?\nWho are you sweet boy with cheeks yet blooming?",
+        "Then to the third—a face nor child nor old, very calm, as of beautiful yellow-white ivory;\nYoung man I think I know you—I think this face is the face of the Christ himself,\nDead and divine and brother of all, and here again he lies."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "gaunt",
+          "definition": "Lean and haggard, especially from hunger or age.",
+          "rhyme_hint": "haunt, taunt, jaunt"
+        },
+        {
+          "position": 2,
+          "correct_word": "blooming",
+          "definition": "Flourishing; bearing blossoms.",
+          "rhyme_hint": "glooming, booming, looming"
+        },
+        {
+          "position": 3,
+          "correct_word": "divine",
+          "definition": "Of or like a god; heavenly.",
+          "rhyme_hint": "shrine, wine, line"
+        }
+      ],
+      "distractor_words": [
+        "camp",
+        "blanket",
+        "face",
+        "child",
+        "boy",
+        "Christ"
+      ]
+    },
+    {
+      "id": "classic_00491",
+      "title": "I Sit and Look Out",
+      "author": "Walt Whitman",
+      "difficulty": "hard",
+      "theme": "Sorrow & Silence",
+      "category": "War & Society",
+      "poem_stanzas": [
+        "I sit and look out upon all the sorrows of the world, and upon all oppression and shame,\nI hear secret convulsive sobs from young men at anguish with themselves, remorseful after deeds done,\nI see in low life the mother misused by her children, dying, neglected, gaunt, desperate,\nI see the wife misused by her husband, I see the treacherous seducer of young women,\nI mark the ranklings of jealousy and unrequited love, attempted to be hid,\nI see these sights on the earth,\nI see the workings of battle, pestilence, tyranny, I see martyrs and prisoners,\nI observe a famine at sea, I observe the sailors casting lots who shall be kill'd to preserve the lives of the rest,\nI observe the slights and degradations cast by arrogant persons upon laborers, the poor, and upon negroes, and the like;\nAll these—All the meanness and agony without end I sitting look out upon,\nSee, hear, and am silent."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "anguish",
+          "definition": "Severe mental or physical pain or suffering.",
+          "rhyme_hint": "languish, language"
+        },
+        {
+          "position": 2,
+          "correct_word": "seducer",
+          "definition": "A person who entices another into wrongdoing.",
+          "rhyme_hint": "producer, reducer, introducer"
+        },
+        {
+          "position": 3,
+          "correct_word": "pestilence",
+          "definition": "A fatal epidemic disease.",
+          "rhyme_hint": "violence, benevolence, turbulence"
+        }
+      ],
+      "distractor_words": [
+        "sorrows",
+        "oppression",
+        "shame",
+        "mother",
+        "wife",
+        "prisoners"
+      ]
+    },
+    {
+      "id": "classic_00492",
+      "title": "The Dalliance of the Eagles",
+      "author": "Walt Whitman",
+      "difficulty": "hard",
+      "theme": "Eagles & Flight",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "Skirting the river road, (my forenoon walk, my rest,)\nSkyward in air a sudden muffled sound, the dalliance of the eagles,\nThe rushing amorous contact high in space together,\nThe clinching interlocking claws, a living, fierce, gyrating wheel,\nFour beating wings, two beaks, a swirling mass tight grappling,\nIn tumbling turning clustering loops, straight downward falling,\nTill o'er the river pois'd, the twain yet one, a moment's lull,\nA motionless still balance in the air, then parting, talons loosing,\nUpward again on slow-firm pinions slanting, their separate diverse flight,\nShe hers, he his, pursuing."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "dalliance",
+          "definition": "A casual romantic or playful involvement.",
+          "rhyme_hint": "alliance, defiance, compliance"
+        },
+        {
+          "position": 2,
+          "correct_word": "amorous",
+          "definition": "Showing or feeling romantic love.",
+          "rhyme_hint": "glamorous, clamorous, dolorous"
+        },
+        {
+          "position": 3,
+          "correct_word": "talons",
+          "definition": "The sharp hooked claws of a bird of prey.",
+          "rhyme_hint": "gallons, stallions, medallions"
+        }
+      ],
+      "distractor_words": [
+        "river",
+        "eagles",
+        "wings",
+        "beaks",
+        "claws",
+        "flight"
+      ]
+    },
+    {
+      "id": "classic_00493",
+      "title": "A Light Exists in Spring",
+      "author": "Emily Dickinson",
+      "difficulty": "medium",
+      "theme": "Light & Loss",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "A light exists in spring\nNot present on the year\nAt any other period.\nWhen March is scarcely here",
+        "A color stands abroad\nOn solitary hills\nThat science cannot overtake,\nBut human nature feels.",
+        "It waits upon the lawn;\nIt shows the furthest tree\nUpon the furthest slope we know;\nIt almost speaks to me.",
+        "Then, as horizons step,\nOr noons report away,\nWithout the formula of sound,\nIt passes, and we stay:",
+        "A quality of loss\nAffecting our content,\nAs trade had suddenly encroached\nUpon a sacrament."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "solitary",
+          "definition": "Done or existing alone.",
+          "rhyme_hint": "military, arbitrary, customary"
+        },
+        {
+          "position": 2,
+          "correct_word": "horizons",
+          "definition": "The lines where the earth and sky appear to meet.",
+          "rhyme_hint": "prisons, reasons, regions"
+        },
+        {
+          "position": 3,
+          "correct_word": "sacrament",
+          "definition": "A religious ceremony regarded as a means of grace.",
+          "rhyme_hint": "ornament, tournament, document"
+        }
+      ],
+      "distractor_words": [
+        "spring",
+        "color",
+        "hills",
+        "lawn",
+        "tree",
+        "sound"
+      ]
+    },
+    {
+      "id": "classic_00494",
+      "title": "The Wind Begun to Rock the Grass",
+      "author": "Emily Dickinson",
+      "difficulty": "medium",
+      "theme": "Storm & Power",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "The wind begun to rock the grass\nWith threatening tunes and low,—\nHe flung a menace at the earth,\nA menace at the sky.",
+        "The leaves unhooked themselves from trees\nAnd started all abroad;\nThe dust did scoop itself like hands\nAnd throw away the road.",
+        "The wagons quickened on the streets,\nThe thunder hurried slow;\nThe lightning showed a yellow beak,\nAnd then a livid claw.",
+        "The birds put up the bars to nests,\nThe cattle fled to barns;\nThere came one drop of giant rain,\nAnd then, as if the hands",
+        "That held the dams had parted hold,\nThe waters wrecked the sky,\nBut overlooked my father's house,\nJust quartering a tree."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "threatening",
+          "definition": "Expressing a warning of coming harm.",
+          "rhyme_hint": "frightening, brightening, tightening"
+        },
+        {
+          "position": 2,
+          "correct_word": "livid",
+          "definition": "Furiously angry, or discoloured blue-grey.",
+          "rhyme_hint": "vivid, rigid, frigid"
+        },
+        {
+          "position": 3,
+          "correct_word": "wrecked",
+          "definition": "Destroyed or badly damaged.",
+          "rhyme_hint": "checked, decked, pecked"
+        }
+      ],
+      "distractor_words": [
+        "wind",
+        "grass",
+        "leaves",
+        "dust",
+        "thunder",
+        "rain"
+      ]
+    },
+    {
+      "id": "classic_00495",
+      "title": "To Make a Prairie",
+      "author": "Emily Dickinson",
+      "difficulty": "easy",
+      "theme": "Imagination & Nature",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "To make a prairie it takes a clover and one bee,\nOne clover, and a bee,\nAnd revery.\nThe revery alone will do,\nIf bees are few."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "prairie",
+          "definition": "A large area of flat grassland.",
+          "rhyme_hint": "merry, ferry, berry"
+        },
+        {
+          "position": 2,
+          "correct_word": "clover",
+          "definition": "A low plant with three-lobed leaves and rounded flowers.",
+          "rhyme_hint": "over, rover, plover"
+        },
+        {
+          "position": 3,
+          "correct_word": "bee",
+          "definition": "A flying insect that gathers nectar and pollen.",
+          "rhyme_hint": "see, free, tree"
+        }
+      ],
+      "distractor_words": [
+        "grass",
+        "field",
+        "flower",
+        "honey",
+        "summer",
+        "meadow"
+      ]
+    },
+    {
+      "id": "classic_00496",
+      "title": "The Slave's Dream (Excerpt)",
+      "author": "Henry Wadsworth Longfellow",
+      "difficulty": "medium",
+      "theme": "Slavery & Freedom",
+      "category": "War & Society",
+      "poem_stanzas": [
+        "Beside the ungathered rice he lay,\nHis sickle in his hand;\nHis breast was bare, his matted hair\nWas buried in the sand.\nAgain, in the mist and shadow of sleep,\nHe saw his Native Land.",
+        "Wide through the landscape of his dreams\nThe lordly Niger flowed;\nBeneath the palm-trees on the plain\nOnce more a king he strode;\nAnd heard the tinkling caravans\nDescend the mountain-road.",
+        "He saw once more his dark-eyed queen\nAmong her children stand;\nThey clasped his neck, they kissed his cheeks,\nThey held him by the hand!—\nA tear burst from the sleeper's lids\nAnd fell into the sand."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "sickle",
+          "definition": "A short curved blade for cutting grass or grain.",
+          "rhyme_hint": "fickle, pickle, nickel"
+        },
+        {
+          "position": 2,
+          "correct_word": "caravans",
+          "definition": "Groups of travellers journeying together.",
+          "rhyme_hint": "plans, clans, fans"
+        },
+        {
+          "position": 3,
+          "correct_word": "strode",
+          "definition": "Walked with long, decisive steps.",
+          "rhyme_hint": "road, load, toad"
+        }
+      ],
+      "distractor_words": [
+        "rice",
+        "sand",
+        "palm",
+        "river",
+        "hand",
+        "dreams"
+      ]
+    },
+    {
+      "id": "classic_00497",
+      "title": "Christmas Bells",
+      "author": "Henry Wadsworth Longfellow",
+      "difficulty": "easy",
+      "theme": "Peace & Hope",
+      "category": "Hope & Resilience",
+      "poem_stanzas": [
+        "I heard the bells on Christmas Day\nTheir old, familiar carols play,\n    And wild and sweet\n    The words repeat\nOf peace on earth, good-will to men!",
+        "And thought how, as the day had come,\nThe belfries of all Christendom\n    Had rolled along\n    The unbroken song\nOf peace on earth, good-will to men!",
+        "Till ringing, singing on its way,\nThe world revolved from night to day,\n    A voice, a chime,\n    A chant sublime\nOf peace on earth, good-will to men!",
+        "Then from each black, accursed mouth\nThe cannon thundered in the South,\n    And with the sound\n    The carols drowned\nOf peace on earth, good-will to men!",
+        "It was as if an earthquake rent\nThe hearth-stones of a continent,\n    And made forlorn\n    The households born\nOf peace on earth, good-will to men!",
+        "And in despair I bowed my head;\n\"There is no peace on earth,\" I said;\n    \"For hate is strong,\n    And mocks the song\nOf peace on earth, good-will to men!\"",
+        "Then pealed the bells more loud and deep:\n\"God is not dead, nor doth He sleep;\n    The Wrong shall fail,\n    The Right prevail,\nWith peace on earth, good-will to men.\""
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "belfries",
+          "definition": "The parts of a tower in which bells are hung.",
+          "rhyme_hint": "selfies, shelves, elves"
+        },
+        {
+          "position": 2,
+          "correct_word": "cannon",
+          "definition": "A large heavy gun fired from a mounted carriage.",
+          "rhyme_hint": "manner, banner, manor"
+        },
+        {
+          "position": 3,
+          "correct_word": "earthquake",
+          "definition": "A sudden violent shaking of the ground.",
+          "rhyme_hint": "overtake, mistake, awake"
+        }
+      ],
+      "distractor_words": [
+        "carols",
+        "peace",
+        "song",
+        "hate",
+        "day",
+        "bells"
+      ]
+    },
+    {
+      "id": "classic_00498",
+      "title": "The Bridge (Excerpt)",
+      "author": "Henry Wadsworth Longfellow",
+      "difficulty": "medium",
+      "theme": "Memory & Sorrow",
+      "category": "Mind & Solitude",
+      "poem_stanzas": [
+        "I stood on the bridge at midnight,\n   As the clocks were striking the hour,\nAnd the moon rose o'er the city,\n   Behind the dark church-tower.",
+        "I saw her bright reflection\n   In the waters under me,\nLike a golden goblet falling\n   And sinking into the sea.",
+        "And far in the hazy distance\n   Of that lovely night in June,\nThe blaze of the flaming furnace\n   Gleamed redder than the moon.",
+        "Among the long, black rafters\n   The wavering shadows lay,\nAnd the current that came from the ocean\n   Seemed to lift and bear them away;",
+        "As, sweeping and eddying through them,\n   Rose the belated tide,\nAnd, streaming into the moonlight,\n   The seaweed floated wide.",
+        "And like those waters rushing\n   Among the wooden piers,\nA flood of thoughts came o'er me\n   That filled my eyes with tears."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "goblet",
+          "definition": "A drinking vessel with a foot and a stem.",
+          "rhyme_hint": "wallet, ballot, mallet"
+        },
+        {
+          "position": 2,
+          "correct_word": "rafters",
+          "definition": "Sloping beams that support a roof.",
+          "rhyme_hint": "drafters, grafters, crafters"
+        },
+        {
+          "position": 3,
+          "correct_word": "belated",
+          "definition": "Coming later than expected.",
+          "rhyme_hint": "related, inflated, elated"
+        }
+      ],
+      "distractor_words": [
+        "bridge",
+        "moon",
+        "city",
+        "waters",
+        "sea",
+        "tide"
+      ]
+    },
+    {
+      "id": "classic_00499",
+      "title": "The Sleeper (Excerpt)",
+      "author": "Edgar Allan Poe",
+      "difficulty": "hard",
+      "theme": "Death & Sleep",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "At midnight, in the month of June,\nI stand beneath the mystic moon.\nAn opiate vapor, dewy, dim,\nExhales from out her golden rim,\nAnd, softly dripping, drop by drop,\nUpon the quiet mountain top,\nSteals drowsily and musically\nInto the universal valley.\nThe rosemary nods upon the grave;\nThe lily lolls upon the wave;\nWrapping the fog about its breast,\nThe ruin moulders into rest;\nLooking like Lethe, see! the lake\nA conscious slumber seems to take,\nAnd would not, for the world, awake.\nAll Beauty sleeps!—and lo! where lies\nIrene, with her Destinies!",
+        "Oh, lady bright! can it be right—\nThis window open to the night?\nThe wanton airs, from the tree-top,\nLaughingly through the lattice drop—\nThe bodiless airs, a wizard rout,\nFlit through thy chamber in and out,\nAnd wave the curtain canopy\nSo fitfully—so fearfully—\nAbove the closed and fringed lid\n'Neath which thy slumb'ring soul lies hid,\nThat, o'er the floor and down the wall,\nLike ghosts the shadows rise and fall!\nOh, lady dear, hast thou no fear?\nWhy and what art thou dreaming here?\nSure thou art come o'er far-off seas,\nA wonder to these garden trees!\nStrange is thy pallor! strange thy dress!\nStrange, above all, thy length of tress,\nAnd this all solemn silentness!"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "opiate",
+          "definition": "A drug containing opium, used to induce sleep.",
+          "rhyme_hint": "expiate, appropriate, associate"
+        },
+        {
+          "position": 2,
+          "correct_word": "lattice",
+          "definition": "A framework of crossed strips forming a grid.",
+          "rhyme_hint": "palace, mattress, chalice"
+        },
+        {
+          "position": 3,
+          "correct_word": "pallor",
+          "definition": "An unhealthy pale appearance.",
+          "rhyme_hint": "color, dollar, scholar"
+        }
+      ],
+      "distractor_words": [
+        "midnight",
+        "moon",
+        "valley",
+        "grave",
+        "lake",
+        "sleep"
+      ]
+    },
+    {
+      "id": "classic_00500",
+      "title": "Spirits of the Dead",
+      "author": "Edgar Allan Poe",
+      "difficulty": "hard",
+      "theme": "Death & Spirits",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "Thy soul shall find itself alone\n'Mid dark thoughts of the gray tombstone—\nNot one, of all the crowd, to pry\nInto thine hour of secrecy.\nBe silent in that solitude,\nWhich is not loneliness—for then\nThe spirits of the dead who stood\nIn life before thee are again\nIn death around thee—and their will\nShall overshadow thee: be still.\nThe night, tho' clear, shall frown—\nAnd the stars shall look not down\nFrom their high thrones in the heaven,\nWith light like Hope to mortals given—\nBut their red orbs, without beam,\nTo thy weariness shall seem\nAs a burning and a fever\nWhich would cling to thee for ever.\nNow are thoughts thou shalt not banish—\nNow are visions ne'er to vanish—\nFrom thy spirit shall they pass\nNo more—like dew-drop from the grass.\nThe breeze—the breath of God—is still—\nAnd the mist upon the hill,\nShadowy—shadowy—yet unbroken,\nIs a symbol and a token—\nHow it hangs upon the trees,\nA mystery of mysteries!—"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "tombstone",
+          "definition": "A stone slab marking a grave.",
+          "rhyme_hint": "freestone, milestone, flagstone"
+        },
+        {
+          "position": 2,
+          "correct_word": "banish",
+          "definition": "To send someone away; to drive out.",
+          "rhyme_hint": "vanish, clannish, tarnish"
+        },
+        {
+          "position": 3,
+          "correct_word": "mystery",
+          "definition": "Something difficult or impossible to understand.",
+          "rhyme_hint": "history, misery, victory"
+        }
+      ],
+      "distractor_words": [
+        "soul",
+        "grave",
+        "night",
+        "stars",
+        "breeze",
+        "mist"
+      ]
+    },
+    {
+      "id": "classic_00501",
+      "title": "The Valley of Unrest",
+      "author": "Edgar Allan Poe",
+      "difficulty": "hard",
+      "theme": "Restless Death",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "Once it smiled a silent dell\nWhere the people did not dwell;\nThey had gone unto the wars,\nTrusting to the mild-eyed stars,\nNightly, from their azure towers,\nTo keep watch above the flowers,\nIn the midst of which all day\nThe red sun-light lazily lay.\nNow each visitor shall confess\nThe sad valley's restlessness.\nNothing there is motionless—\nNothing save the airs that brood\nOver the magic solitude.\nAh, by no wind are stirred those trees\nThat palpitate like the chill seas\nAround the misty Hebrides!\nAh, by no wind those clouds are driven\nThat rustle through the unquiet Heaven\nUneasily, from morn till even,\nOver the violets there that lie\nIn myriad types of the human eye—\nOver the lilies there that wave\nAnd weep above a nameless grave!\nThey wave:—from out their fragrant tops\nEternal dews come down in drops.\nThey weep:—from off their delicate stems\nPerennial tears descend in gems."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "dell",
+          "definition": "A small secluded valley.",
+          "rhyme_hint": "bell, tell, well"
+        },
+        {
+          "position": 2,
+          "correct_word": "Hebrides",
+          "definition": "A group of islands off the west coast of Scotland.",
+          "rhyme_hint": "remedies, tragedies, centuries"
+        },
+        {
+          "position": 3,
+          "correct_word": "perennial",
+          "definition": "Lasting or existing for a long time.",
+          "rhyme_hint": "millennial, biennial, colonial"
+        }
+      ],
+      "distractor_words": [
+        "valley",
+        "stars",
+        "flowers",
+        "clouds",
+        "lilies",
+        "grave"
+      ]
+    },
+    {
+      "id": "classic_00502",
+      "title": "Singing",
+      "author": "Robert Louis Stevenson",
+      "difficulty": "easy",
+      "theme": "Song & Travel",
+      "category": "Joy & Whimsy",
+      "poem_stanzas": [
+        "Of speckled eggs the birdie sings\nAnd nests among the trees;\nThe sailor sings of ropes and things\nIn ships upon the seas.",
+        "The children sing in far Japan,\nThe children sing in Spain;\nThe organ with the organ man\nIs singing in the rain."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "speckled",
+          "definition": "Marked with small spots or patches.",
+          "rhyme_hint": "freckled, wrinkled, crackled"
+        },
+        {
+          "position": 2,
+          "correct_word": "sailor",
+          "definition": "A person who works on a ship.",
+          "rhyme_hint": "tailor, jailer, wailer"
+        },
+        {
+          "position": 3,
+          "correct_word": "Spain",
+          "definition": "A country in south-western Europe.",
+          "rhyme_hint": "rain, plain, train"
+        }
+      ],
+      "distractor_words": [
+        "eggs",
+        "birdie",
+        "nests",
+        "trees",
+        "ships",
+        "children"
+      ]
+    },
+    {
+      "id": "classic_00503",
+      "title": "The Land of Story-Books",
+      "author": "Robert Louis Stevenson",
+      "difficulty": "easy",
+      "theme": "Childhood & Imagination",
+      "category": "Joy & Whimsy",
+      "poem_stanzas": [
+        "At evening when the lamp is lit,\nAround the fire my parents sit;\nThey sit at home and talk and sing,\nAnd do not play at anything.",
+        "Now, with my little gun, I crawl\nAll in the dark along the wall,\nAnd follow round the forest track\nAway behind the sofa back.",
+        "There, in the night, where none can spy,\nAll in my hunter's camp I lie,\nAnd play at books that I have read\nTill it is time to go to bed.",
+        "These are the hills, these are the woods,\nThese are my starry solitudes;\nAnd there the river by whose brink\nThe roaring lions come to drink.",
+        "I see the others far away\nAs if in firelit camp they lay,\nAnd I, like to an Indian scout,\nAround their party prowled about.",
+        "So, when my nurse comes in for me,\nHome I return across the sea,\nAnd go to bed with backward looks\nAt my dear land of Story-books."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "lamp",
+          "definition": "A device that gives light, often by burning oil.",
+          "rhyme_hint": "damp, camp, stamp"
+        },
+        {
+          "position": 2,
+          "correct_word": "crawl",
+          "definition": "To move forward on the hands and knees.",
+          "rhyme_hint": "brawl, shawl, drawl"
+        },
+        {
+          "position": 3,
+          "correct_word": "prowled",
+          "definition": "Moved about stealthily, as in search of prey.",
+          "rhyme_hint": "howled, growled, scowled"
+        }
+      ],
+      "distractor_words": [
+        "fire",
+        "sofa",
+        "forest",
+        "hill",
+        "river",
+        "lions"
+      ]
+    },
+    {
+      "id": "classic_00504",
+      "title": "Looking-Glass River",
+      "author": "Robert Louis Stevenson",
+      "difficulty": "easy",
+      "theme": "Rivers & Play",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "Smooth it slides and glides along,\n   Ridges to the left and right,\nHere and there a little song\n   From the pebbles in its flight.\nThere are bridges on its way,\n   There are lilies in its bed,\nAnd a boat that sails to-day\n   Where the kingfisher is bred.",
+        "But the pleasantest of all\n   Is to sit and watch it pass,\nMaking pictures on the wall\n   Of the fallen leaf and grass:\nDrain the meadows, you may see,\n   Trees and hedges in a row,\nAnd an old man on a knee\n   Dabbling with his ducks below.",
+        "So the living river flows\n   All the summer hours away,\nAnd the happy schoolboy knows\n   Where to spend his holiday:\nAnd, when evening brings the dark,\n   As he wades across the ford,\nShadows of the trees and lark\n   In the water are restored."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "slides",
+          "definition": "Moves smoothly along a surface.",
+          "rhyme_hint": "tides, rides, hides"
+        },
+        {
+          "position": 2,
+          "correct_word": "pebbles",
+          "definition": "Small stones worn smooth by water.",
+          "rhyme_hint": "rebels, devils, levels"
+        },
+        {
+          "position": 3,
+          "correct_word": "kingfisher",
+          "definition": "A brightly coloured bird that dives to catch fish.",
+          "rhyme_hint": "fisher, richer, pitcher"
+        }
+      ],
+      "distractor_words": [
+        "river",
+        "bridges",
+        "lilies",
+        "boat",
+        "meadows",
+        "trees"
+      ]
+    },
+    {
+      "id": "classic_00505",
+      "title": "The Little Boy Found",
+      "author": "William Blake",
+      "difficulty": "easy",
+      "theme": "Innocence & Guidance",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "The little boy lost in the lonely fen,\nLed by the wandering light,\nBegan to cry, but God, ever nigh,\nAppeared like his father, in white.",
+        "He kissed the child, and by the hand led,\nAnd to his mother brought,\nWho in sorrow pale, through the lonely dale,\nHer little boy weeping sought."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "fen",
+          "definition": "A low marshy area of land.",
+          "rhyme_hint": "den, hen, pen"
+        },
+        {
+          "position": 2,
+          "correct_word": "wandering",
+          "definition": "Moving about without a fixed course.",
+          "rhyme_hint": "wondering, pondering, meandering"
+        },
+        {
+          "position": 3,
+          "correct_word": "dale",
+          "definition": "A valley, especially a broad one.",
+          "rhyme_hint": "pale, tale, whale"
+        }
+      ],
+      "distractor_words": [
+        "boy",
+        "light",
+        "father",
+        "mother",
+        "child",
+        "hand"
+      ]
+    },
+    {
+      "id": "classic_00506",
+      "title": "The Divine Image",
+      "author": "William Blake",
+      "difficulty": "medium",
+      "theme": "Virtue & Divinity",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "To Mercy, Pity, Peace, and Love\nAll pray in their distress;\nAnd to these virtues of delight\nReturn their thankfulness.",
+        "For Mercy, Pity, Peace, and Love\nIs God, our father dear,\nAnd Mercy, Pity, Peace, and Love\nIs Man, his child and care.",
+        "For Mercy has a human heart,\nPity a human face,\nAnd Love, the human form divine,\nAnd Peace, the human dress.",
+        "Then every man, of every clime,\nThat prays in his distress,\nPrays to the human form divine,\nLove, Mercy, Pity, Peace.",
+        "And all must love the human form,\nIn heathen, Turk, or Jew;\nWhere Mercy, Love, and Pity dwell\nThere God is dwelling too."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "distress",
+          "definition": "Extreme anxiety, sorrow, or pain.",
+          "rhyme_hint": "possess, confess, unless"
+        },
+        {
+          "position": 2,
+          "correct_word": "virtues",
+          "definition": "Behaviour showing high moral standards.",
+          "rhyme_hint": "statues, issues, tissues"
+        },
+        {
+          "position": 3,
+          "correct_word": "heathen",
+          "definition": "A person who does not belong to a widely held religion.",
+          "rhyme_hint": "threaten, sweeten, eaten"
+        }
+      ],
+      "distractor_words": [
+        "mercy",
+        "pity",
+        "peace",
+        "love",
+        "human",
+        "heart"
+      ]
+    },
+    {
+      "id": "classic_00507",
+      "title": "A Cradle Song",
+      "author": "William Blake",
+      "difficulty": "medium",
+      "theme": "Infant & Divine",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "Sweet dreams, form a shade\nO'er my lovely infant's head;\nSweet dreams of pleasant streams\nBy happy, silent, moony beams.",
+        "Sweet sleep, with soft down\nWeave thy brows an infant crown.\nSweet sleep, Angel mild,\nHover o'er my happy child.",
+        "Sweet smiles, in the night\nHover over my delight;\nSweet smiles, mother's smiles,\nAll the livelong night beguiles.",
+        "Sweet moans, dovelike sighs,\nChase not slumber from thy eyes.\nSweet moans, sweeter smiles,\nAll the dovelike moans beguiles.",
+        "Sleep, sleep, happy child,\nAll creation slept and smil'd;\nSleep, sleep, happy sleep,\nWhile o'er thee thy mother weep.",
+        "Sweet babe, in thy face\nHoly image I can trace.\nSweet babe, once like thee,\nThy maker lay and wept for me,",
+        "Wept for me, for thee, for all,\nWhen he was an infant small.\nThou his image ever see,\nHeavenly face that smiles on thee,",
+        "Smiles on thee, on me, on all;\nWho became an infant small.\nInfant smiles are his own smiles;\nHeaven and earth to peace beguiles."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "beguiles",
+          "definition": "Charms or enchants, often deceptively.",
+          "rhyme_hint": "files, piles, aisles"
+        },
+        {
+          "position": 2,
+          "correct_word": "babe",
+          "definition": "A baby or very young child.",
+          "rhyme_hint": "cave, gave, wave"
+        },
+        {
+          "position": 3,
+          "correct_word": "trace",
+          "definition": "To find or discover by careful observation.",
+          "rhyme_hint": "face, grace, place"
+        }
+      ],
+      "distractor_words": [
+        "dreams",
+        "infant",
+        "sleep",
+        "smiles",
+        "moans",
+        "mother"
+      ]
+    },
+    {
+      "id": "classic_00508",
+      "title": "Infant Sorrow",
+      "author": "William Blake",
+      "difficulty": "medium",
+      "theme": "Birth & Struggle",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "My mother groand! my father wept.\nInto the dangerous world I leapt:\nHelpless, naked, piping loud;\nLike a fiend hid in a cloud.",
+        "Struggling in my father's hands,\nStriving against my swaddling bands:\nBound and weary I thought best\nTo sulk upon my mother's breast."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "leapt",
+          "definition": "Jumped forcefully; past tense of leap.",
+          "rhyme_hint": "wept, kept, crept"
+        },
+        {
+          "position": 2,
+          "correct_word": "swaddling",
+          "definition": "Strips of cloth wrapped around a baby.",
+          "rhyme_hint": "dawdling, toddling, straddling"
+        },
+        {
+          "position": 3,
+          "correct_word": "sulk",
+          "definition": "To be silent and sullen from resentment.",
+          "rhyme_hint": "bulk, hulk, milk"
+        }
+      ],
+      "distractor_words": [
+        "mother",
+        "father",
+        "world",
+        "cloud",
+        "hands",
+        "breast"
+      ]
+    },
+    {
+      "id": "classic_00509",
+      "title": "The Ruined Maid",
+      "author": "Thomas Hardy",
+      "difficulty": "hard",
+      "theme": "Class & Morality",
+      "category": "War & Society",
+      "poem_stanzas": [
+        "\"O 'Melia, my dear, this does everything crown!\nWho could have supposed I should meet you in Town?\nAnd whence such fair garments, such prosperi-ty?\"—\n\"O didn't you know I'd been ruined?\" said she.",
+        "—\"You left us in tatters, without shoes or socks,\nTired of digging potatoes, and spudding up docks;\nAnd now you've gay bracelets and bright feathers three!\"—\n\"Yes: that's how we dress when we're ruined,\" said she.",
+        "—\"At home in the barton you said 'thee' and 'thou',\nAnd 'thik oon', and 'theäs oon', and 't'other'; but now\nYour talking quite fits 'ee for high compa-ny!\"—\n\"Some polish is gained with one's ruin,\" said she.",
+        "—\"Your hands were like paws then, your face blue and bleak\nBut now I'm bewitched by your delicate cheek,\nAnd your little gloves fit as on any la-dy!\"—\n\"We never do work when we're ruined,\" said she.",
+        "—\"You used to call home-life a hag-ridden dream,\nAnd you'd sigh, and you'd sock; but at present you seem\nTo know not of megrims or melancho-ly!\"—\n\"True. One's pretty lively when ruined,\" said she.",
+        "—\"I wish I had feathers, a fine sweeping gown,\nAnd a delicate face, and could strut about Town!\"—\n\"My dear—a raw country girl, such as you be,\nCannot quite expect that. You ain't ruined,\" said she."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "tatters",
+          "definition": "Ragged, torn pieces of cloth.",
+          "rhyme_hint": "matters, chatters, platters"
+        },
+        {
+          "position": 2,
+          "correct_word": "bewitched",
+          "definition": "Enchanted or charmed.",
+          "rhyme_hint": "itched, switched, twitched"
+        },
+        {
+          "position": 3,
+          "correct_word": "gown",
+          "definition": "A long dress, especially a formal one.",
+          "rhyme_hint": "down, crown, renown"
+        }
+      ],
+      "distractor_words": [
+        "feathers",
+        "gloves",
+        "cheek",
+        "country",
+        "work",
+        "life"
+      ]
+    },
+    {
+      "id": "classic_00510",
+      "title": "Solitude",
+      "author": "Ella Wheeler Wilcox",
+      "difficulty": "medium",
+      "theme": "Solitude & Sorrow",
+      "category": "Mind & Solitude",
+      "poem_stanzas": [
+        "Laugh, and the world laughs with you;\nWeep, and you weep alone.\nFor the sad old earth must borrow its mirth,\nBut has trouble enough of its own.\nSing, and the hills will answer;\nSigh, it is lost on the air.\nThe echoes bound to a joyful sound,\nBut shrink from voicing care.",
+        "Rejoice, and men will seek you;\nGrieve, and they turn and go.\nThey want full measure of all your pleasure,\nBut they do not need your woe.\nBe glad, and your friends are many;\nBe sad, and you lose them all.\nThere are none to decline your nectared wine,\nBut alone you must drink life's gall.",
+        "Feast, and your halls are crowded;\nFast, and the world goes by.\nSucceed and give, and it helps you live,\nBut no man can help you die.\nThere is room in the halls of pleasure\nFor a long and lordly train,\nBut one by one we must all file on\nThrough the narrow aisles of pain."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "mirth",
+          "definition": "Amusement expressed in laughter.",
+          "rhyme_hint": "birth, earth, girth"
+        },
+        {
+          "position": 2,
+          "correct_word": "nectared",
+          "definition": "Sweetened like nectar; honeyed.",
+          "rhyme_hint": "lectured, textured, gestured"
+        },
+        {
+          "position": 3,
+          "correct_word": "aisles",
+          "definition": "Passageways between rows of seats.",
+          "rhyme_hint": "tiles, piles, miles"
+        }
+      ],
+      "distractor_words": [
+        "world",
+        "hills",
+        "friends",
+        "wine",
+        "gall",
+        "pain"
+      ]
+    }
+  ]
+}
