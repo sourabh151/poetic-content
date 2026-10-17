@@ -130,8 +130,24 @@ function checkPoemShape(p, tag) {
         errors.push(`${tag}: missing_word correct_word required`);
       if (!m.definition || m.definition.length < 10)
         errors.push(`${tag}: definition too short for "${m.correct_word}"`);
-      if (!m.rhyme_hint || !m.rhyme_hint.trim())
-        errors.push(`${tag}: rhyme_hint required for "${m.correct_word}"`);
+      const rh = typeof m.rhyme_hint === "string" ? m.rhyme_hint.trim() : "";
+      if (!rh) errors.push(`${tag}: rhyme_hint required for "${m.correct_word}"`);
+      else {
+        // rhyme_hint is a bare lowercase list of rhyming words ("feed, need, deed").
+        if (!/^[a-z][a-z'-]*(, [a-z][a-z'-]*)+$/.test(rh))
+          errors.push(`${tag}: rhyme_hint must be a lowercase comma-separated word list ("feed, need, deed")`);
+        if (/\b(rhymes?|with)\b/i.test(rh))
+          errors.push(`${tag}: rhyme_hint must not contain prose ("rhymes"/"with")`);
+        const tokens = rh.split(",").map((s) => s.trim().toLowerCase()).filter(Boolean);
+        if (tokens.length > 5)
+          errors.push(`${tag}: rhyme_hint has ${tokens.length} words (max 5)`);
+        const cw = norm(m.correct_word);
+        if (cw && tokens.includes(cw))
+          errors.push(`${tag}: rhyme_hint must not contain the answer "${m.correct_word}"`);
+        const dws = (Array.isArray(p.distractor_words) ? p.distractor_words : []).map(norm);
+        const hit = tokens.find((t) => dws.includes(t));
+        if (hit) errors.push(`${tag}: rhyme_hint "${hit}" collides with a distractor word`);
+      }
     }
   }
   const dw = p.distractor_words || [];

@@ -44,7 +44,7 @@ interface MissingWord {
   position: 1 | 2 | 3;          // Blank position in stanza
   correct_word: string;          // Word to fill in the blank
   definition: string;            // Definition of the correct word
-  rhyme_hint: string;            // Hint about rhyming or word relationship
+  rhyme_hint: string;            // Comma-separated list of 2-4 lowercase words that rhyme with correct_word
 }
 ```
 
@@ -61,8 +61,8 @@ interface MissingWord {
 - 3 missing words total, positioned at positions 1, 2, and 3
 - Each word must be a real word (or well-known coined word like "borogoves")
 - Definitions must match the correct word accurately
-- Rhyme hints must relate to how the word fits the poem's rhyme scheme
-- Hints can reference rhyming words, word meaning, or thematic connection
+- Rhyme hints are a bare list of rhyming words only (see §7) — never prose,
+  definitions, or thematic explanations
 
 ### 3. Difficulty Mapping
 - **easy**: Common words, obvious context, simple definitions
@@ -98,10 +98,37 @@ Each theme should generally map to its category, though some flexibility exists:
 | Whimsy & Romance | Joy & Whimsy |
 
 ### 7. Rhyme Hint Rules
-- Must provide useful clue without giving away the answer
-- Can reference: rhyming words in the stanza, word meaning, thematic role
-- Should help the learner understand word choice
-- Example patterns: "Rhymes with X", "Means to Y", "Near-rhymes with Z"
+
+`rhyme_hint` is a **bare, lowercase, comma-separated list of words that rhyme
+with `correct_word`** — nothing else. It is *not* a definition and *not* a
+sentence.
+
+- **Format:** 2–4 words, `word, word, word` (comma + single space). No quotes,
+  no leading/trailing punctuation, no "Rhymes with", no prose.
+  - Good: `feed, deed, need`  (for `mead`)
+  - Good: `joy, boy, alloy`   (for `destroy`)
+  - Bad: `Rhymes with 'feed'; the streamside field where the lamb grazes.`
+- **Poem partner first:** if the poem already rhymes the word with another word,
+  put that partner first (e.g. `feed, need, deed`).
+- **Never include** the `correct_word` itself, any of the 6 `distractor_words`,
+  or profanity/vulgar words (§10 applies to hints too).
+- **Prefer** common, pronunciation-clear words; no proper nouns. Lowercase
+  `a-z`, and `'`/`-` are allowed (`o'er`, `ne'er`, `well-loved`).
+- **Slant rhymes allowed:** for coined or rhymeless words use the nearest
+  slant/assonant rhymes. Examples: `slithy → lithe, blithe, sly`;
+  `vorpal → mortal, coral, portal`; `runcible → forcible, sensible`;
+  `sinews → venues, sinew`.
+- **Enforced:** `scripts/validate.mjs` rejects any `rhyme_hint` that is not a
+  lowercase comma-list, contains `rhymes`/`with`, or leaks the answer or a
+  distractor.
+
+Examples:
+
+| `correct_word` | old (prose) | new |
+|---|---|---|
+| mead | Rhymes with 'feed'; the streamside field where the lamb grazes. | feed, need, deed |
+| destroy | Rhymes with 'joy'; what the dark secret love does to the rose's life. | joy, boy, alloy |
+| belfry | The tower whose glimmer and gloom the steed hurried past. | self, shelf, myself |
 
 ### 8. Definition Rules
 - Must be accurate and concise (1-2 sentences)
@@ -155,9 +182,9 @@ Field rules above still apply; only the envelope changes.
       "category": "Spirituality & Mystery",
       "poem_stanzas": ["stanza 1 with \n line breaks", "stanza 2..."],
       "missing_words": [
-        {"position": 1, "correct_word": "mead", "definition": "...", "rhyme_hint": "..."},
-        {"position": 2, "correct_word": "woolly", "definition": "...", "rhyme_hint": "..."},
-        {"position": 3, "correct_word": "rejoice", "definition": "...", "rhyme_hint": "..."}
+        {"position": 1, "correct_word": "mead", "definition": "...", "rhyme_hint": "feed, need, deed"},
+        {"position": 2, "correct_word": "woolly", "definition": "...", "rhyme_hint": "fully, bully, pulley"},
+        {"position": 3, "correct_word": "rejoice", "definition": "...", "rhyme_hint": "voice, choice, noise"}
       ],
       "distractor_words": ["pasture", "shepherd", "gentle", "valley", "hymn", "cradle"]
     }

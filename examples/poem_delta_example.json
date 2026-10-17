@@ -3,36 +3,39 @@
   "poems": [
     {
       "id": "classic_09999",
-      "title": "The Lamb",
+      "title": "A Dream",
       "author": "William Blake",
       "difficulty": "medium",
-      "theme": "Innocence & Creation",
-      "category": "Spirituality & Mystery",
+      "theme": "Dreams & Compassion",
+      "category": "Mind & Solitude",
       "poem_stanzas": [
-        "Little Lamb who made thee\nDost thou know who made thee\nGave thee life & bid thee feed.\nBy the stream & o'er the mead;\nGave thee clothing of delight,\nSoftest clothing woolly bright;\nGave thee such a tender voice,\nMaking all the vales rejoice!\nLittle Lamb who made thee\nDost thou know who made thee",
-        "Little Lamb I'll tell thee,\nLittle Lamb I'll tell thee!\nHe is called by thy name,\nFor he calls himself a Lamb:\nHe is meek & he is mild,\nHe became a little child:\nI a child & thou a lamb,\nWe are called by his name.\nLittle Lamb God bless thee.\nLittle Lamb God bless thee."
+        "Once a dream did weave a shade\nO'er my angel-guarded bed,\nThat an emmet lost its way\nWhere on grass methought I lay.",
+        "Troubled, 'wildered, and forlorn,\nDark, benighted, travel-worn,\nOver many a tangled spray,\nAll heart-broke I heard her say:",
+        "'O, my children! do they cry?\nDo they hear their father sigh?\nNow they look abroad to see:\nNow return and weep for me.'",
+        "Pitying, I dropped a tear:\nBut I saw a glow-worm near,\nWho replied: 'What wailing wight\nCalls the watchman of the night?",
+        "'I am set to light the ground,\nWhile the beetle goes his round:\nFollow now the beetle's hum;\nLittle wanderer, hie thee home!'"
       ],
       "missing_words": [
         {
           "position": 1,
-          "correct_word": "mead",
-          "definition": "A meadow; grassy lowland, often near water.",
-          "rhyme_hint": "Rhymes with 'feed'; where the lamb feeds by the stream."
+          "correct_word": "shade",
+          "definition": "A shadow or patch of darkness cast by something.",
+          "rhyme_hint": "made, fade, glade"
         },
         {
           "position": 2,
-          "correct_word": "woolly",
-          "definition": "Covered with soft, thick hair like a sheep's fleece.",
-          "rhyme_hint": "Describes the soft clothing of delight, bright to the eye."
+          "correct_word": "forlorn",
+          "definition": "Sad and lonely, especially from being abandoned.",
+          "rhyme_hint": "torn, worn, mourn"
         },
         {
           "position": 3,
-          "correct_word": "rejoice",
-          "definition": "To feel or show great joy and gladness.",
-          "rhyme_hint": "Rhymes with 'voice'; what the vales do at the tender sound."
+          "correct_word": "wight",
+          "definition": "A person or creature; an archaic term.",
+          "rhyme_hint": "night, light, bright"
         }
       ],
-      "distractor_words": ["pasture", "shepherd", "gentle", "valley", "hymn", "cradle"]
+      "distractor_words": ["ant", "grass", "beetle", "glow-worm", "angel", "wanderer"]
     }
   ]
 }
