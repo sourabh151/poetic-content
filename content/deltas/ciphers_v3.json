@@ -1,0 +1,1105 @@
+{
+  "version": 3,
+  "ciphers": [
+    {
+      "id": "cipher_00151",
+      "difficulty": "medium",
+      "categoryName": "Anatomy",
+      "answer_word": "skull",
+      "hint": "The bony helmet that houses the mind.",
+      "poem_stanzas": [
+        "A bony dome that crowns the frame,\nA hollow hall where thoughts take flame,\nTwo empty windows, dark and deep,\nLook out on worlds you wake from sleep.",
+        "Beneath a grin that never ends,\nThe seat of judgment and of friends,\nI guard the softest thing you own,\nThen stand alone when flesh is gone."
+      ]
+    },
+    {
+      "id": "cipher_00152",
+      "difficulty": "medium",
+      "categoryName": "Anatomy",
+      "answer_word": "spine",
+      "hint": "The bony column that keeps you upright.",
+      "poem_stanzas": [
+        "A ladder of bone behind the skin,\nA hundred joints that hold you in,\nI curve and bend, yet never break,\nAnd carry weight for walking's sake.",
+        "From base of neck to tail I run,\nA column built of one by one,\nQuick nerves branch out on either side,\nThe body's highway, long and wide."
+      ]
+    },
+    {
+      "id": "cipher_00153",
+      "difficulty": "easy",
+      "categoryName": "Anatomy",
+      "answer_word": "elbow",
+      "hint": "The joint midway down your arm.",
+      "poem_stanzas": [
+        "A hinge between two lengths of bone,\nI let you reach what stands alone,\nI'm where the arm can fold and bend,\nAnd where a tingling jolt can send.",
+        "A pointy knob of joint and skin,\nThe place your sleeve begins to thin,\nI'll nudge a friend to draw their eye,\nOr rest upon a counter high."
+      ]
+    },
+    {
+      "id": "cipher_00154",
+      "difficulty": "easy",
+      "categoryName": "Anatomy",
+      "answer_word": "finger",
+      "hint": "One of the ten that help you grasp.",
+      "poem_stanzas": [
+        "Five slender friends upon a palm,\nEach small and quick and mostly calm,\nI point, I tap, I pinch, I hold,\nI trace the stories pages told.",
+        "I end with nail and whorled design,\nFor typing, tying, threading twine,\nWithout a ring you feel bereft,\nCount what remains when one has left."
+      ]
+    },
+    {
+      "id": "cipher_00155",
+      "difficulty": "medium",
+      "categoryName": "Anatomy",
+      "answer_word": "muscle",
+      "hint": "The fleshy engine that moves your bones.",
+      "poem_stanzas": [
+        "I bunch and shorten, pull and strain,\nThen lengthen out and rest again,\nA red rope bound to bone by white,\nI make the still frame come to life.",
+        "Flex me and see a rounded hill,\nI ache when worked and grow when still,\nThe heart is one that never tires,\nThe fist is one of many spires."
+      ]
+    },
+    {
+      "id": "cipher_00156",
+      "difficulty": "medium",
+      "categoryName": "Anatomy",
+      "answer_word": "liver",
+      "hint": "The body's chemical factory under the ribs.",
+      "poem_stanzas": [
+        "The largest gland the body keeps,\nI filter what the bloodstream sweeps,\nI make the bile that breaks the fat,\nAnd store the sugar, just like that.",
+        "Beneath the ribs upon the right,\nI work in silence through the night,\nThe butcher knows me rich and brown,\nAnd too much drink can wear me down."
+      ]
+    },
+    {
+      "id": "cipher_00157",
+      "difficulty": "medium",
+      "categoryName": "Anatomy",
+      "answer_word": "kidney",
+      "hint": "One of the paired organs that clean your blood.",
+      "poem_stanzas": [
+        "A bean-shaped filter, paired and small,\nI sort the blood and take the fall,\nI keep the salt and water right,\nAnd send the waste away by night.",
+        "Two of me sit against the back,\nEach doing more than most would guess,\nThe stone that forms within my cup\nWill make a person wince and press."
+      ]
+    },
+    {
+      "id": "cipher_00158",
+      "difficulty": "easy",
+      "categoryName": "Anatomy",
+      "answer_word": "throat",
+      "hint": "The passage at the front of your neck.",
+      "poem_stanzas": [
+        "The tunnel where the breath goes through,\nAnd where the swallowed food slips too,\nI hoard the words before they're said,\nAnd parch when fever fills the head.",
+        "A lump can rise with grief and fear,\nA song is wrung from somewhere near,\nI'm wrapped in glands and ringed with bone,\nThe gateway every voice has known."
+      ]
+    },
+    {
+      "id": "cipher_00159",
+      "difficulty": "easy",
+      "categoryName": "Anatomy",
+      "answer_word": "wrist",
+      "hint": "The joint where the arm meets the hand.",
+      "poem_stanzas": [
+        "A narrow gate of many small bones,\nWhere all the hand's quick fingers connect,\nI turn, I twist, I flick, I wave,\nAnd tell the time upon my band.",
+        "The pulse is counted on my side,\nThe cuff of shirts will often hide,\nI'm where the arm gives way to hand,\nA hinge of many, small and grand."
+      ]
+    },
+    {
+      "id": "cipher_00160",
+      "difficulty": "easy",
+      "categoryName": "Anatomy",
+      "answer_word": "ankle",
+      "hint": "The joint between your leg and foot.",
+      "poem_stanzas": [
+        "A joint above the heel and sole,\nThat takes the weight and keeps you whole,\nI bend when stairs and hills appear,\nAnd swell when twisted, sharp and clear.",
+        "Two bony knobs on either side,\nWhere straps and laces both abide,\nI let the foot point down and up,\nAnd punish those who trip or slip."
+      ]
+    },
+    {
+      "id": "cipher_00161",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "answer_word": "mountain",
+      "hint": "A towering rise of rock and snow.",
+      "poem_stanzas": [
+        "I wear a crown of snow and stone,\nA giant that the clouds have known,\nMy shoulders hold the eagles high,\nMy feet are where the valleys lie.",
+        "I took ten million years to grow,\nI cradle springs and send them low,\nA peak so tall the air grows thin,\nThe daring few who climb my skin."
+      ]
+    },
+    {
+      "id": "cipher_00162",
+      "difficulty": "medium",
+      "categoryName": "Nature",
+      "answer_word": "rainbow",
+      "hint": "A colored arc that follows a storm.",
+      "poem_stanzas": [
+        "I arc across a dripping sky,\nA colored bridge that none can climb,\nI need the rain and sun together,\nAnd vanish when the weather's fine.",
+        "Seven bands from red to blue,\nI bend the light and split it through,\nA pot of gold is said to wait\nWhere I touch ground, but not of late."
+      ]
+    },
+    {
+      "id": "cipher_00163",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "answer_word": "breeze",
+      "hint": "A soft and gentle moving air.",
+      "poem_stanzas": [
+        "A gentle hand that has no form,\nThat bends the grass and lifts the corn,\nI cool the brow on summer days,\nAnd push the sails on watery ways.",
+        "Too soft to see, too light to hold,\nI ruffle hair and carry cold,\nI bring the scents from field and sea,\nAnd stir the leaves on every tree."
+      ]
+    },
+    {
+      "id": "cipher_00164",
+      "difficulty": "medium",
+      "categoryName": "Nature",
+      "answer_word": "mist",
+      "hint": "A low, clinging veil of water droplets.",
+      "poem_stanzas": [
+        "A ghost of water, cool and grey,\nThat blurs the hills and hides the way,\nI cling to lakes at break of dawn,\nThen leave when morning's heat is born.",
+        "I pad the valley, damp and deep,\nI rouse the sleeper half from sleep,\nMy fingers curl around the street,\nAnd make the known world incomplete."
+      ]
+    },
+    {
+      "id": "cipher_00165",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "answer_word": "cloud",
+      "hint": "A drifting mass of vapor in the sky.",
+      "poem_stanzas": [
+        "A floating flock of white and grey,\nThat sails the sky and drifts away,\nI'm born of vapor from the sea,\nAnd heavier than ships, though free.",
+        "I shade the field on summer noon,\nI hide the moon and smother June,\nWhen I grow dark and full and low,\nThe rain will fall, the wind will blow."
+      ]
+    },
+    {
+      "id": "cipher_00166",
+      "difficulty": "medium",
+      "categoryName": "Nature",
+      "answer_word": "cliff",
+      "hint": "A steep face of rock above the sea.",
+      "poem_stanzas": [
+        "A wall of stone that meets the sky,\nWhere gulls and hardy sea-pinks lie,\nMy face is sheer, my base is foam,\nThe waves must gnaw me if they'd roam.",
+        "I drop from heath to churning tide,\nNo gentle slope on either side,\nThe climber finds me cold and steep,\nAnd sailors dread me, dark and deep."
+      ]
+    },
+    {
+      "id": "cipher_00167",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "answer_word": "lake",
+      "hint": "A large body of still fresh water.",
+      "poem_stanzas": [
+        "A mirror set within the land,\nThat holds the clouds and hills at hand,\nI have no current, yet I breathe,\nAnd freeze and thaw and softly seethe.",
+        "The rivers fill me, slow and sure,\nAnd I am calm and wide and pure,\nThe fish and reeds and boat belong\nTo me, the shelter of the song."
+      ]
+    },
+    {
+      "id": "cipher_00168",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "answer_word": "stream",
+      "hint": "A small, flowing course of water.",
+      "poem_stanzas": [
+        "A ribbon winding through the trees,\nThat talks to stones and bends with ease,\nI start as rain on high steep ground,\nAnd hurry seaward, never bound.",
+        "I tumble over rock and root,\nAnd carve a path for trout and newt,\nThe miller turned my strength to bread,\nThe thirsty cattle know my bed."
+      ]
+    },
+    {
+      "id": "cipher_00169",
+      "difficulty": "medium",
+      "categoryName": "Nature",
+      "answer_word": "blossom",
+      "hint": "The flower of a tree, brief and fragrant.",
+      "poem_stanzas": [
+        "A brief and fragrant burst of white,\nThat clothes the bough in early light,\nI come before the fruit is born,\nAnd fall when spring is nearly worn.",
+        "The bee and I are old allies,\nI ring the branch with bright replies,\nThe wind will take me, petal by petal,\nAnd strew the earth where lovers settle."
+      ]
+    },
+    {
+      "id": "cipher_00170",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "answer_word": "feather",
+      "hint": "A light, flat plume from a bird.",
+      "poem_stanzas": [
+        "A quill of air, a weightless thing,\nThat birds arrange to fly and preen,\nI keep them warm, I steer their path,\nAnd drift to earth when they have been.",
+        "A plume of barbs on either side,\nThat lifts a creature up to glide,\nI'm gathered where a bird has passed,\nOr worn in hats of dandies past."
+      ]
+    },
+    {
+      "id": "cipher_00171",
+      "difficulty": "medium",
+      "categoryName": "Astronomy",
+      "answer_word": "telescope",
+      "hint": "An instrument that magnifies the distant sky.",
+      "poem_stanzas": [
+        "A long brass eye that points at night,\nI gather what is far and slight,\nTwo lenses bend a distant ray,\nAnd bring the heavens to where you stay.",
+        "Upon a mountain, calm and high,\nI read the darkness of the sky,\nThe moons and rings and seas of stone\nAre mine to find, and mine alone."
+      ]
+    },
+    {
+      "id": "cipher_00172",
+      "difficulty": "medium",
+      "categoryName": "Astronomy",
+      "answer_word": "rocket",
+      "hint": "A vehicle that thrusts itself into space.",
+      "poem_stanzas": [
+        "A tower of fire that leaves the ground,\nWith thunder for its only sound,\nI ride a pillar, white and hot,\nAnd climb where birds and clouds cannot.",
+        "I shed my skins as I ascend,\nAnd burn the fuel to the end,\nThen drop my stages, spent and bare,\nTo punch a hole in empty air."
+      ]
+    },
+    {
+      "id": "cipher_00173",
+      "difficulty": "hard",
+      "categoryName": "Astronomy",
+      "answer_word": "asteroid",
+      "hint": "A rocky wanderer among the planets.",
+      "poem_stanzas": [
+        "A lump of stone without a home,\nThrough black and empty dark I roam,\nToo small to glow, too large to fall,\nA wandering rock beyond recall.",
+        "I drift in belts where planets fail,\nA chip of world, a broken scale,\nIf earth should cross my silent track,\nI'd leave a scar and not look back."
+      ]
+    },
+    {
+      "id": "cipher_00174",
+      "difficulty": "easy",
+      "categoryName": "Astronomy",
+      "answer_word": "horizon",
+      "hint": "The line where land or sea meets the sky.",
+      "poem_stanzas": [
+        "The seam between the earth and sky,\nWhere far things vanish from the eye,\nI stretch from every side the same,\nAnd shift as you shift, never tame.",
+        "The sailor steers by where I lie,\nThe sun goes down and climbs so high,\nI'm always distant, always near,\nThe farthest edge the eye can clear."
+      ]
+    },
+    {
+      "id": "cipher_00175",
+      "difficulty": "hard",
+      "categoryName": "Astronomy",
+      "answer_word": "zenith",
+      "hint": "The point of the sky directly overhead.",
+      "poem_stanzas": [
+        "The highest point a star can climb,\nThe summit of the sky and time,\nStraight overhead, the top of all,\nFrom which the bright ones start to fall.",
+        "A gnomon's shadow marks me true,\nThe noonday sun hangs straight and new,\nBelow me lies the lowest deep,\nThe opposite where dreamers sleep."
+      ]
+    },
+    {
+      "id": "cipher_00176",
+      "difficulty": "hard",
+      "categoryName": "Astronomy",
+      "answer_word": "solstice",
+      "hint": "When the sun reaches its farthest north or south.",
+      "poem_stanzas": [
+        "I come but twice in every year,\nThe longest day, the shortest here,\nThe sun stands still upon his track,\nThen turns and slowly gives it back.",
+        "A tilt of earth decides my date,\nWhen light and darkness celebrate,\nThe reapers know me, and the frost,\nWhen one extreme of day is lost."
+      ]
+    },
+    {
+      "id": "cipher_00177",
+      "difficulty": "medium",
+      "categoryName": "Astronomy",
+      "answer_word": "aurora",
+      "hint": "The shimmering lights of the polar sky.",
+      "poem_stanzas": [
+        "A curtain woven in the cold,\nA dance of green and pink and gold,\nI hang above the polar snow,\nAnd ripple as the solar winds blow.",
+        "The ancients feared my wavering light,\nA fire that marched across the night,\nThe charged wind strikes the upper air,\nAnd paints my ribbons, bright and rare."
+      ]
+    },
+    {
+      "id": "cipher_00178",
+      "difficulty": "medium",
+      "categoryName": "Astronomy",
+      "answer_word": "crater",
+      "hint": "The bowl-shaped scar left by a falling rock.",
+      "poem_stanzas": [
+        "A bowl that nothing ever fills,\nThat scars the moon and rocky hills,\nAn impact dug me long ago,\nWhen fire and stone came down below.",
+        "I'm round with rim and shadowed floor,\nA cup upon a dusty shore,\nThe wandering rock that made me deep\nLeft silence where I hold my sleep."
+      ]
+    },
+    {
+      "id": "cipher_00179",
+      "difficulty": "easy",
+      "categoryName": "Food",
+      "answer_word": "sugar",
+      "hint": "The sweet white grain in bowl and cup.",
+      "poem_stanzas": [
+        "A heap of white from cane or beet,\nThe thing that makes a sour thing sweet,\nI vanish into tea and cake,\nAnd send the tooth a toothache's ache.",
+        "Dissolve me, and the water hides,\nThe simple taste that it abides,\nA pyramid in ancient bowls,\nI feed the craving and the holes."
+      ]
+    },
+    {
+      "id": "cipher_00180",
+      "difficulty": "easy",
+      "categoryName": "Food",
+      "answer_word": "lemon",
+      "hint": "A sour yellow citrus fruit.",
+      "poem_stanzas": [
+        "A sun of orchards, tart and bright,\nI pucker lips and sting the sight,\nMy rind is laced with fragrant oil,\nMy juice has saved a sailor's toil.",
+        "When life gives you my yellow twin,\nYou make a drink and force a grin,\nSqueezed for a drop, or cut in slices,\nI'm sour enough to cure the ices."
+      ]
+    },
+    {
+      "id": "cipher_00181",
+      "difficulty": "easy",
+      "categoryName": "Food",
+      "answer_word": "banana",
+      "hint": "A long, curved yellow fruit in a peel.",
+      "poem_stanzas": [
+        "A yellow crescent, curved and long,\nThat comes in bunches, firm and strong,\nI wear a coat you peel away,\nAnd soften brown as I decay.",
+        "I grow in heat and hang in hands,\nThe ape and monkey know my lands,\nI'm peeled and eaten, sliced on bread,\nOr fried as fritters, hot and spread."
+      ]
+    },
+    {
+      "id": "cipher_00182",
+      "difficulty": "easy",
+      "categoryName": "Food",
+      "answer_word": "grape",
+      "hint": "A small round fruit that grows in a cluster.",
+      "poem_stanzas": [
+        "A jewel round in clustered rows,\nFrom green to purple, each one grows,\nI'm plucked in bunches from the vine,\nAnd crushed to make a crimson wine.",
+        "The Romans pressed me underfoot,\nThe child eats me and spits the pit,\nDried, I become a wrinkled treat,\nFor ancient feasts and journeys sweet."
+      ]
+    },
+    {
+      "id": "cipher_00183",
+      "difficulty": "medium",
+      "categoryName": "Food",
+      "answer_word": "olive",
+      "hint": "A small bitter fruit pressed for its oil.",
+      "poem_stanzas": [
+        "A small green orb upon a bough,\nThat turns to black as time allows,\nMy flesh is bitter, brined to please,\nMy oil has lit a thousand seas.",
+        "A branch of me means peace to some,\nIn wooden bowls of Greece I come,\nThe press that squeezes me is old,\nAnd bottles me in green and gold."
+      ]
+    },
+    {
+      "id": "cipher_00184",
+      "difficulty": "easy",
+      "categoryName": "Food",
+      "answer_word": "carrot",
+      "hint": "A long orange root that you eat.",
+      "poem_stanzas": [
+        "An orange spike that hides in earth,\nA tapering root of modest worth,\nThe rabbit gnaws me off at dawn,\nThe cook will scrape me, cold and wan.",
+        "A feathery green crowns where I grew,\nThey say I sharpen how you view,\nBoiled soft in soup or raw and snapped,\nI'm sweet and common, never crabbed."
+      ]
+    },
+    {
+      "id": "cipher_00185",
+      "difficulty": "easy",
+      "categoryName": "Food",
+      "answer_word": "garlic",
+      "hint": "A strong-smelling bulb used in cooking.",
+      "poem_stanzas": [
+        "A papery bulb of many moons,\nWhose bite can drive a crowd from rooms,\nI keep the vampire and the cold\nAt bay, or so the stories told.",
+        "A clove of me in olive oil\nWill make the kitchen's scent recoil,\nI braid in strings to hang and dry,\nAnd season stews as weeks go by."
+      ]
+    },
+    {
+      "id": "cipher_00186",
+      "difficulty": "medium",
+      "categoryName": "Food",
+      "answer_word": "chocolate",
+      "hint": "A sweet brown treat made from cocoa beans.",
+      "poem_stanzas": [
+        "A brown delight from tiny beans,\nThat grows beneath tropical greens,\nThe Aztec drank me, bitter, hot,\nAnd swore a treasure had been got.",
+        "A gentle melt upon the tongue,\nA comfort for both old and young,\nI come in bars and eggs and coins,\nWhere longing and my sweetness join."
+      ]
+    },
+    {
+      "id": "cipher_00187",
+      "difficulty": "easy",
+      "categoryName": "Animals",
+      "answer_word": "elephant",
+      "hint": "The huge grey beast with a trunk.",
+      "poem_stanzas": [
+        "A mountain walking on four logs,\nWith flapping ears and ivory prongs,\nA nose that's also hand and hose,\nI trumpet where the river goes.",
+        "They say I never quite forget,\nThe driest season's not begun yet,\nI'm largest of the beasts on land,\nAnd gentle when I reach a hand."
+      ]
+    },
+    {
+      "id": "cipher_00188",
+      "difficulty": "easy",
+      "categoryName": "Animals",
+      "answer_word": "penguin",
+      "hint": "A flightless bird in a black-and-white coat.",
+      "poem_stanzas": [
+        "A bird in evening dress and bow,\nWho cannot fly, yet swims below,\nI waddle upon ice and stone,\nAnd warm my egg upon my own.",
+        "Black of coat and white of vest,\nI huddle close to warm the rest,\nThe southern ice and southern sea,\nAre all the world that's known to me."
+      ]
+    },
+    {
+      "id": "cipher_00189",
+      "difficulty": "easy",
+      "categoryName": "Animals",
+      "answer_word": "turtle",
+      "hint": "A slow reptile that carries its shell.",
+      "poem_stanzas": [
+        "A house that walks and carries me,\nA hardened dome of history,\nI plod where neither haste nor dread\nCan hurry my deliberate tread.",
+        "If danger comes, I pull my head\nInside my roof and lie as dead,\nThe sea or garden knows me well,\nThe slow one in a bony shell."
+      ]
+    },
+    {
+      "id": "cipher_00190",
+      "difficulty": "easy",
+      "categoryName": "Animals",
+      "answer_word": "monkey",
+      "hint": "A clever climbing animal with a tail.",
+      "poem_stanzas": [
+        "A tumbler in the leafy height,\nWith human hands and tail of light,\nI swing from branch to branch and screech,\nAnd steal the fruit just out of reach.",
+        "I copy what I see you do,\nAnd crack a nut and leap anew,\nThe jungle and the zoo both hold\nMy busy, restless family fold."
+      ]
+    },
+    {
+      "id": "cipher_00191",
+      "difficulty": "medium",
+      "categoryName": "Animals",
+      "answer_word": "falcon",
+      "hint": "A swift bird of prey that dives.",
+      "poem_stanzas": [
+        "A hunter of the open air,\nWith pointed wings and stooping stare,\nI hover, then I fold and dive,\nAnd strike the field where prey's alive.",
+        "The keeper's whistle calls me home,\nAcross the dusk on silent loam,\nA prince once carried me to chase,\nThe fleetest bird of any place."
+      ]
+    },
+    {
+      "id": "cipher_00192",
+      "difficulty": "medium",
+      "categoryName": "Animals",
+      "answer_word": "beaver",
+      "hint": "A rodent that builds dams in streams.",
+      "poem_stanzas": [
+        "An engineer with chisel teeth,\nI fell the tree and strip the leaf,\nI build a wall across the stream,\nAnd make a pond of my own dream.",
+        "My tail is flat, my fur is dense,\nI slap the water in defense,\nThe lodge of mud and stick and stone,\nIs warm and dry, and all my own."
+      ]
+    },
+    {
+      "id": "cipher_00193",
+      "difficulty": "easy",
+      "categoryName": "Animals",
+      "answer_word": "butterfly",
+      "hint": "A colorful insect with four wings.",
+      "poem_stanzas": [
+        "A flying flower, a painted pair,\nThat flutters on the summer air,\nI started life as slow and small,\nThen wove a sleep inside a wall.",
+        "I sipped from blooms on slender things,\nI am the summer made of wings,\nThe child who chases me will find,\nI'm hard to hold and hard to mind."
+      ]
+    },
+    {
+      "id": "cipher_00194",
+      "difficulty": "medium",
+      "categoryName": "Animals",
+      "answer_word": "shark",
+      "hint": "A large predatory fish of the sea.",
+      "poem_stanzas": [
+        "A grey torpedo of the deep,\nThat wakes the shallows from their sleep,\nA fin that cuts the surface glass,\nA shadow where the swimmers pass.",
+        "My rows of teeth are always new,\nI follow where the currents drew,\nThe blood of oceans is my claim,\nAnd those who fear me dread my name."
+      ]
+    },
+    {
+      "id": "cipher_00195",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "answer_word": "pencil",
+      "hint": "A writing tool made of graphite and wood.",
+      "poem_stanzas": [
+        "A slender rod with a blackened core,\nThat marks the page and then wants more,\nI have no ink, yet leave a line,\nAnd shave myself to keep it fine.",
+        "A rubber crown can rub me out,\nA point that dulls with use, no doubt,\nThe writer holds me, thinking hard,\nAnd leaves me chewed and cropped and scarred."
+      ]
+    },
+    {
+      "id": "cipher_00196",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "answer_word": "scissors",
+      "hint": "A cutting tool with two pivoting blades.",
+      "poem_stanzas": [
+        "Two blades that kiss and then divide,\nA pair of legs that open wide,\nI walk in cuts along the line,\nAnd part the cloth as if by sign.",
+        "I'm used by tailor, cook, and child,\nFor paper, ribbon, thread, and wild,\nMy handles fit two thumbs, two rings,\nAnd I can snip most anything."
+      ]
+    },
+    {
+      "id": "cipher_00197",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "answer_word": "umbrella",
+      "hint": "A portable shelter from the rain.",
+      "poem_stanzas": [
+        "A mushroom that I hold in rain,\nThat opens wide above the lane,\nA ring of ribs around a pole,\nI keep the weather from your soul.",
+        "A handle hooked for arm and hand,\nI bloom when clouds take over land,\nForgotten on a train or bus,\nI live to keep the drizzle off us."
+      ]
+    },
+    {
+      "id": "cipher_00198",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "answer_word": "spoon",
+      "hint": "A utensil with a small bowl for eating.",
+      "poem_stanzas": [
+        "A little shovel for the soup,\nA shallow bowl upon a loop,\nI lift the pea, I carry stew,\nAnd ferry warmth from bowl to you.",
+        "Silver or steel or wooden ware,\nI nest in drawers and tables share,\nThe baby bangs me, the elder sips,\nAnd I deliver to the lips."
+      ]
+    },
+    {
+      "id": "cipher_00199",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "answer_word": "bell",
+      "hint": "A hollow metal object that rings.",
+      "poem_stanzas": [
+        "A metal throat that sings when struck,\nA clapper swings with ringing luck,\nI call the village, mark the hour,\nAnd joy or mourning is my power.",
+        "In towers high and sleighs and schools,\nThe rope and I are simple tools,\nI'm hung to summon, warn, and tell,\nThe loud-mouthed hollow in a shell."
+      ]
+    },
+    {
+      "id": "cipher_00200",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "answer_word": "wallet",
+      "hint": "A small folding case for money and cards.",
+      "poem_stanzas": [
+        "A folded home for cards and cash,\nThat lives inside a pocket's gash,\nI fatten when the month is new,\nAnd flatten when the bills fall due.",
+        "A cowhide case with stitched seams,\nI guard the things of paper dreams,\nA thief may lift me on the street,\nAnd leave you poor and incomplete."
+      ]
+    },
+    {
+      "id": "cipher_00201",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "answer_word": "glasses",
+      "hint": "A pair of lenses worn to see clearly.",
+      "poem_stanzas": [
+        "Two windows joined across a nose,\nThat sharpen what the weary knows,\nI rest on ears with slender arms,\nAnd mend the world of distant charms.",
+        "Without me, words will blur and swim,\nThe far horizon grows too dim,\nThe thin and framed and tinted kind,\nCan change the way the world's defined."
+      ]
+    },
+    {
+      "id": "cipher_00202",
+      "difficulty": "medium",
+      "categoryName": "Objects",
+      "answer_word": "crown",
+      "hint": "A jeweled headpiece worn by a monarch.",
+      "poem_stanzas": [
+        "A golden ring of jeweled points,\nThat rests where royal brow anoints,\nI mark the head that wears the weight,\nOf all the burden of the state.",
+        "Of gold and gems and iron bands,\nI pass from dying to new hands,\nThe thorns once pressed upon a brow,\nBecame this circle, worn even now."
+      ]
+    },
+    {
+      "id": "cipher_00203",
+      "difficulty": "medium",
+      "categoryName": "Emotions",
+      "answer_word": "delight",
+      "hint": "A feeling of great pleasure or joy.",
+      "poem_stanzas": [
+        "A sudden lift, a spark, a glow,\nThat makes the heart forget its woe,\nI come on wings when nothing's planned,\nAnd leave a warmth upon the hand.",
+        "A child's first snow, a lover's glance,\nA friend's return, a sudden dance,\nI'm brief and bright, a bubble's rise,\nThat lights the cheek and fills the eyes."
+      ]
+    },
+    {
+      "id": "cipher_00204",
+      "difficulty": "medium",
+      "categoryName": "Emotions",
+      "answer_word": "envy",
+      "hint": "The bitter wish for what another has.",
+      "poem_stanzas": [
+        "A green-eyed ache that will not sleep,\nThat counts the gifts another keeps,\nI sour the feast, I dim the prize,\nAnd grow the more I fix my eyes.",
+        "I dress in praise and call it fair,\nYet gnaw the bone and tear the hair,\nThe neighbor's field is always green,\nTo me, who wants what I have seen."
+      ]
+    },
+    {
+      "id": "cipher_00205",
+      "difficulty": "easy",
+      "categoryName": "Emotions",
+      "answer_word": "grief",
+      "hint": "Deep sorrow caused by a loss.",
+      "poem_stanzas": [
+        "A heavy stone that sits and stays,\nThat muffles all the brightened days,\nI come when love has gone away,\nAnd color everything in gray.",
+        "I live in songs and empty chairs,\nIn folded clothes and muted prayers,\nThe tear that will not be denied,\nThe hollow where a person died."
+      ]
+    },
+    {
+      "id": "cipher_00206",
+      "difficulty": "medium",
+      "categoryName": "Emotions",
+      "answer_word": "guilt",
+      "hint": "The heavy feeling of having done wrong.",
+      "poem_stanzas": [
+        "A weight that follows where you go,\nA scratching voice you've come to know,\nI keep the ledger of your wrongs,\nAnd set them to their endless songs.",
+        "I wake you in the darkest hour,\nAnd strip the sleep of all its power,\nA look you gave, a word you said,\nComes back to haunt you in your bed."
+      ]
+    },
+    {
+      "id": "cipher_00207",
+      "difficulty": "medium",
+      "categoryName": "Emotions",
+      "answer_word": "shame",
+      "hint": "A painful feeling of embarrassment or dishonor.",
+      "poem_stanzas": [
+        "A blush that spreads without a cause,\nA mirror held to all your flaws,\nI make you small, I make you hide,\nAnd burn the cheeks with fire inside.",
+        "I'm worn like clothing, hot and tight,\nI turn the day into the night,\nThe head that drops, the eyes that fall,\nThe voice that will not speak at all."
+      ]
+    },
+    {
+      "id": "cipher_00208",
+      "difficulty": "medium",
+      "categoryName": "Emotions",
+      "answer_word": "bliss",
+      "hint": "A state of perfect happiness.",
+      "poem_stanzas": [
+        "A perfect hush, a sunlit hour,\nA garden hidden in a flower,\nI need no reason, ask no why,\nI am the blue that fills the sky.",
+        "I'm found in silence and in song,\nWhere nothing in the world is wrong,\nThe lovers know me on the grass,\nThe saints have seen me as they pass."
+      ]
+    },
+    {
+      "id": "cipher_00209",
+      "difficulty": "hard",
+      "categoryName": "Emotions",
+      "answer_word": "despair",
+      "hint": "The complete loss of hope.",
+      "poem_stanzas": [
+        "The bottom of the well of night,\nWhere even love has lost its light,\nI whisper that it's not worth trying,\nAnd seat myself beside the dying.",
+        "I'm last to leave, I'm first to call,\nI build a wall and then a wall,\nThe hope you had, I take in hand,\nAnd bury it beneath the sand."
+      ]
+    },
+    {
+      "id": "cipher_00210",
+      "difficulty": "medium",
+      "categoryName": "Emotions",
+      "answer_word": "mercy",
+      "hint": "Compassion shown to someone in your power.",
+      "poem_stanzas": [
+        "The hand that stays the punishing blow,\nThe pity spared to friend and foe,\nI'm asked for on the scaffold stair,\nAnd granted where there's love to spare.",
+        "I'm not what's fair, I'm what is kind,\nThe quarter given by the mind,\nThe judge who sets the prisoner free,\nAnd hears the better angels' plea."
+      ]
+    },
+    {
+      "id": "cipher_00211",
+      "difficulty": "medium",
+      "categoryName": "Geography",
+      "answer_word": "plateau",
+      "hint": "A broad, flat area of raised land.",
+      "poem_stanzas": [
+        "A table made of stone and soil,\nA lifted plain without a toil,\nI rise above the lower ground,\nAnd stretch for miles without a sound.",
+        "The herders bring their flocks to me,\nWhere air is thin and grass is free,\nAn escarpment marks my edge and wall,\nAnd I am flat, and I am tall."
+      ]
+    },
+    {
+      "id": "cipher_00212",
+      "difficulty": "medium",
+      "categoryName": "Geography",
+      "answer_word": "peninsula",
+      "hint": "Land jutting into water, joined at one end.",
+      "poem_stanzas": [
+        "A finger of the land that goes,\nInto the sea where water flows,\nI'm wrapped by waves on either hand,\nAnd join the mainland by a band.",
+        "The sailor rounds my rocky end,\nThe map will show me as a bend,\nThree sides are ocean, one is earth,\nA narrow neck that gave me birth."
+      ]
+    },
+    {
+      "id": "cipher_00213",
+      "difficulty": "medium",
+      "categoryName": "Geography",
+      "answer_word": "lagoon",
+      "hint": "A shallow stretch of water cut off from the sea.",
+      "poem_stanzas": [
+        "A shallow bath beside the sea,\nThat keeps the waves away from me,\nA ring of coral or of sand,\nHolds water in and holds the land.",
+        "I'm calm and green and warm and still,\nThe crabs and fish obey my will,\nBetween the reef and shore I lie,\nA sheltered cradle, blue and shy."
+      ]
+    },
+    {
+      "id": "cipher_00214",
+      "difficulty": "hard",
+      "categoryName": "Geography",
+      "answer_word": "reef",
+      "hint": "A ridge of coral near the ocean surface.",
+      "poem_stanzas": [
+        "A city built by tiny hands,\nThat grows in warm and shallow sands,\nA ridge that ships must steer around,\nWhere life in colors can be found.",
+        "I'm white when bleached and bright when well,\nA thousand creatures in a shell,\nThe coral makes me, bone by bone,\nAnd I am beautiful and stone."
+      ]
+    },
+    {
+      "id": "cipher_00215",
+      "difficulty": "medium",
+      "categoryName": "Geography",
+      "answer_word": "swamp",
+      "hint": "A marshy area of soft, wet ground.",
+      "poem_stanzas": [
+        "A soggy wood of root and mud,\nWhere water stands and will not flood,\nThe cypress and the frog are mine,\nAnd everything that loves the slime.",
+        "I'm green and rank and hard to cross,\nThe lantern light will dance and toss,\nThe traveler learns to watch his feet,\nWhere water and the dry land meet."
+      ]
+    },
+    {
+      "id": "cipher_00216",
+      "difficulty": "hard",
+      "categoryName": "Geography",
+      "answer_word": "tundra",
+      "hint": "A vast, treeless plain of the far north.",
+      "poem_stanzas": [
+        "A treeless plain of frozen ground,\nWhere little more than moss is found,\nThe winter holds me half the year,\nAnd frozen earth lies always near.",
+        "The caribou will cross my waste,\nThe midnight sun will see me graced,\nToo cold for trees, too far for most,\nThe northern edge, the silent coast."
+      ]
+    },
+    {
+      "id": "cipher_00217",
+      "difficulty": "medium",
+      "categoryName": "Geography",
+      "answer_word": "prairie",
+      "hint": "A wide, flat grassland of North America.",
+      "poem_stanzas": [
+        "A sea of grass that has no end,\nWhere wind and wheat together bend,\nThe bison thundered where I lay,\nBefore the plow took them away.",
+        "I'm flat and wide and rich and brown,\nThe settler built his sod-house town,\nThe clouds will stack above my floor,\nAnd far away a train will roar."
+      ]
+    },
+    {
+      "id": "cipher_00218",
+      "difficulty": "medium",
+      "categoryName": "Geography",
+      "answer_word": "geyser",
+      "hint": "A hot spring that shoots water into the air.",
+      "poem_stanzas": [
+        "A kettle buried underground,\nThat builds its steam without a sound,\nThen hurls a column to the sky,\nAnd drops it down when it runs dry.",
+        "I'm timed like clockwork, hot and white,\nA tower born of earth and light,\nThe mineral crust around my vent,\nShows where my fury has been spent."
+      ]
+    },
+    {
+      "id": "cipher_00219",
+      "difficulty": "medium",
+      "categoryName": "Science",
+      "answer_word": "molecule",
+      "hint": "A group of atoms bonded together.",
+      "poem_stanzas": [
+        "A cluster bound by hidden ties,\nToo small for any of your eyes,\nTwo atoms join, or three, or more,\nAnd I am what they're gathered for.",
+        "The water and the air are made,\nOf countless me in quiet parade,\nThe chemist draws me as a ball,\nWith sticks that hold and join us all."
+      ]
+    },
+    {
+      "id": "cipher_00220",
+      "difficulty": "hard",
+      "categoryName": "Science",
+      "answer_word": "electron",
+      "hint": "A tiny negatively charged particle in an atom.",
+      "poem_stanzas": [
+        "A speck of charge too small to see,\nThat orbits like a buzzing bee,\nI carry current through the wire,\nAnd make the lightning and the fire.",
+        "I'm negative and always fleet,\nI make the atom stay complete,\nThe television and the brain,\nBoth send me dancing down a lane."
+      ]
+    },
+    {
+      "id": "cipher_00221",
+      "difficulty": "medium",
+      "categoryName": "Science",
+      "answer_word": "friction",
+      "hint": "The resistance when two surfaces rub together.",
+      "poem_stanzas": [
+        "A stubborn drag that slows the slide,\nWhen two rough surfaces collide,\nI turn the motion into heat,\nAnd make the tire grip the street.",
+        "Without me, knots would not hold tight,\nAnd walking would be one long flight,\nI'm why the brakes can stop the car,\nAnd why the sled will not go far."
+      ]
+    },
+    {
+      "id": "cipher_00222",
+      "difficulty": "medium",
+      "categoryName": "Science",
+      "answer_word": "laser",
+      "hint": "A narrow, intense beam of coherent light.",
+      "poem_stanzas": [
+        "A pencil made of single light,\nThat cuts through steel and through the night,\nOne color only, straight and thin,\nI point where surgeons let me in.",
+        "The mirrors make my beam grow strong,\nOne wavelength marching all along,\nI read the disc, I scan the bar,\nAnd measure distance near and far."
+      ]
+    },
+    {
+      "id": "cipher_00223",
+      "difficulty": "medium",
+      "categoryName": "Science",
+      "answer_word": "prism",
+      "hint": "A glass shape that splits white light into colors.",
+      "poem_stanzas": [
+        "A wedge of glass that bends the ray,\nAnd turns the white to colored day,\nI break the beam into a band,\nThat spills like paint across the hand.",
+        "The rainbow in the sky is kin,\nThough water makes that one begin,\nThe physicist will point me true,\nAnd show the spectrum's every hue."
+      ]
+    },
+    {
+      "id": "cipher_00224",
+      "difficulty": "medium",
+      "categoryName": "Science",
+      "answer_word": "alloy",
+      "hint": "A metal made by mixing two or more metals.",
+      "poem_stanzas": [
+        "A marriage made of metals two,\nThat gives the world a stronger hue,\nI'm bronze and steel and brass and gold,\nMore useful than the parts I hold.",
+        "The smith will melt and pour and cool,\nAnd I come out a better tool,\nA little tin will toughen me,\nA little chrome will set me free."
+      ]
+    },
+    {
+      "id": "cipher_00225",
+      "difficulty": "hard",
+      "categoryName": "Science",
+      "answer_word": "plasma",
+      "hint": "A hot, ionized state of matter.",
+      "poem_stanzas": [
+        "A gas so hot it comes apart,\nAnd loses charges at the start,\nThe fourth estate of matter's reign,\nThat fills the stars and neon lane.",
+        "The lightning and the sun are made,\nOf me, in glowing streams displayed,\nThe screen and the reactor know,\nThe state where charged particles go."
+      ]
+    },
+    {
+      "id": "cipher_00226",
+      "difficulty": "easy",
+      "categoryName": "Science",
+      "answer_word": "cell",
+      "hint": "The smallest living unit of an organism.",
+      "poem_stanzas": [
+        "A tiny room with walls and door,\nThe smallest living unit, nothing more,\nI hold a nucleus within,\nAnd start the life that will begin.",
+        "The body builds me by the million,\nIn every tissue, every region,\nThe prisoner's and the battery's name,\nAre also mine, in different frame."
+      ]
+    },
+    {
+      "id": "cipher_00227",
+      "difficulty": "medium",
+      "categoryName": "Mythology",
+      "answer_word": "centaur",
+      "hint": "A creature half human and half horse.",
+      "poem_stanzas": [
+        "Above the waist a man and mind,\nBelow, four hooves of horse and hind,\nI gallop through the Grecian tale,\nWith bow and wisdom, strong and hale.",
+        "The teacher of the heroes, wise,\nI watched the young Achilles rise,\nHalf beast, half man, I split the line,\nAnd in the stars I still can shine."
+      ]
+    },
+    {
+      "id": "cipher_00228",
+      "difficulty": "hard",
+      "categoryName": "Mythology",
+      "answer_word": "minotaur",
+      "hint": "The bull-headed monster of the Cretan maze.",
+      "poem_stanzas": [
+        "A bull's head on a man's strong frame,\nA monster born of royal shame,\nThe maze was built to hold me in,\nWhere none could find me, none could win.",
+        "I ate the tribute sent each year,\nAnd fed the labyrinth with fear,\nA thread of string undid my reign,\nAnd left me silent, huge, and slain."
+      ]
+    },
+    {
+      "id": "cipher_00229",
+      "difficulty": "medium",
+      "categoryName": "Mythology",
+      "answer_word": "griffin",
+      "hint": "A mythical beast with an eagle's head and a lion's body.",
+      "poem_stanzas": [
+        "An eagle's head and wings of gold,\nA lion's body, proud and bold,\nI guard the treasure and the grave,\nThe bravest of the beasts, and brave.",
+        "I pull the chariot of the sun,\nI'm heraldry for everyone,\nThe north and south in one design,\nThe sky and earth in single line."
+      ]
+    },
+    {
+      "id": "cipher_00230",
+      "difficulty": "easy",
+      "categoryName": "Mythology",
+      "answer_word": "unicorn",
+      "hint": "A mythical horse with a single horn.",
+      "poem_stanzas": [
+        "A silver horse of gentle grace,\nWith one long horn upon the face,\nI'm shy and wild and hard to find,\nAnd only pure hearts tame my kind.",
+        "The lion and I once had a fight,\nThe hunter seeks me day and night,\nMy horn is said to heal and cure,\nAnd make the poisoned water pure."
+      ]
+    },
+    {
+      "id": "cipher_00231",
+      "difficulty": "easy",
+      "categoryName": "Mythology",
+      "answer_word": "mermaid",
+      "hint": "A mythical sea creature, half woman and half fish.",
+      "poem_stanzas": [
+        "Above the waves a woman sings,\nBelow, a tail with silver rings,\nI comb my hair upon a stone,\nAnd lure the sailors from their own.",
+        "The sea is both my home and dress,\nI mourn the air I cannot bless,\nThe fisher tells of me with dread,\nAnd finds the rocks where sailors bled."
+      ]
+    },
+    {
+      "id": "cipher_00232",
+      "difficulty": "hard",
+      "categoryName": "Mythology",
+      "answer_word": "hydra",
+      "hint": "A many-headed serpent that regrows each lost head.",
+      "poem_stanzas": [
+        "A swamp-born serpent, many-tongued,\nWhose heads return when they are stung,\nFor every neck a hero cut,\nTwo more would rise to join the knot.",
+        "Beneath the water, in the fen,\nI grow my heads again, again,\nThe only way to end my reign,\nWas fire, and a stone, and pain."
+      ]
+    },
+    {
+      "id": "cipher_00233",
+      "difficulty": "easy",
+      "categoryName": "Mythology",
+      "answer_word": "goblin",
+      "hint": "A small, mischievous fantasy creature.",
+      "poem_stanzas": [
+        "A small, sly thing of green and gray,\nThat haunts the cellar and the hay,\nI steal the socks and spill the milk,\nAnd creep about in stolen silk.",
+        "The nursery warns of me at night,\nI pinch and laugh and hide from light,\nMischief is my only trade,\nAnd children fear the noise I've made."
+      ]
+    },
+    {
+      "id": "cipher_00234",
+      "difficulty": "medium",
+      "categoryName": "Mythology",
+      "answer_word": "talisman",
+      "hint": "An object believed to bring good luck and protection.",
+      "poem_stanzas": [
+        "A stone or coin you keep and wear,\nThat guards you from the lurking snare,\nA mark to turn a bullet's flight,\nAnd bring you safety through the night.",
+        "Belief has made me strong and old,\nI'm worn in silver, set in gold,\nThe soldier and the gambler trust,\nMy little weight to keep them just."
+      ]
+    },
+    {
+      "id": "cipher_00235",
+      "difficulty": "easy",
+      "categoryName": "Music",
+      "answer_word": "trumpet",
+      "hint": "A brass instrument with a bright, powerful sound.",
+      "poem_stanzas": [
+        "A coiled brass throat that flares and rings,\nThe loudest of the silver things,\nThree valves I press, a breath I take,\nAnd armies rise and sleepers wake.",
+        "From jazz and marching band and hall,\nI summon and I lead them all,\nThe herald and the solo star,\nWith bell that shines both near and far."
+      ]
+    },
+    {
+      "id": "cipher_00236",
+      "difficulty": "medium",
+      "categoryName": "Music",
+      "answer_word": "harp",
+      "hint": "A stringed instrument played by plucking.",
+      "poem_stanzas": [
+        "A frame of wood with strings of wire,\nThat angels strum and poets admire,\nI'm plucked by fingers, not by bow,\nAnd ripple where the soft notes go.",
+        "The Irish and the heavenly both\nHave claimed me, and I keep my oath,\nA thousand strings would be too few,\nFor all the music I can do."
+      ]
+    },
+    {
+      "id": "cipher_00237",
+      "difficulty": "medium",
+      "categoryName": "Music",
+      "answer_word": "organ",
+      "hint": "A large keyboard instrument with pipes.",
+      "poem_stanzas": [
+        "A cabinet of pipes and keys,\nThat breathes a thunder on the breeze,\nI fill the church with rolling sound,\nFrom the pedalboard up to the crown.",
+        "The bellows and the many stops,\nCan whisper low or shake the tops,\nThe wedding and the funeral know,\nThe many voices of my row."
+      ]
+    },
+    {
+      "id": "cipher_00238",
+      "difficulty": "easy",
+      "categoryName": "Music",
+      "answer_word": "cymbal",
+      "hint": "A round metal plate struck to make a ringing sound.",
+      "poem_stanzas": [
+        "A polished disc of ringing brass,\nThat clangs a warning to the mass,\nI'm struck or brushed or softly kissed,\nAnd add a glitter none has missed.",
+        "Two of us meet with a mighty crash,\nAnd send the orchestra a flash,\nA hiss, a shimmer, and a clang,\nThe brightest of the beats I bang."
+      ]
+    },
+    {
+      "id": "cipher_00239",
+      "difficulty": "easy",
+      "categoryName": "Music",
+      "answer_word": "tambourine",
+      "hint": "A small drum with jingling metal discs.",
+      "poem_stanzas": [
+        "A ring of wood with jingling pairs,\nThat shakes and rattles everywhere,\nI'm held aloft and struck or spun,\nA one-hand drum for dance and fun.",
+        "The gypsy and the gospel choir,\nBoth use me to lift the fire,\nThe little discs that line my frame,\nWill jingle at the slightest shake."
+      ]
+    },
+    {
+      "id": "cipher_00240",
+      "difficulty": "medium",
+      "categoryName": "Music",
+      "answer_word": "chord",
+      "hint": "A group of musical notes sounded together.",
+      "poem_stanzas": [
+        "Three notes or more, struck all at once,\nA single sound that bears a bunch,\nThe harmony beneath the tune,\nThat mends the ear and fills the room.",
+        "A major one is bright and brave,\nA minor one will dig a grave,\nThe guitarist forms me with a hand,\nAnd I'm the stair on which songs stand."
+      ]
+    },
+    {
+      "id": "cipher_00241",
+      "difficulty": "medium",
+      "categoryName": "Music",
+      "answer_word": "waltz",
+      "hint": "A graceful ballroom dance in triple time.",
+      "poem_stanzas": [
+        "A dance in three, a turning pair,\nThat sweeps across the ballroom floor,\nOne-two-three and one-two-three,\nThe count that sets the dancers free.",
+        "The Viennese once made me grand,\nThe princes took me by the hand,\nA river composer, blue and wide,\nOnce wrote me for the swirling tide."
+      ]
+    },
+    {
+      "id": "cipher_00242",
+      "difficulty": "easy",
+      "categoryName": "Music",
+      "answer_word": "lullaby",
+      "hint": "A soothing song sung to help a child sleep.",
+      "poem_stanzas": [
+        "A quiet song for closing eyes,\nThat hushes all the waking cries,\nI'm sung in dark and sung in low,\nAnd rock the cradle soft and slow.",
+        "The mother and the nurse and moon,\nAll know the gentle, drowsy tune,\nThe babe will drift, the eyelids fall,\nAnd I'm the softest song of all."
+      ]
+    },
+    {
+      "id": "cipher_00243",
+      "difficulty": "medium",
+      "categoryName": "Sports",
+      "answer_word": "hockey",
+      "hint": "A team sport played with sticks and a puck.",
+      "poem_stanzas": [
+        "A game on ice, or grass, or field,\nWith crooked sticks and goals to yield,\nI skate and pass and shoot and score,\nThe crowd will roar and roar for more.",
+        "The puck, the ball, the whistle's cry,\nThe goalie guards what cannot fly,\nThe team will chase the rubber round,\nUntil the winning goal is found."
+      ]
+    },
+    {
+      "id": "cipher_00244",
+      "difficulty": "medium",
+      "categoryName": "Sports",
+      "answer_word": "boxing",
+      "hint": "A combat sport of punching with padded gloves.",
+      "poem_stanzas": [
+        "Two fighters circle in a square,\nWith padded fists and gasping air,\nA bell begins and ends the round,\nAnd knocks a body to the ground.",
+        "The referee will count to ten,\nAnd separate the charging men,\nA jab, a hook, a clinch, a fall,\nThe oldest duel of them all."
+      ]
+    },
+    {
+      "id": "cipher_00245",
+      "difficulty": "medium",
+      "categoryName": "Sports",
+      "answer_word": "surfing",
+      "hint": "The sport of riding ocean waves on a board.",
+      "poem_stanzas": [
+        "A board, a wave, a balancing man,\nWho rides the break as fast as he can,\nI paddle out and turn and drop,\nAnd glide until the breakers stop.",
+        "The swell is born a thousand miles,\nAnd dies upon the sand in piles,\nThe rider carves the moving wall,\nAnd tries to keep from taking a fall."
+      ]
+    },
+    {
+      "id": "cipher_00246",
+      "difficulty": "medium",
+      "categoryName": "Sports",
+      "answer_word": "fencing",
+      "hint": "The sport of swordplay with slender blades.",
+      "poem_stanzas": [
+        "A duel with blades of buttoned steel,\nA lunge, a parry, and a feel,\nWhite suits and masks and line of strip,\nThe flicker of a lightning tip.",
+        "Three weapons share a different rule,\nThe foil, the épée, and the sabre's rule,\nThe first to fifteen points has won,\nA sport of courtesy and fun."
+      ]
+    },
+    {
+      "id": "cipher_00247",
+      "difficulty": "medium",
+      "categoryName": "Sports",
+      "answer_word": "archery",
+      "hint": "The sport of shooting arrows with a bow.",
+      "poem_stanzas": [
+        "A bow of yew, a string, a shaft,\nA steady hand and ancient craft,\nI draw, I aim, I loose, I fly,\nAnd hit the target by and by.",
+        "The battlefield and hunt and game,\nAll bowed before my pointed aim,\nThe target stands in rings of gold,\nAnd every arrow's flight is told."
+      ]
+    },
+    {
+      "id": "cipher_00248",
+      "difficulty": "medium",
+      "categoryName": "Sports",
+      "answer_word": "wrestling",
+      "hint": "A combat sport of grappling and pinning.",
+      "poem_stanzas": [
+        "A sport of grips and holds and throws,\nWhere only one of two can pose,\nI pin the shoulders to the mat,\nAnd end the match just like that.",
+        "The Greek and Roman kinds are old,\nThe ancient games once gave me gold,\nA bout of strength and balance true,\nWith weight classes to divide us two."
+      ]
+    },
+    {
+      "id": "cipher_00249",
+      "difficulty": "easy",
+      "categoryName": "Sports",
+      "answer_word": "trophy",
+      "hint": "A prize awarded to a winner.",
+      "poem_stanzas": [
+        "A silver cup upon a stand,\nThat waits for one victorious hand,\nI'm polished, heavy, bright, and won,\nThen hoisted in the setting sun.",
+        "I'm raised above the shouting crowd,\nWith ribbons wrapped and names endowed,\nThe winner weeps, the loser sighs,\nAnd I reflect the glistening eyes."
+      ]
+    },
+    {
+      "id": "cipher_00250",
+      "difficulty": "easy",
+      "categoryName": "Sports",
+      "answer_word": "athlete",
+      "hint": "A person trained to compete in sports.",
+      "poem_stanzas": [
+        "A body trained and lean and strong,\nThat runs and jumps and swims along,\nI rise before the dawn to train,\nAnd measure victory by pain.",
+        "The stadium will shout my name,\nI chase the record and the fame,\nThe medal and the crowd and sweat,\nAre all the life that I have met."
+      ]
+    }
+  ]
+}
