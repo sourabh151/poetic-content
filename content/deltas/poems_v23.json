@@ -1,0 +1,1565 @@
+{
+  "version": 23,
+  "poems": [
+    {
+      "id": "classic_00961",
+      "title": "The Raggedy Man",
+      "author": "James Whitcomb Riley",
+      "difficulty": "hard",
+      "theme": "The Goodest Man Ever You Saw",
+      "category": "Joy & Whimsy",
+      "poem_stanzas": [
+        "O the Raggedy Man! He works fer Pa;\nAn' he's the goodest man ever you saw!\nHe comes to our house every day,\nAn' waters the horses, an' feeds 'em hay;\nAn' he opens the shed—an' we all ist laugh\nWhen he drives out our little ol' wobble-ly calf;\nAn' nen—ef our hired girl says he can—\nHe milks the cow fer 'Lizabuth Ann.—\nAin't he a' awful good Raggedy Man?\nRaggedy! Raggedy! Raggedy Man!"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "man",
+          "definition": "An adult male human.",
+          "rhyme_hint": "can, ran, plan"
+        },
+        {
+          "position": 2,
+          "correct_word": "waters",
+          "definition": "Supplies with water.",
+          "rhyme_hint": "daughters, quarters"
+        },
+        {
+          "position": 3,
+          "correct_word": "milks",
+          "definition": "Draws milk from an animal.",
+          "rhyme_hint": "silks, bilks"
+        }
+      ],
+      "distractor_words": [
+        "Raggedy",
+        "Pa",
+        "horses",
+        "hay",
+        "shed",
+        "calf"
+      ]
+    },
+    {
+      "id": "classic_00962",
+      "title": "The Duel",
+      "author": "Eugene Field",
+      "difficulty": "medium",
+      "theme": "The Gingham Dog and the Calico Cat",
+      "category": "Joy & Whimsy",
+      "poem_stanzas": [
+        "The gingham dog and the calico cat\nSide by side on the table sat;\n'Twas half-past twelve, and (what do you think!)\nNor one nor t'other had slept a wink!\nThe old Dutch clock and the Chinese plate\nAppeared to know as sure as fate\nThere was going to be a terrible spat."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "wink",
+          "definition": "A closing and opening of the eyes rapidly.",
+          "rhyme_hint": "link, sink, pink"
+        },
+        {
+          "position": 2,
+          "correct_word": "fate",
+          "definition": "The development of events beyond a person's control.",
+          "rhyme_hint": "late, state, gate"
+        },
+        {
+          "position": 3,
+          "correct_word": "spat",
+          "definition": "A petty quarrel.",
+          "rhyme_hint": "cat, hat, flat"
+        }
+      ],
+      "distractor_words": [
+        "gingham",
+        "calico",
+        "table",
+        "clock",
+        "plate",
+        "Dutch"
+      ]
+    },
+    {
+      "id": "classic_00963",
+      "title": "The Jewish Cemetery at Newport",
+      "author": "Henry Wadsworth Longfellow",
+      "difficulty": "hard",
+      "theme": "These Hebrews in Their Graves",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "How strange it seems! These Hebrews in their graves,\nClose by the street of this fair seaport town,\nSilent beside the never-silent waves,\nAt rest in all this moving up and down!"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "graves",
+          "definition": "Holes dug in the ground to bury the dead.",
+          "rhyme_hint": "waves, saves, caves"
+        },
+        {
+          "position": 2,
+          "correct_word": "seaport",
+          "definition": "A town or city with a harbor.",
+          "rhyme_hint": "support, report"
+        },
+        {
+          "position": 3,
+          "correct_word": "waves",
+          "definition": "Ridges of water moving across the sea.",
+          "rhyme_hint": "graves, saves, caves"
+        }
+      ],
+      "distractor_words": [
+        "Hebrews",
+        "street",
+        "town",
+        "rest",
+        "moving",
+        "down"
+      ]
+    },
+    {
+      "id": "classic_00964",
+      "title": "The Sleeper",
+      "author": "Edgar Allan Poe",
+      "difficulty": "hard",
+      "theme": "At Midnight, in the Month of June",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "At midnight, in the month of June,\nI stand beneath the mystic moon.\nAn opiate vapour, dewy, dim,\nExhales from out her golden rim,\nAnd, softly dripping, drop by drop,\nUpon the quiet mountain top,\nSteals drowsily and musically\nInto the universal valley."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "mystic",
+          "definition": "Having a spiritual meaning; mysterious.",
+          "rhyme_hint": "artistic, simplistic"
+        },
+        {
+          "position": 2,
+          "correct_word": "vapour",
+          "definition": "A substance diffused in the air; mist.",
+          "rhyme_hint": "caper, paper, taper"
+        },
+        {
+          "position": 3,
+          "correct_word": "universal",
+          "definition": "Relating to all people or things in the world.",
+          "rhyme_hint": "commercial, controversial"
+        }
+      ],
+      "distractor_words": [
+        "midnight",
+        "June",
+        "moon",
+        "golden",
+        "mountain",
+        "top"
+      ]
+    },
+    {
+      "id": "classic_00965",
+      "title": "The Schoolboy",
+      "author": "William Blake",
+      "difficulty": "medium",
+      "theme": "I Love to Rise in a Summer Morn",
+      "category": "Joy & Whimsy",
+      "poem_stanzas": [
+        "I love to rise in a summer morn,\nWhen the birds sing on every tree;\nThe distant huntsman winds his horn,\nAnd the skylark sings with me:\nO what sweet company!"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "rise",
+          "definition": "Get up from bed.",
+          "rhyme_hint": "wise, eyes, skies"
+        },
+        {
+          "position": 2,
+          "correct_word": "distant",
+          "definition": "Far away in space or time.",
+          "rhyme_hint": "instant, constant"
+        },
+        {
+          "position": 3,
+          "correct_word": "company",
+          "definition": "The fact or condition of being with others.",
+          "rhyme_hint": "plenty, twenty"
+        }
+      ],
+      "distractor_words": [
+        "summer",
+        "morn",
+        "birds",
+        "tree",
+        "horn",
+        "sing"
+      ]
+    },
+    {
+      "id": "classic_00966",
+      "title": "Laughing Song",
+      "author": "William Blake",
+      "difficulty": "medium",
+      "theme": "When the Green Woods Laugh",
+      "category": "Joy & Whimsy",
+      "poem_stanzas": [
+        "When the green woods laugh with the voice of joy,\nAnd the dimpling stream runs laughing by;\nWhen the air does laugh with our merry wit,\nAnd the green hill laughs with the noise of it;"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "voice",
+          "definition": "The sound produced in speaking or singing.",
+          "rhyme_hint": "choice, rejoice"
+        },
+        {
+          "position": 2,
+          "correct_word": "dimpling",
+          "definition": "Producing small dimples or ripples.",
+          "rhyme_hint": "sampling, trampling"
+        },
+        {
+          "position": 3,
+          "correct_word": "noise",
+          "definition": "A sound, especially a loud one.",
+          "rhyme_hint": "poise, boys, toys"
+        }
+      ],
+      "distractor_words": [
+        "woods",
+        "joy",
+        "stream",
+        "air",
+        "merry",
+        "green"
+      ]
+    },
+    {
+      "id": "classic_00967",
+      "title": "Spring",
+      "author": "William Blake",
+      "difficulty": "easy",
+      "theme": "Sound the Flute",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "Sound the flute!\nNow it's mute!\nBird's delight,\nDay and night,\nNightingale,\nIn the dale,\nLark in sky,\nMerrily,\nMerrily, merrily to welcome in the year."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "flute",
+          "definition": "A wind instrument with holes and a lip.",
+          "rhyme_hint": "lute, mute, cute"
+        },
+        {
+          "position": 2,
+          "correct_word": "mute",
+          "definition": "Silent; refraining from speech.",
+          "rhyme_hint": "lute, flute, cute"
+        },
+        {
+          "position": 3,
+          "correct_word": "Nightingale",
+          "definition": "A small bird known for its melodious night song.",
+          "rhyme_hint": "whale, pale, scale"
+        }
+      ],
+      "distractor_words": [
+        "Bird",
+        "delight",
+        "Day",
+        "Lark",
+        "sky",
+        "dale"
+      ]
+    },
+    {
+      "id": "classic_00968",
+      "title": "To Blossoms",
+      "author": "Robert Herrick",
+      "difficulty": "hard",
+      "theme": "Fair Pledges of a Fruitful Tree",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "Fair pledges of a fruitful tree,\nWhy do ye fall so fast?\nYour date is not so past,\nBut you may stay yet here awhile\nTo blush and gently smile,\nAnd go at last."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "pledges",
+          "definition": "Solemn promises or undertakings.",
+          "rhyme_hint": "hedges, ledges, edges"
+        },
+        {
+          "position": 2,
+          "correct_word": "fall",
+          "definition": "Move downward rapidly; drop.",
+          "rhyme_hint": "all, call, tall"
+        },
+        {
+          "position": 3,
+          "correct_word": "blush",
+          "definition": "Show shyness or embarrassment with red cheeks.",
+          "rhyme_hint": "flush, hush, brush"
+        }
+      ],
+      "distractor_words": [
+        "Fair",
+        "tree",
+        "past",
+        "stay",
+        "awhile",
+        "smile"
+      ]
+    },
+    {
+      "id": "classic_00969",
+      "title": "Upon a Child That Died",
+      "author": "Robert Herrick",
+      "difficulty": "medium",
+      "theme": "Here She Lies, a Pretty Bud",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Here she lies, a pretty bud,\nLately made of flesh and blood,\nWho as soon fell fast asleep\nAs her little eyes did peep.\nGive her strewings, but not stir\nThe earth that lightly covers her."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "bud",
+          "definition": "A flower or leaf in an undeveloped state.",
+          "rhyme_hint": "mud, stud, thud"
+        },
+        {
+          "position": 2,
+          "correct_word": "peep",
+          "definition": "Look quickly and furtively.",
+          "rhyme_hint": "deep, keep, sleep"
+        },
+        {
+          "position": 3,
+          "correct_word": "strewings",
+          "definition": "Things scattered or spread over a surface.",
+          "rhyme_hint": "doings, viewings"
+        }
+      ],
+      "distractor_words": [
+        "pretty",
+        "flesh",
+        "blood",
+        "asleep",
+        "little",
+        "eyes"
+      ]
+    },
+    {
+      "id": "classic_00970",
+      "title": "Prayer",
+      "author": "George Herbert",
+      "difficulty": "hard",
+      "theme": "Prayer the Church's Banquet",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "Prayer the church's banquet, angel's age,\nGod's breath in man returning to his birth,\nThe soul in paraphrase, heart in pilgrimage,\nThe Christian plummet sounding heaven and earth;"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "banquet",
+          "definition": "An elaborate and formal meal for many people.",
+          "rhyme_hint": "planet, granite"
+        },
+        {
+          "position": 2,
+          "correct_word": "pilgrimage",
+          "definition": "A journey to a sacred place.",
+          "rhyme_hint": "village, tillage"
+        },
+        {
+          "position": 3,
+          "correct_word": "plummet",
+          "definition": "A plumb line; a weight hung on a line.",
+          "rhyme_hint": "summit, comet"
+        }
+      ],
+      "distractor_words": [
+        "church",
+        "angel",
+        "breath",
+        "soul",
+        "heart",
+        "heaven"
+      ]
+    },
+    {
+      "id": "classic_00971",
+      "title": "A Song for St. Cecilia's Day (Excerpt)",
+      "author": "John Dryden",
+      "difficulty": "hard",
+      "theme": "From Harmony, from Heavenly Harmony",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "From harmony, from heavenly harmony,\nThis universal frame began:\nWhen nature underneath a heap\nOf jarring atoms lay,\nAnd could not heave her head,\nThe tuneful voice was heard from high,\nArise, ye more than dead."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "frame",
+          "definition": "The structural composition of something.",
+          "rhyme_hint": "name, same, claim"
+        },
+        {
+          "position": 2,
+          "correct_word": "jarring",
+          "definition": "Incongruous; discordant.",
+          "rhyme_hint": "barring, starring"
+        },
+        {
+          "position": 3,
+          "correct_word": "heave",
+          "definition": "Lift or haul with effort.",
+          "rhyme_hint": "leave, weave, sleeve"
+        }
+      ],
+      "distractor_words": [
+        "harmony",
+        "nature",
+        "atoms",
+        "head",
+        "voice",
+        "dead"
+      ]
+    },
+    {
+      "id": "classic_00972",
+      "title": "A Description of the Morning",
+      "author": "Jonathan Swift",
+      "difficulty": "hard",
+      "theme": "The Ruddy Morn’s Approach",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Now hardly here and there a hackney-coach\nAppearing, showed the ruddy morn's approach.\nNow Betty from her master's bed had flown,\nAnd softly stole to discompose her own."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "ruddy",
+          "definition": "Reddish in color.",
+          "rhyme_hint": "study, buddy, muddy"
+        },
+        {
+          "position": 2,
+          "correct_word": "Betty",
+          "definition": "A generic name for a maidservant.",
+          "rhyme_hint": "jetty, petty"
+        },
+        {
+          "position": 3,
+          "correct_word": "discompose",
+          "definition": "Disturb the calmness of; agitate.",
+          "rhyme_hint": "suppose, compose, expose"
+        }
+      ],
+      "distractor_words": [
+        "hackney-coach",
+        "morn",
+        "master",
+        "bed",
+        "softly",
+        "own"
+      ]
+    },
+    {
+      "id": "classic_00973",
+      "title": "A Description of a City Shower",
+      "author": "Jonathan Swift",
+      "difficulty": "hard",
+      "theme": "When to Dread a Shower",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "Careful observers may foretell the hour\n(By sure prognostics) when to dread a shower:\nWhile rain depends, the pensive cat gives o’er\nHer frolics, and pursues her tail no more."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "foretell",
+          "definition": "Predict something.",
+          "rhyme_hint": "befell, farewell, tell"
+        },
+        {
+          "position": 2,
+          "correct_word": "pensive",
+          "definition": "Engaged in deep thought; thoughtful.",
+          "rhyme_hint": "expensive, defensive"
+        },
+        {
+          "position": 3,
+          "correct_word": "tail",
+          "definition": "The part of an animal extending from the rear.",
+          "rhyme_hint": "pale, whale, scale"
+        }
+      ],
+      "distractor_words": [
+        "observers",
+        "hour",
+        "rain",
+        "cat",
+        "frolics",
+        "more"
+      ]
+    },
+    {
+      "id": "classic_00974",
+      "title": "Ode Written in the Beginning of the Year 1746",
+      "author": "William Collins",
+      "difficulty": "hard",
+      "theme": "How Sleep the Brave",
+      "category": "War & Society",
+      "poem_stanzas": [
+        "How sleep the brave, who sink to rest,\nBy all their country's wishes blest!\nWhen Spring, with dewy fingers cold,\nReturns to deck their hallow'd mould,\nShe there shall dress a sweeter sod\nThan Fancy's feet have ever trod."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "brave",
+          "definition": "Ready to face and endure danger; courageous.",
+          "rhyme_hint": "grave, wave, save"
+        },
+        {
+          "position": 2,
+          "correct_word": "dewy",
+          "definition": "Covered with dew; moist.",
+          "rhyme_hint": "newly, truly"
+        },
+        {
+          "position": 3,
+          "correct_word": "mould",
+          "definition": "The earth of a grave; soil.",
+          "rhyme_hint": "gold, cold, told"
+        }
+      ],
+      "distractor_words": [
+        "country",
+        "wishes",
+        "Spring",
+        "fingers",
+        "sod",
+        "Fancy"
+      ]
+    },
+    {
+      "id": "classic_00975",
+      "title": "Comin' Thro' the Rye",
+      "author": "Robert Burns",
+      "difficulty": "hard",
+      "theme": "Comin’ Thro’ the Rye",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "O, Jenny's a' weet, poor body,\nJenny's seldom dry:\nShe draigl't a' her petticoatie,\nComin' thro' the rye!"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "weet",
+          "definition": "Wet (Scottish).",
+          "rhyme_hint": "feet, sweet, meet"
+        },
+        {
+          "position": 2,
+          "correct_word": "dry",
+          "definition": "Free from moisture.",
+          "rhyme_hint": "cry, try, fly"
+        },
+        {
+          "position": 3,
+          "correct_word": "rye",
+          "definition": "A cereal grain used for flour.",
+          "rhyme_hint": "cry, dry, sky"
+        }
+      ],
+      "distractor_words": [
+        "Jenny",
+        "body",
+        "petticoatie",
+        "seldom",
+        "Comin",
+        "thro"
+      ]
+    },
+    {
+      "id": "classic_00976",
+      "title": "Green Grow the Rashes",
+      "author": "Robert Burns",
+      "difficulty": "medium",
+      "theme": "Green Grow the Rashes, O",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "Green grow the rashes, O;\nGreen grow the rashes, O;\nThe sweetest hours that e'er I spend,\nAre spent amang the lasses, O."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "rashes",
+          "definition": "Rushes (Scottish dialect).",
+          "rhyme_hint": "ashes, sashes, flashes"
+        },
+        {
+          "position": 2,
+          "correct_word": "hours",
+          "definition": "Periods of time.",
+          "rhyme_hint": "flowers, showers, towers"
+        },
+        {
+          "position": 3,
+          "correct_word": "lasses",
+          "definition": "Girls or young women (Scottish).",
+          "rhyme_hint": "glasses, masses, passes"
+        }
+      ],
+      "distractor_words": [
+        "sweetest",
+        "e'er",
+        "amang",
+        "spent",
+        "green",
+        "grow"
+      ]
+    },
+    {
+      "id": "classic_00977",
+      "title": "The Silver Tassie",
+      "author": "Robert Burns",
+      "difficulty": "medium",
+      "theme": "A Pint o’ Wine",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Go, fetch to me a pint o' wine,\nAnd fill it in a silver tassie;\nThat I may drink before I go,\nA service to my bonnie lassie."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "pint",
+          "definition": "A unit of liquid measure.",
+          "rhyme_hint": "hint, mint, print"
+        },
+        {
+          "position": 2,
+          "correct_word": "tassie",
+          "definition": "A cup or goblet (Scottish).",
+          "rhyme_hint": "lassie, brassie"
+        },
+        {
+          "position": 3,
+          "correct_word": "lassie",
+          "definition": "A girl or young woman (Scottish).",
+          "rhyme_hint": "tassie, brassie"
+        }
+      ],
+      "distractor_words": [
+        "wine",
+        "silver",
+        "service",
+        "bonnie",
+        "Go",
+        "drink"
+      ]
+    },
+    {
+      "id": "classic_00978",
+      "title": "To the Fringed Gentian",
+      "author": "William Cullen Bryant",
+      "difficulty": "hard",
+      "theme": "Thou Blossom Bright with Autumn Dew",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "Thou blossom bright with autumn dew,\nAnd colored with the heaven's own blue,\nThat openest when the quiet light\nSucceeds the keen and frosty night."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "dew",
+          "definition": "Tiny drops of water formed overnight.",
+          "rhyme_hint": "new, few, view"
+        },
+        {
+          "position": 2,
+          "correct_word": "quiet",
+          "definition": "Making little or no noise.",
+          "rhyme_hint": "riot, diet"
+        },
+        {
+          "position": 3,
+          "correct_word": "keen",
+          "definition": "Sharp or penetrating, as of cold.",
+          "rhyme_hint": "green, queen, seen"
+        }
+      ],
+      "distractor_words": [
+        "blossom",
+        "bright",
+        "autumn",
+        "heaven",
+        "light",
+        "frosty"
+      ]
+    },
+    {
+      "id": "classic_00979",
+      "title": "June",
+      "author": "William Cullen Bryant",
+      "difficulty": "hard",
+      "theme": "In Flowery June",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "I gazed upon the glorious sky\nAnd the green mountains round,\nAnd thought that when I came to lie\nAt rest within the ground,\n'Twere pleasant, that in flowery June,\nWhen brooks send up a cheerful tune,\nAnd groves a joyous sound,\nThe sexton's hand, my grave to make,\nThe rich, green mountain-turf should break."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "gazed",
+          "definition": "Looked steadily and intently.",
+          "rhyme_hint": "dazed, blazed, praised"
+        },
+        {
+          "position": 2,
+          "correct_word": "mountains",
+          "definition": "Large natural elevations of the earth's surface.",
+          "rhyme_hint": "fountains, counts"
+        },
+        {
+          "position": 3,
+          "correct_word": "brooks",
+          "definition": "Small streams of water.",
+          "rhyme_hint": "looks, cooks, hooks"
+        }
+      ],
+      "distractor_words": [
+        "sky",
+        "green",
+        "rest",
+        "ground",
+        "June",
+        "graves"
+      ]
+    },
+    {
+      "id": "classic_00980",
+      "title": "The Gladness of Nature",
+      "author": "William Cullen Bryant",
+      "difficulty": "medium",
+      "theme": "Our Mother Nature Laughs Around",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "Is this a time to be cloudy and sad,\nWhen our mother Nature laughs around;\nWhen even the deep blue heavens look glad,\nAnd gladness blossoms, like a flower, from the ground?"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "cloudy",
+          "definition": "Overcast with clouds; gloomy.",
+          "rhyme_hint": "dowdy, rowdy"
+        },
+        {
+          "position": 2,
+          "correct_word": "mother",
+          "definition": "A woman in relation to her child.",
+          "rhyme_hint": "brother, other, another"
+        },
+        {
+          "position": 3,
+          "correct_word": "gladness",
+          "definition": "The state of feeling pleasure or joy.",
+          "rhyme_hint": "sadness, madness"
+        }
+      ],
+      "distractor_words": [
+        "time",
+        "sad",
+        "Nature",
+        "heavens",
+        "blossoms",
+        "ground"
+      ]
+    },
+    {
+      "id": "classic_00981",
+      "title": "The West Wind",
+      "author": "William Cullen Bryant",
+      "difficulty": "hard",
+      "theme": "Beneath the Forest’s Skirts",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "Beneath the forest's skirts I rest,\nWhose branching pines rise dark and high,\nAnd hear the breezes of the West\nAmong the threaded foliage sigh."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "skirts",
+          "definition": "The edges or borders of something.",
+          "rhyme_hint": "shirts, hurts"
+        },
+        {
+          "position": 2,
+          "correct_word": "pines",
+          "definition": "Evergreen coniferous trees.",
+          "rhyme_hint": "lines, mines, vines"
+        },
+        {
+          "position": 3,
+          "correct_word": "threaded",
+          "definition": "Having a spiral or woven pattern.",
+          "rhyme_hint": "dreaded, headed"
+        }
+      ],
+      "distractor_words": [
+        "forest",
+        "rest",
+        "dark",
+        "high",
+        "breezes",
+        "foliage"
+      ]
+    },
+    {
+      "id": "classic_00982",
+      "title": "Resignation",
+      "author": "Henry Wadsworth Longfellow",
+      "difficulty": "medium",
+      "theme": "No Fireside Without a Vacant Chair",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "There is no flock, however watched and tended,\nBut one dead lamb is there!\nThere is no fireside, howsoe'er defended,\nBut has one vacant chair!"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "flock",
+          "definition": "A group of sheep or birds.",
+          "rhyme_hint": "clock, block, stock"
+        },
+        {
+          "position": 2,
+          "correct_word": "lamb",
+          "definition": "A young sheep.",
+          "rhyme_hint": "jam, cram, sham"
+        },
+        {
+          "position": 3,
+          "correct_word": "fireside",
+          "definition": "The area around a fireplace; the home.",
+          "rhyme_hint": "beside, inside, outside"
+        }
+      ],
+      "distractor_words": [
+        "watched",
+        "tended",
+        "dead",
+        "defended",
+        "chair",
+        "whatever"
+      ]
+    },
+    {
+      "id": "classic_00983",
+      "title": "Footsteps of Angels",
+      "author": "Henry Wadsworth Longfellow",
+      "difficulty": "medium",
+      "theme": "When the Hours of Day Are Numbered",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "When the hours of Day are numbered,\nAnd the voices of the Night\nWake the better soul, that slumbered,\nTo a holy, calm delight;"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "numbered",
+          "definition": "Counted; having a specified number.",
+          "rhyme_hint": "lumbered, cumbered"
+        },
+        {
+          "position": 2,
+          "correct_word": "slumbered",
+          "definition": "Slept (literary).",
+          "rhyme_hint": "numbered, lumbered"
+        },
+        {
+          "position": 3,
+          "correct_word": "holy",
+          "definition": "Dedicated to God; sacred.",
+          "rhyme_hint": "lowly, wholly, slowly"
+        }
+      ],
+      "distractor_words": [
+        "hours",
+        "Day",
+        "voices",
+        "Night",
+        "soul",
+        "delight"
+      ]
+    },
+    {
+      "id": "classic_00984",
+      "title": "Woods in Winter",
+      "author": "Henry Wadsworth Longfellow",
+      "difficulty": "hard",
+      "theme": "When Winter Winds Are Piercing Chill",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "When winter winds are piercing chill,\nAnd through the hawthorn blows the gale,\nWith solemn feet I tread the hill,\nThat overbrows the lonely vale."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "chill",
+          "definition": "An unpleasant feeling of coldness.",
+          "rhyme_hint": "still, will, bill"
+        },
+        {
+          "position": 2,
+          "correct_word": "gale",
+          "definition": "A very strong wind.",
+          "rhyme_hint": "pale, scale, tale"
+        },
+        {
+          "position": 3,
+          "correct_word": "tread",
+          "definition": "Walk in a specified way.",
+          "rhyme_hint": "bread, dead, said"
+        }
+      ],
+      "distractor_words": [
+        "winter",
+        "winds",
+        "hawthorn",
+        "feet",
+        "lonely",
+        "vale"
+      ]
+    },
+    {
+      "id": "classic_00985",
+      "title": "Two Rivers",
+      "author": "Ralph Waldo Emerson",
+      "difficulty": "hard",
+      "theme": "Sweeter Rivers Pulsing Flit",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "Thy summer voice, Musketaquit,\nRepeats the music of the rain;\nBut sweeter rivers pulsing flit\nThrough thee, as thou through Concord Plain."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "summer",
+          "definition": "The warmest season of the year.",
+          "rhyme_hint": "drummer, hummer"
+        },
+        {
+          "position": 2,
+          "correct_word": "repeats",
+          "definition": "Says or does again.",
+          "rhyme_hint": "defeats, conceits"
+        },
+        {
+          "position": 3,
+          "correct_word": "rivers",
+          "definition": "Large natural streams of water.",
+          "rhyme_hint": "shivers, quivers"
+        }
+      ],
+      "distractor_words": [
+        "voice",
+        "rain",
+        "Concord",
+        "Plain",
+        "thee",
+        "Musketaquit"
+      ]
+    },
+    {
+      "id": "classic_00986",
+      "title": "Hamatreya",
+      "author": "Ralph Waldo Emerson",
+      "difficulty": "hard",
+      "theme": "Each of These Landlords",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Bulkeley, Hunt, Willard, Hosmer, Meriam, Flint,\nPossessed the land which rendered to their toil\nHay, corn, roots, hemp, flax, apples, wool, and wood.\nEach of these landlords walked amidst his farm,\nSaying, ''Tis mine, my children's and my name's.'"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "rendered",
+          "definition": "Provided or gave; caused to be.",
+          "rhyme_hint": "tendered, surrendered"
+        },
+        {
+          "position": 2,
+          "correct_word": "roots",
+          "definition": "The parts of a plant that grow underground.",
+          "rhyme_hint": "boots, fruits, suits"
+        },
+        {
+          "position": 3,
+          "correct_word": "walked",
+          "definition": "Moved at a regular pace by lifting the feet.",
+          "rhyme_hint": "talked, balked, stalked"
+        }
+      ],
+      "distractor_words": [
+        "Bulkeley",
+        "toil",
+        "corn",
+        "hemp",
+        "farm",
+        "children"
+      ]
+    },
+    {
+      "id": "classic_00987",
+      "title": "Terminus",
+      "author": "Ralph Waldo Emerson",
+      "difficulty": "hard",
+      "theme": "The God of Bounds",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "It is time to be old,\nTo take in sail:—\nThe god of bounds,\nWho sets to seas a shore,\nCame to me in his fatal rounds,\nAnd said: 'No more!'"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "sail",
+          "definition": "A piece of material extended to catch the wind.",
+          "rhyme_hint": "pale, gale, tale"
+        },
+        {
+          "position": 2,
+          "correct_word": "bounds",
+          "definition": "Limits or boundaries.",
+          "rhyme_hint": "rounds, sounds, grounds"
+        },
+        {
+          "position": 3,
+          "correct_word": "shore",
+          "definition": "The land along the edge of a sea.",
+          "rhyme_hint": "before, store, roar"
+        }
+      ],
+      "distractor_words": [
+        "time",
+        "old",
+        "god",
+        "seas",
+        "me",
+        "No"
+      ]
+    },
+    {
+      "id": "classic_00988",
+      "title": "Bacchus",
+      "author": "Ralph Waldo Emerson",
+      "difficulty": "hard",
+      "theme": "Wine Which Never Grew",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "Bring me wine, but wine which never grew\nIn the belly of the grape,\nOr grew on vine whose tap-roots, reaching through\nUnder the Andes to the Cape."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "wine",
+          "definition": "An alcoholic drink made from fermented grapes.",
+          "rhyme_hint": "vine, line, sign"
+        },
+        {
+          "position": 2,
+          "correct_word": "belly",
+          "definition": "The front part of the body below the chest.",
+          "rhyme_hint": "jelly, delhi"
+        },
+        {
+          "position": 3,
+          "correct_word": "Andes",
+          "definition": "A mountain range in South America.",
+          "rhyme_hint": "candies, brands"
+        }
+      ],
+      "distractor_words": [
+        "grape",
+        "juice",
+        "Cape",
+        "Bring",
+        "grew",
+        "Under"
+      ]
+    },
+    {
+      "id": "classic_00989",
+      "title": "Uriel",
+      "author": "Ralph Waldo Emerson",
+      "difficulty": "hard",
+      "theme": "In the Ancient Periods",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "It fell in the ancient periods\nWhich the brooding soul surveys,\nOr ever the wild Time coined itself\nInto calendar months and days."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "soul",
+          "definition": "The spiritual part of a person.",
+          "rhyme_hint": "goal, whole, role"
+        },
+        {
+          "position": 2,
+          "correct_word": "wild",
+          "definition": "Living in a natural state; uncontrolled.",
+          "rhyme_hint": "child, mild, piled"
+        },
+        {
+          "position": 3,
+          "correct_word": "days",
+          "definition": "Periods of twenty-four hours.",
+          "rhyme_hint": "ways, praise, gaze"
+        }
+      ],
+      "distractor_words": [
+        "ancient",
+        "periods",
+        "brooding",
+        "Time",
+        "months",
+        "calendar"
+      ]
+    },
+    {
+      "id": "classic_00990",
+      "title": "The Fountain",
+      "author": "James Russell Lowell",
+      "difficulty": "medium",
+      "theme": "Into the Sunshine",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "Into the sunshine,\nFull of the light,\nLeaping and flashing\nFrom morn till night!"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "light",
+          "definition": "The natural agent that makes things visible.",
+          "rhyme_hint": "bright, sight, might"
+        },
+        {
+          "position": 2,
+          "correct_word": "Leaping",
+          "definition": "Jumping or springing quickly.",
+          "rhyme_hint": "sleeping, weeping, creeping"
+        },
+        {
+          "position": 3,
+          "correct_word": "morn",
+          "definition": "Morning (literary).",
+          "rhyme_hint": "born, torn, worn"
+        }
+      ],
+      "distractor_words": [
+        "sunshine",
+        "Full",
+        "flashing",
+        "sparkle",
+        "Into",
+        "till"
+      ]
+    },
+    {
+      "id": "classic_00991",
+      "title": "The Courtin'",
+      "author": "James Russell Lowell",
+      "difficulty": "hard",
+      "theme": "God Makes Sech Nights",
+      "category": "Love & Heartache",
+      "poem_stanzas": [
+        "God makes sech nights, all white an' still\nFur 'z you can look or listen,\nMoonshine an' snow on field an' hill,\nAll silence an' all glisten."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "sech",
+          "definition": "Such (dialectal).",
+          "rhyme_hint": "retch, fetch, stretch"
+        },
+        {
+          "position": 2,
+          "correct_word": "field",
+          "definition": "An area of open land.",
+          "rhyme_hint": "shield, wield, yield"
+        },
+        {
+          "position": 3,
+          "correct_word": "glisten",
+          "definition": "Shine with a sparkling light.",
+          "rhyme_hint": "listen, christen"
+        }
+      ],
+      "distractor_words": [
+        "God",
+        "nights",
+        "white",
+        "still",
+        "snow",
+        "hill"
+      ]
+    },
+    {
+      "id": "classic_00992",
+      "title": "The Castaway",
+      "author": "William Cowper",
+      "difficulty": "hard",
+      "theme": "Obscurest Night Involved the Sky",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Obscurest night involved the sky,\nThe Atlantic billows roared,\nWhen such a destined wretch as I,\nWashed headlong from on board,\nOf friends, of hope, of all bereft,\nHis floating home for ever left."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "Obscurest",
+          "definition": "Most dark or unknown (superlative).",
+          "rhyme_hint": "purest, surest"
+        },
+        {
+          "position": 2,
+          "correct_word": "billows",
+          "definition": "Large undulating masses of water.",
+          "rhyme_hint": "pillows, willows"
+        },
+        {
+          "position": 3,
+          "correct_word": "bereft",
+          "definition": "Deprived of or lacking something.",
+          "rhyme_hint": "left, cleft, theft"
+        }
+      ],
+      "distractor_words": [
+        "night",
+        "sky",
+        "Atlantic",
+        "roared",
+        "friends",
+        "hope"
+      ]
+    },
+    {
+      "id": "classic_00993",
+      "title": "In School-Days",
+      "author": "John Greenleaf Whittier",
+      "difficulty": "medium",
+      "theme": "The School-House by the Road",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Still sits the school-house by the road,\nA ragged beggar sunning;\nAround it still the sumachs grow,\nAnd blackberry-vines are running."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "road",
+          "definition": "A wide way leading from one place to another.",
+          "rhyme_hint": "load, toad, code"
+        },
+        {
+          "position": 2,
+          "correct_word": "ragged",
+          "definition": "Torn or frayed; shabby.",
+          "rhyme_hint": "jagged, tagged"
+        },
+        {
+          "position": 3,
+          "correct_word": "sunning",
+          "definition": "Basking in the sun.",
+          "rhyme_hint": "running, cunning"
+        }
+      ],
+      "distractor_words": [
+        "school-house",
+        "beggar",
+        "sumachs",
+        "blackberry-vines",
+        "still",
+        "grow"
+      ]
+    },
+    {
+      "id": "classic_00994",
+      "title": "The Eternal Goodness",
+      "author": "John Greenleaf Whittier",
+      "difficulty": "medium",
+      "theme": "The Quiet Aisles of Prayer",
+      "category": "Spirituality & Mystery",
+      "poem_stanzas": [
+        "O friends! with whom my feet have trod\nThe quiet aisles of prayer,\nGlad witness to your zeal for God\nAnd love of man I bear."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "trod",
+          "definition": "Walked in a specified way (past of tread).",
+          "rhyme_hint": "rod, plod, prod"
+        },
+        {
+          "position": 2,
+          "correct_word": "aisles",
+          "definition": "Passages between rows of seats.",
+          "rhyme_hint": "tiles, piles, miles"
+        },
+        {
+          "position": 3,
+          "correct_word": "zeal",
+          "definition": "Great energy in pursuit of a cause.",
+          "rhyme_hint": "feel, heal, wheel"
+        }
+      ],
+      "distractor_words": [
+        "friends",
+        "feet",
+        "quiet",
+        "prayer",
+        "witness",
+        "love"
+      ]
+    },
+    {
+      "id": "classic_00995",
+      "title": "The Pumpkin",
+      "author": "John Greenleaf Whittier",
+      "difficulty": "hard",
+      "theme": "What Calls Back the Past",
+      "category": "Nature & Seasons",
+      "poem_stanzas": [
+        "Ah! on Thanksgiving day, when from East and from West,\nFrom North and from South come the pilgrim and guest,\nWhen the gray-haired New-Englander sees round his board\nThe old broken links of affection restored,\nWhen the care-wearied man seeks his mother once more,\nAnd the worn matron smiles where the girl smiled before,\nWhat moistens the lip and what brightens the eye?\nWhat calls back the past, like the rich Pumpkin pie?"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "guest",
+          "definition": "A person invited to visit or stay.",
+          "rhyme_hint": "best, rest, test"
+        },
+        {
+          "position": 2,
+          "correct_word": "board",
+          "definition": "A table, especially for meals.",
+          "rhyme_hint": "sword, hoard, reward"
+        },
+        {
+          "position": 3,
+          "correct_word": "matron",
+          "definition": "A married woman, especially a dignified one.",
+          "rhyme_hint": "patron, apron"
+        }
+      ],
+      "distractor_words": [
+        "Thanksgiving",
+        "East",
+        "West",
+        "pilgrim",
+        "girl",
+        "pie"
+      ]
+    },
+    {
+      "id": "classic_00996",
+      "title": "Laus Deo",
+      "author": "John Greenleaf Whittier",
+      "difficulty": "medium",
+      "theme": "Clang of Bell and Roar of Gun",
+      "category": "War & Society",
+      "poem_stanzas": [
+        "It is done!\nClang of bell and roar of gun\nSend the tidings up and down.\nHow the belfries rock and reel!\nHow the great guns, peal on peal,\nFling the joy from town to town!"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "Clang",
+          "definition": "A loud resonant metallic sound.",
+          "rhyme_hint": "bang, hang, rang"
+        },
+        {
+          "position": 2,
+          "correct_word": "belfries",
+          "definition": "Tall towers housing bells.",
+          "rhyme_hint": "entries, centuries"
+        },
+        {
+          "position": 3,
+          "correct_word": "Fling",
+          "definition": "Throw or hurl forcefully.",
+          "rhyme_hint": "sing, ring, wing"
+        }
+      ],
+      "distractor_words": [
+        "bell",
+        "roar",
+        "gun",
+        "rock",
+        "reel",
+        "town"
+      ]
+    },
+    {
+      "id": "classic_00997",
+      "title": "The Voiceless",
+      "author": "Oliver Wendell Holmes",
+      "difficulty": "hard",
+      "theme": "Broken Lyres That Rest",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "We count the broken lyres that rest\nWhere the sweet wailing singers slumber,\nBut o'er their silent sister's breast\nThe wild-flowers who will stoop to number?"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "lyres",
+          "definition": "Stringed musical instruments (plural).",
+          "rhyme_hint": "fires, wires, choirs"
+        },
+        {
+          "position": 2,
+          "correct_word": "slumber",
+          "definition": "Sleep (literary).",
+          "rhyme_hint": "number, lumber, umber"
+        },
+        {
+          "position": 3,
+          "correct_word": "stoop",
+          "definition": "Bend the head or body forward and downward.",
+          "rhyme_hint": "loop, scoop, troop"
+        }
+      ],
+      "distractor_words": [
+        "broken",
+        "rest",
+        "sweet",
+        "singers",
+        "sister",
+        "breast"
+      ]
+    },
+    {
+      "id": "classic_00998",
+      "title": "Contentment",
+      "author": "Oliver Wendell Holmes",
+      "difficulty": "medium",
+      "theme": "Little I Ask",
+      "category": "Hope & Resilience",
+      "poem_stanzas": [
+        "Little I ask; my wants are few;\nI only wish a hut of stone,\n(A very plain brown stone will do,)\nThat I may call my own;"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "wants",
+          "definition": "Desires for something; needs.",
+          "rhyme_hint": "aunts, pants"
+        },
+        {
+          "position": 2,
+          "correct_word": "hut",
+          "definition": "A small, simple, single-story house.",
+          "rhyme_hint": "but, cut, shut"
+        },
+        {
+          "position": 3,
+          "correct_word": "plain",
+          "definition": "Simple or ordinary; not decorated.",
+          "rhyme_hint": "rain, train, grain"
+        }
+      ],
+      "distractor_words": [
+        "Little",
+        "ask",
+        "wish",
+        "stone",
+        "brown",
+        "own"
+      ]
+    },
+    {
+      "id": "classic_00999",
+      "title": "The Boys",
+      "author": "Oliver Wendell Holmes",
+      "difficulty": "medium",
+      "theme": "We’re Twenty To-Night",
+      "category": "Joy & Whimsy",
+      "poem_stanzas": [
+        "Has there any old fellow got mixed with the boys?\nIf there has, take him out, without making a noise.\nHang the Almanac's cheat and the Catalogue's spite!\nOld Time is a liar! We're twenty to-night!"
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "fellow",
+          "definition": "A man or boy (informal).",
+          "rhyme_hint": "yellow, mellow, bellow"
+        },
+        {
+          "position": 2,
+          "correct_word": "noise",
+          "definition": "A sound, especially a loud one.",
+          "rhyme_hint": "poise, toys, joys"
+        },
+        {
+          "position": 3,
+          "correct_word": "spite",
+          "definition": "A desire to hurt or annoy someone.",
+          "rhyme_hint": "bite, kite, white"
+        }
+      ],
+      "distractor_words": [
+        "old",
+        "boys",
+        "Time",
+        "liar",
+        "twenty",
+        "tonight"
+      ]
+    },
+    {
+      "id": "classic_01000",
+      "title": "Bill and Joe",
+      "author": "Oliver Wendell Holmes",
+      "difficulty": "medium",
+      "theme": "When You Were Bill and I Was Joe",
+      "category": "Life & Destiny",
+      "poem_stanzas": [
+        "Come, dear old comrade, you and I\nWill steal an hour from days gone by,\nThe shining days when life was new,\nAnd all was bright with morning dew,\nThe lusty days of long ago,\nWhen you were Bill and I was Joe."
+      ],
+      "missing_words": [
+        {
+          "position": 1,
+          "correct_word": "steal",
+          "definition": "Take without permission or secretly.",
+          "rhyme_hint": "feel, wheel, heal"
+        },
+        {
+          "position": 2,
+          "correct_word": "shining",
+          "definition": "Giving out or reflecting bright light.",
+          "rhyme_hint": "pining, dining, lining"
+        },
+        {
+          "position": 3,
+          "correct_word": "lusty",
+          "definition": "Healthy and strong; vigorous.",
+          "rhyme_hint": "dusty, musty, rusty"
+        }
+      ],
+      "distractor_words": [
+        "comrade",
+        "hour",
+        "days",
+        "morning",
+        "dew",
+        "Bill"
+      ]
+    }
+  ]
+}
