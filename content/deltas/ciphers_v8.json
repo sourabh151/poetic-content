@@ -1,0 +1,1105 @@
+{
+  "version": 8,
+  "ciphers": [
+    {
+      "id": "cipher_00651",
+      "difficulty": "medium",
+      "categoryName": "Geography",
+      "poem_stanzas": [
+        "The bell that calls the brothers to their prayer,\nThe cloister and the arches tall and grey,\nA place of silence and of holy care,\nWhere monks have knelt and watched the dawning day.",
+        "An abbot rules a house of this design,\nA ruined one may stand with roofless nave,\nThe kings of England once were crowned in mine,\nAnd pilgrims travelled far my walls to have."
+      ],
+      "answer_word": "abbey",
+      "hint": "A monastery or church ruled by an abbot or abbess."
+    },
+    {
+      "id": "cipher_00652",
+      "difficulty": "medium",
+      "categoryName": "Animals",
+      "poem_stanzas": [
+        "A subtle snake that hides among the fern,\nWith zigzag markings down a slender back,\nA sudden strike that few have time to learn,\nA venom in a mouth of velvet black.",
+        "I have no limbs and yet I glide and hiss,\nI bask upon the heath in summer's prime,\nA saint is said to drive my kind from bliss,\nAnd yet I add a number in a rhyme."
+      ],
+      "answer_word": "adder",
+      "hint": "A small venomous snake, the only venomous reptile in Britain."
+    },
+    {
+      "id": "cipher_00653",
+      "difficulty": "hard",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A tree that loves the water and the fen,\nWith rounded leaves and catkins in the spring,\nMy timber turns to red when cut, and then\nThe clogs and charcoal of the old world bring.",
+        "Along the brook I stand with roots in mud,\nA cousin to the birch and to the willow,\nMy wood is pale and colours when it's cut,\nAnd dykes and dams are mine to hold and hallow."
+      ],
+      "answer_word": "alder",
+      "hint": "A tree of damp ground with toothed leaves and catkins."
+    },
+    {
+      "id": "cipher_00654",
+      "difficulty": "medium",
+      "categoryName": "Science",
+      "poem_stanzas": [
+        "A golden stone that is not stone at all,\nThe hardened tears of trees that lived of old,\nA window on a fly that had a fall,\nA treasure that the Baltic traders sold.",
+        "My hue has named a traffic light and more,\nA million years have made me hard and clear,\nA little insect sleeps within my core,\nAnd jewellery has worn me many a year."
+      ],
+      "answer_word": "amber",
+      "hint": "Fossilized tree resin, often golden and used in jewellery."
+    },
+    {
+      "id": "cipher_00655",
+      "difficulty": "medium",
+      "categoryName": "Animals",
+      "poem_stanzas": [
+        "A branching crown of bone upon a brow,\nThat falls away when winter takes the wood,\nThe stag that wears me grows and sheds me now,\nAnd uses me to push where rivals stood.",
+        "A hollow horn is never kin to me,\nFor I am bone and branched and shed each year,\nA manor hall may hang a wall with me,\nAnd hunters count the points that I may bear."
+      ],
+      "answer_word": "antler",
+      "hint": "A branched horn grown by a stag and shed each year."
+    },
+    {
+      "id": "cipher_00656",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A cloth that ties about the waist and front,\nTo keep the cooking and the paint at bay,\nA butcher and a mason wear my brunt,\nA child at school may wear me every day.",
+        "An airport shares my name upon its field,\nA stage extends in front of every scene,\nI am the guard that cook and workman wield,\nAnd I have kept a hundred dresses clean."
+      ],
+      "answer_word": "apron",
+      "hint": "A garment worn over the front of the body to keep clothes clean."
+    },
+    {
+      "id": "cipher_00657",
+      "difficulty": "medium",
+      "categoryName": "Geography",
+      "poem_stanzas": [
+        "A leafy roof on pillars in the shade,\nA bower where the roses climb and meet,\nA seat of rest that garden hands have made,\nA cool retreat where summer walks are sweet.",
+        "A Latin word for tree is at my root,\nA branch of it is grafted for the fruit,\nI am the shaded nook where lovers suit,\nAnd vines and roses twine about my foot."
+      ],
+      "answer_word": "arbor",
+      "hint": "A shady garden shelter formed by trees or a trellis."
+    },
+    {
+      "id": "cipher_00658",
+      "difficulty": "medium",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A slender tree whose leaves are never still,\nThey quiver though the air be calm and warm,\nA whisper runs across them on the hill,\nAnd shivers tell the coming of a storm.",
+        "My bark is pale and marked as if with eyes,\nMy wood is soft and turned to matches, bright,\nThe slightest wind will set my leaves to rise,\nAnd tremble in the day and through the night."
+      ],
+      "answer_word": "aspen",
+      "hint": "A poplar tree whose leaves tremble in the slightest breeze."
+    },
+    {
+      "id": "cipher_00659",
+      "difficulty": "medium",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A book of maps that holds the world in leaves,\nA giant who must bear the sky on high,\nThe first of these a scholar's hand achieves,\nThe second is a Titan in the sky.",
+        "A mountain and a vertebra are mine,\nA Titan and a book of maps as well,\nI hold the world, or draw it line by line,\nThe bearer and the book that charts and tells."
+      ],
+      "answer_word": "atlas",
+      "hint": "A book of maps, or a mythical giant who holds up the sky."
+    },
+    {
+      "id": "cipher_00660",
+      "difficulty": "easy",
+      "categoryName": "Geography",
+      "poem_stanzas": [
+        "A room beneath the sloping of the roof,\nWhere dust and old belongings find a home,\nA hiding place from feet and eyes aloof,\nA where-a-child-might-climb and be alone.",
+        "A Greek region gives me half my name,\nA capital of Greece, a columned style,\nI store the trunks and treasures of the same,\nAnd spiders spin their webs upon the tile."
+      ],
+      "answer_word": "attic",
+      "hint": "The space or room just under the roof of a house."
+    },
+    {
+      "id": "cipher_00661",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A stretch of canvas over door and shop,\nThat keeps the sun and rain from passers-by,\nA striped and sloping sheet that shops will prop,\nTo shade the fruit and keep the pavement dry.",
+        "A caravan puts out a cloth like mine,\nA boat may wear me over cockpit small,\nI give a shadow at the shop-front sign,\nAnd shelter those who wait within my fall."
+      ],
+      "answer_word": "awning",
+      "hint": "A sheet of canvas stretched to give shade."
+    },
+    {
+      "id": "cipher_00662",
+      "difficulty": "medium",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A shade of blue that names a cloudless sky,\nThe colour of the heaven when it clears,\nThe field of many a coat of arms on high,\nThe tint of distant hills the sailor steers.",
+        "A French word underlies my name and hue,\nA jewel shares the shade of what I am,\nI am the blue of sky and distance too,\nAnd shyness takes my name for his alarm."
+      ],
+      "answer_word": "azure",
+      "hint": "A bright blue colour; the unclouded sky."
+    },
+    {
+      "id": "cipher_00663",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A giant grass that rises straight and tall,\nWith hollow joints and woody, hardened stem,\nA panda's food, a scaffold on a wall,\nA raft and pipe and scaffolding and gem.",
+        "I have no rings of growth as trees have done,\nA panda and a builder both agree,\nI grow so fast I stand before the sun,\nAnd in a single season, tall as tree."
+      ],
+      "answer_word": "bamboo",
+      "hint": "A tall, hollow tropical grass used for building and food."
+    },
+    {
+      "id": "cipher_00664",
+      "difficulty": "easy",
+      "categoryName": "Food",
+      "poem_stanzas": [
+        "A bearded grain that ripples in the field,\nA cousin to the wheat and to the rye,\nI fill the bin and malt the whisky's yield,\nAnd make the bread that keeps the winter dry.",
+        "My name appears in water and in soup,\nA book of Ruth has me within its tale,\nI am the humbler grain of field and group,\nAnd in the malt I turn the beer to ale."
+      ],
+      "answer_word": "barley",
+      "hint": "A cereal grain used for food, malt, and whisky."
+    },
+    {
+      "id": "cipher_00665",
+      "difficulty": "hard",
+      "categoryName": "Science",
+      "poem_stanzas": [
+        "A dark and heavy stone of molten birth,\nThat cooled and shrank in pillars tall and straight,\nThe Giant's Road that runs on Irish earth,\nIs made of me in hexagonal estate.",
+        "The ocean floor and moon are paved with me,\nThe lava cools and hardens into stone,\nI am the grey of cliffs beside the sea,\nAnd darkest rock the fiery hills have thrown."
+      ],
+      "answer_word": "basalt",
+      "hint": "A dark, fine-grained volcanic rock."
+    },
+    {
+      "id": "cipher_00666",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A fire upon a hill to warn or guide,\nA light that tells of danger or of shore,\nA chain of them across the countryside,\nThat carried news of ships and war and more.",
+        "A hill and a New England town bear me,\nA television mast may send my ray,\nA burning signal on the land or sea,\nThat warns the ships or shows the safe home way."
+      ],
+      "answer_word": "beacon",
+      "hint": "A fire or light set up on a hill as a signal."
+    },
+    {
+      "id": "cipher_00667",
+      "difficulty": "easy",
+      "categoryName": "Animals",
+      "poem_stanzas": [
+        "A bird of omen in a Beatles song,\nA common thrush with golden bill and eye,\nThat sings from rooftops when the nights are long,\nAnd carols from the chimney to the sky.",
+        "My mate is brown and I am dark as jet,\nI whistle from the rooftops in the spring,\nI was baked in a famous pie, and yet\nI am the common bird whose songs take wing."
+      ],
+      "answer_word": "blackbird",
+      "hint": "A common dark thrush with a yellow bill and melodious song."
+    },
+    {
+      "id": "cipher_00668",
+      "difficulty": "medium",
+      "categoryName": "Anatomy",
+      "poem_stanzas": [
+        "A soft and stretching bag within the frame,\nThat holds a fluid till the body's call,\nA hollow organ that has no other name,\nAnd lies within the pelvis, low and small.",
+        "A floating seaweed shares my name at sea,\nA word for boastful talk is also mine,\nA sack of fluid stored inside of me,\nThe surgeon and the body both design."
+      ],
+      "answer_word": "bladder",
+      "hint": "The organ that stores urine."
+    },
+    {
+      "id": "cipher_00669",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A cap that ties beneath the chin with string,\nA baby and a lady wore the same,\nA Highland one with ribbons is a thing,\nAnd babes and dames will wear me all the same.",
+        "A car's front cover borrows now my name,\nA hood in Britain, hinged to lift and close,\nA Scottish soldier wears me, and the same\nA word for calm and peace the sailor knows."
+      ],
+      "answer_word": "bonnet",
+      "hint": "A hat tied under the chin, or a car's front cover."
+    },
+    {
+      "id": "cipher_00670",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A thorny tangle in the hedgerow side,\nThat scratches hands and catches wool and sleeve,\nWhose berries ripen dark at harvest-tide,\nAnd leave the forager with stains to grieve.",
+        "My fruit is black and sweet in autumn sun,\nA briar and a rose are kin to me,\nI am the prickly bush where berries run,\nAnd jam and wine and crumble come of me."
+      ],
+      "answer_word": "bramble",
+      "hint": "A prickly wild shrub, especially the blackberry bush."
+    },
+    {
+      "id": "cipher_00671",
+      "difficulty": "easy",
+      "categoryName": "Science",
+      "poem_stanzas": [
+        "A golden metal made of two at least,\nA copper and a zinc combined in heat,\nA trumpet and a doorknob and a beast,\nA monument that stands in every street.",
+        "A boldness and a nerve are called by me,\nA band of wind and horn plays in my tone,\nI am the alloy that the world can see,\nAnd polish bright as any kingly throne."
+      ],
+      "answer_word": "brass",
+      "hint": "A yellow alloy of copper and zinc."
+    },
+    {
+      "id": "cipher_00672",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A little block of baked and hardened clay,\nThat stacks in courses into wall and house,\nA mason lays me level day by day,\nAnd mortar holds me quiet as a mouse.",
+        "A colour and a sturdy person may\nBe called my name, a solid thing and plain,\nA wall of me will stand for many a day,\nAnd hold a house against the wind and rain."
+      ],
+      "answer_word": "brick",
+      "hint": "A rectangular block of baked clay used for building."
+    },
+    {
+      "id": "cipher_00673",
+      "difficulty": "medium",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A set of straps upon a horse's head,\nThe bit between the teeth, the rein in hand,\nA rider's means of where the beast is led,\nA check upon a temper in the land.",
+        "A curb and a restraint are called by me,\nTo check one's tongue is to be bridled so,\nThe saddler and the rider both agree,\nI turn the willing horse the way to go."
+      ],
+      "answer_word": "bridle",
+      "hint": "The headgear of straps and bit used to control a horse."
+    },
+    {
+      "id": "cipher_00674",
+      "difficulty": "medium",
+      "categoryName": "Science",
+      "poem_stanzas": [
+        "A metal of the oldest age of man,\nA copper mixed with tin to make me strong,\nA medal and a statue and a pan,\nA colour and a third-place prize ere long.",
+        "My age came after stone and before steel,\nA tan and a third medal wear my hue,\nThe athlete on the lowest step will feel\nMy weight, and yet be glad the race is through."
+      ],
+      "answer_word": "bronze",
+      "hint": "An alloy of copper and tin, or a brown colour."
+    },
+    {
+      "id": "cipher_00675",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A round and shining skin of air and soap,\nThat floats and trembles, rainbow-tinted, bright,\nA thing of fragile and translucent hope,\nThat breaks at one small touch of finger's might.",
+        "A market and a rumour may be mine,\nAn economic one may swell and burst,\nA child will chase me in the summer shine,\nAnd blow a wand to make me, not the worst."
+      ],
+      "answer_word": "bubble",
+      "hint": "A thin sphere of liquid enclosing air."
+    },
+    {
+      "id": "cipher_00676",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A metal clasp that holds a belt or shoe,\nA tongue that fits a hole and keeps it tight,\nA soldier wears me where his gear hangs true,\nAnd horses' harness jingles in the night.",
+        "A knee may give and fold and so be mine,\nTo yield and give way is to share my name,\nI hold a strap and keep the waist in line,\nAnd in a storm I hold the gear the same."
+      ],
+      "answer_word": "buckle",
+      "hint": "A clasp for fastening a belt or strap."
+    },
+    {
+      "id": "cipher_00677",
+      "difficulty": "easy",
+      "categoryName": "Music",
+      "poem_stanzas": [
+        "A song of joy that people sing together,\nWith holly and a wassail in the hall,\nA season and a surname I wear either,\nAnd children sing me at the doors of all.",
+        "A Christmas round and a girl's name as well,\nA dance and a refrain are mine to hold,\nI am the happy song that bells will tell,\nAnd winter hears me sung against the cold."
+      ],
+      "answer_word": "carol",
+      "hint": "A joyful song, especially one sung at Christmas."
+    },
+    {
+      "id": "cipher_00678",
+      "difficulty": "easy",
+      "categoryName": "Geography",
+      "poem_stanzas": [
+        "A stone stronghold with battlements and keep,\nA moat and a portcullis and a wall,\nA place where lords and ladies used to sleep,\nAnd guards looked out to see the foemen fall.",
+        "A chess piece shaped like me can move and take,\nA sand one children build beside the sea,\nI am the fortress that the masons make,\nAnd many a tale of sieges lives in me."
+      ],
+      "answer_word": "castle",
+      "hint": "A large fortified building with thick walls and towers."
+    },
+    {
+      "id": "cipher_00679",
+      "difficulty": "medium",
+      "categoryName": "Geography",
+      "poem_stanzas": [
+        "A hollow in the rock both deep and vast,\nWith stalactites that hang like frozen tears,\nA place of dripping dark where echoes last,\nAnd hidden rivers run through unseen years.",
+        "A philosopher has likened men to me,\nA hidden hoard of pirates may be mine,\nA hollow in the rock the guides will see,\nAnd lamps are lit to let the tourists shine."
+      ],
+      "answer_word": "cavern",
+      "hint": "A large cave or a vast underground chamber."
+    },
+    {
+      "id": "cipher_00680",
+      "difficulty": "medium",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A fragrant tree of Lebanon and song,\nWhose timber scents the chest and builds the door,\nA mountain conifer both straight and strong,\nThat shelters birds and shades the forest floor.",
+        "A poet feeds his bees in one of mine,\nA chest of drawers may breathe my fragrant wood,\nI am the evergreen of ancient line,\nThat stood upon the mountains where I stood."
+      ],
+      "answer_word": "cedar",
+      "hint": "A large evergreen tree with fragrant, durable wood."
+    },
+    {
+      "id": "cipher_00681",
+      "difficulty": "easy",
+      "categoryName": "Geography",
+      "poem_stanzas": [
+        "A room beneath the level of the street,\nWhere wine and coal and winter stores are kept,\nA cool and dark and echoing retreat,\nWhere spiders work and bottles lie and slept.",
+        "A door within a floor may lead to me,\nA salt or a great storm may bear my name,\nI am the underground where things can be,\nAnd cool for apples, wine, and storing's aim."
+      ],
+      "answer_word": "cellar",
+      "hint": "A room below ground used for storage or wine."
+    },
+    {
+      "id": "cipher_00682",
+      "difficulty": "medium",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A golden cup with jewels at the rim,\nThat holds the wine of sacred rite and prayer,\nA poet dreams of one no hand can dim,\nA vessel that the holy hands will bear.",
+        "A grail of Arthur's knights and faith am I,\nA flower and a cup may share my name,\nI hold the sacred wine beneath the sky,\nAnd poets seek me as an endless flame."
+      ],
+      "answer_word": "chalice",
+      "hint": "A large ornate cup used to hold wine in ceremonies."
+    },
+    {
+      "id": "cipher_00683",
+      "difficulty": "medium",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A two-wheeled car of battle and of race,\nWhose horse-borne wheels go thunderous round the track,\nA rider standing in a swaying place,\nWith reins and dust and never looking back.",
+        "A sun-god drives me daily through the sky,\nA prophet rode a fiery one on high,\nA Roman cheered the turning wheels nearby,\nAnd Ben-Hur raced in me to victory."
+      ],
+      "answer_word": "chariot",
+      "hint": "A two-wheeled vehicle pulled by horses, used in ancient racing and war."
+    },
+    {
+      "id": "cipher_00684",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A stack of brick that rises from the roof,\nThat lifts the smoke away from hearth and flame,\nA sweep will climb me with a brush and proof,\nAnd Santa finds me in the winter's game.",
+        "A sweep and Mary Poppins both may know me,\nA factory stack may tower and smoke and steep,\nA stork will nest upon the top and show me,\nAnd winter smoke goes up while embers sleep."
+      ],
+      "answer_word": "chimney",
+      "hint": "A vertical pipe that carries smoke from a fire."
+    },
+    {
+      "id": "cipher_00685",
+      "difficulty": "easy",
+      "categoryName": "Food",
+      "poem_stanzas": [
+        "A drink of apple pressed and left to work,\nA golden and a cloudy and a dry,\nA Somerset and a Devon farmhand's quirk,\nA cup of autumn in a glass gone by.",
+        "A vinegar of mine is sweet and tart,\nA press and an old orchard are my home,\nA wassail bowl may warm my winter heart,\nAnd apples give me all the juice I roam."
+      ],
+      "answer_word": "cider",
+      "hint": "A drink made from fermented apple juice."
+    },
+    {
+      "id": "cipher_00686",
+      "difficulty": "medium",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A black and burned remainder of a fire,\nA glowing ember falling in the grate,\nA grey and dusty thing when flames retire,\nA trackside of a locomotive's freight.",
+        "A princess sweeps me, and a track is made,\nA Cinderella scrubs me from the floor,\nA volcano throws me when it has laid\nIts fury down, and asks for nothing more."
+      ],
+      "answer_word": "cinder",
+      "hint": "A piece of burnt coal or wood that no longer flames."
+    },
+    {
+      "id": "cipher_00687",
+      "difficulty": "hard",
+      "categoryName": "Geography",
+      "poem_stanzas": [
+        "A stronghold on the summit of a town,\nThe last defence when walls have fallen low,\nA place of refuge when the foe comes down,\nWhere soldiers make a final, stubborn show.",
+        "A book and a magazine may bear my name,\nA TV series took my word for fame,\nI am the fortress at the height's last claim,\nWhere drums once beat and fell and beat the same."
+      ],
+      "answer_word": "citadel",
+      "hint": "A fortress, usually on high ground, protecting a city."
+    },
+    {
+      "id": "cipher_00688",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A little plant of meadow and of lawn,\nWith trefoil leaves that cattle love to eat,\nA lucky one with four may yet be born,\nAnd bees will find me honey-sweet and fleet.",
+        "A shamrock and a trefoil are my kin,\nA patriotic flower of Erin's land,\nA grazing field is where my roots begin,\nAnd children search for four-leaf in the sand."
+      ],
+      "answer_word": "clover",
+      "hint": "A low plant with three-lobed leaves, often found in meadows."
+    },
+    {
+      "id": "cipher_00689",
+      "difficulty": "hard",
+      "categoryName": "Science",
+      "poem_stanzas": [
+        "A metal grey and hard and often blue,\nThat colours glass and paint a deep, rich shade,\nA word for goblins is my old name too,\nA battery and a magnet I have made.",
+        "A shade of blue and a metal share my name,\nA goblin gave me my old German word,\nI harden steel and colour glass the same,\nAnd strengthen every magnet's hidden cord."
+      ],
+      "answer_word": "cobalt",
+      "hint": "A hard silver-white metal used in blue pigments."
+    },
+    {
+      "id": "cipher_00690",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A silver net that morning dew makes plain,\nA trap of silk spun out of spider's thread,\nA dusty veil on beams and window-pane,\nA snare where little flies are caught and dead.",
+        "A dusty corner holds me in the house,\nThe word has come to mean a thing grown stale,\nA broom will sweep me where the spiders drowse,\nAnd time will wear me thin and pale and frail."
+      ],
+      "answer_word": "cobweb",
+      "hint": "A spider's web, especially an old and dusty one."
+    },
+    {
+      "id": "cipher_00691",
+      "difficulty": "easy",
+      "categoryName": "Science",
+      "poem_stanzas": [
+        "A reddish metal ductile, soft, and warm,\nThat carries wire and roof and coin and bell,\nA kettle and a statue take my form,\nAnd conductors of lightning in me dwell.",
+        "A coin and a policeman share my name,\nA green that weather brings upon my roof,\nI am the metal that the wires claim,\nAnd in a penny I am not aloof."
+      ],
+      "answer_word": "copper",
+      "hint": "A reddish-brown metal used for wire and coins."
+    },
+    {
+      "id": "cipher_00692",
+      "difficulty": "medium",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A deep and heavy red of blood and rose,\nThe colour of a king and cardinal,\nA stain upon the cheek that anger shows,\nA tide that dyes the evening sky and all.",
+        "A royal and a rock and a worm are mine,\nA word for red the poets use for dread,\nI am the deepest red of summer wine,\nThe colour of the dying day ahead."
+      ],
+      "answer_word": "crimson",
+      "hint": "A rich deep red colour."
+    },
+    {
+      "id": "cipher_00693",
+      "difficulty": "medium",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A garden flower with many pointed leaves,\nA Mexican of mountain and of sun,\nA bloom that autumn on the stalk achieves,\nAnd shows the gardener what her hands have won.",
+        "A Swedish botanist has left my name,\nA ballerina and a lake may hold it too,\nI am the tall and brilliant bloom of flame,\nIn every colour but the sky's own blue."
+      ],
+      "answer_word": "dahlia",
+      "hint": "A showy garden flower with many petals, native to Mexico."
+    },
+    {
+      "id": "cipher_00694",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A golden sun upon a hollow stem,\nThat turns to silver when the seeds take flight,\nA child will blow and scatter all of them,\nAnd wish a wish beneath the summer light.",
+        "A lion's tooth has named me in the French,\nA salad leaf and wine are mine as well,\nThe children call me clock upon the bench,\nAnd puff my sphere and ring no bell."
+      ],
+      "answer_word": "dandelion",
+      "hint": "A yellow weed that becomes a round puffball of seeds."
+    },
+    {
+      "id": "cipher_00695",
+      "difficulty": "easy",
+      "categoryName": "Animals",
+      "poem_stanzas": [
+        "A gentle bird of peace and of the ark,\nThat brought the olive leaf to Noah's hand,\nA symbol that the sky is no more dark,\nA cooing voice above the weary land.",
+        "A symbol and a chocolate share my name,\nA turtle and a mourning are my kind,\nA goddess and a god have known my fame,\nAnd peace is what the world has hoped to find."
+      ],
+      "answer_word": "dove",
+      "hint": "A stocky seed-eating bird, a symbol of peace."
+    },
+    {
+      "id": "cipher_00696",
+      "difficulty": "medium",
+      "categoryName": "Science",
+      "poem_stanzas": [
+        "A green and precious stone of vivid hue,\nA beryl that the Spanish conquerors sought,\nA city and an isle have borrowed my name too,\nA jewel that a queen or king has bought.",
+        "A wizard's city shares my name in green,\nA shade of green as vivid as the spring,\nI am the precious stone of vivid sheen,\nAnd birth-stone of a month and many a ring."
+      ],
+      "answer_word": "emerald",
+      "hint": "A bright green precious stone."
+    },
+    {
+      "id": "cipher_00697",
+      "difficulty": "medium",
+      "categoryName": "Mythology",
+      "poem_stanzas": [
+        "A tale of talking beasts with meaning hid,\nA tortoise and a hare and one who wins,\nA moral for a child beneath the lid,\nA lesson dressed in feathers and in grins.",
+        "A slave of Greece has left a store of me,\nA compiler and a lie may share my name,\nA short and pointed story is my key,\nAnd animals have made my endless fame."
+      ],
+      "answer_word": "fable",
+      "hint": "A short story with a moral, often told of beasts that speak."
+    },
+    {
+      "id": "cipher_00698",
+      "difficulty": "easy",
+      "categoryName": "Animals",
+      "poem_stanzas": [
+        "A little lantern of the summer night,\nThat drifts and winks above the meadow grass,\nA beetle with a body full of light,\nThat signals in the dark to lad or lass.",
+        "A folk song puts a cow and me in rhyme,\nA summer evening twinkles where I pass,\nA living, cold, and silent light is mine,\nThat turns the meadows into fields of glass."
+      ],
+      "answer_word": "firefly",
+      "hint": "A beetle that glows in the dark to attract mates."
+    },
+    {
+      "id": "cipher_00699",
+      "difficulty": "easy",
+      "categoryName": "Science",
+      "poem_stanzas": [
+        "A print of something that has long been dead,\nA leaf or shell or bone within the stone,\nA story that the layers left unsaid,\nA record of a creature no one's known.",
+        "A word for one grown old and set and strange,\nA fuel that is buried, dark and slow,\nI am the ancient life that time could not estrange,\nA stone that holds the shape of long ago."
+      ],
+      "answer_word": "fossil",
+      "hint": "The preserved remains of an ancient plant or animal in rock."
+    },
+    {
+      "id": "cipher_00700",
+      "difficulty": "medium",
+      "categoryName": "Mythology",
+      "poem_stanzas": [
+        "A monstrous face that juts from tower and wall,\nA spout with open mouth and horn and claw,\nA guardian who watches over all,\nAnd turns the rain from off the roofs that awe.",
+        "A cathedral and a castle wear my kind,\nA spout that keeps the walls from rain and rot,\nA monster that the masons left behind,\nTo scare the devil from the holy spot."
+      ],
+      "answer_word": "gargoyle",
+      "hint": "A grotesque carved stone creature on a building, often a waterspout."
+    },
+    {
+      "id": "cipher_00701",
+      "difficulty": "medium",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A printed sheet of news and notices,\nA journal where official matters dwell,\nA word from Venice for the coin one pays,\nA newspaper that tells the town's own tale.",
+        "A London paper bears my name today,\nTo publish is to put me into print,\nI am the sheet that tells the world the way,\nAnd every notice in me leaves a hint."
+      ],
+      "answer_word": "gazette",
+      "hint": "A newspaper or official journal."
+    },
+    {
+      "id": "cipher_00702",
+      "difficulty": "easy",
+      "categoryName": "Food",
+      "poem_stanzas": [
+        "A knotted root of hot and fragrant spice,\nA pale and pungent rhizome underground,\nThat warms the winter punch and pudding nice,\nAnd gives the Christmas biscuit its own sound.",
+        "A cat of orange fur may share my name,\nA girl with fiery hair is called by me,\nI am the root the baker loves the same,\nAnd ale and beer have known my spicing glee."
+      ],
+      "answer_word": "ginger",
+      "hint": "A hot, fragrant root used as a spice."
+    },
+    {
+      "id": "cipher_00703",
+      "difficulty": "medium",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A faint and trembling light upon the dark,\nA hint of dawn before the sun is up,\nA little shine that leaves a silver mark,\nThe last of daylight in a shaded cup.",
+        "A hope and an interest may be mine,\nA word for something faintly seen and shy,\nI am the weak and silver, wavering shine,\nThat keeps a little comfort in the sky."
+      ],
+      "answer_word": "glimmer",
+      "hint": "A faint or unsteady light."
+    },
+    {
+      "id": "cipher_00704",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A cup with stem and foot and rounded bowl,\nA vessel for a toast of wine or ale,\nA golden thing that shepherds once would hold,\nA treasure in a tale of holy grail.",
+        "A drum and a cup and a bird may share\nA part of my name, a stemmed and shining thing,\nI hold a toast to joy or to despair,\nAnd drink the health of beggar and of king."
+      ],
+      "answer_word": "goblet",
+      "hint": "A drinking cup with a stem and a base."
+    },
+    {
+      "id": "cipher_00705",
+      "difficulty": "medium",
+      "categoryName": "Science",
+      "poem_stanzas": [
+        "A hard and speckled rock of quartz and mica,\nA stubborn stone that builders love to use,\nA monument and a kitchen counter like a\nBoulder, and a pavement for the shoes.",
+        "A state and a great hill may bear my name,\nA word for stubborn is akin to mine,\nI am the speckled stone of grey and flame,\nThat weathers into soil where grow the pine."
+      ],
+      "answer_word": "granite",
+      "hint": "A hard, coarse-grained igneous rock."
+    },
+    {
+      "id": "cipher_00706",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A crunch of little stones beneath the shoe,\nA path of grey and dusty, shifting bits,\nA drive of me the gardener will strew,\nA bed of me where water slowly sits.",
+        "A churchyard and a grave may share my word,\nA voice grown rough and hoarse is like to me,\nI am the crunch of stones in paths that's heard,\nAnd gardens spread me under shrub and tree."
+      ],
+      "answer_word": "gravel",
+      "hint": "Loose stones used for paths and drives."
+    },
+    {
+      "id": "cipher_00707",
+      "difficulty": "medium",
+      "categoryName": "Geography",
+      "poem_stanzas": [
+        "A little cave of beauty or of prayer,\nA cool and secret chamber in the rock,\nA place of blue and green with water there,\nWhere tourists and the faithful come to look.",
+        "A sea one in Capri draws the crowd,\nA garden one is built with shells and stone,\nAn Italian word for cave is mine, and proud,\nA hidden shrine where prayers have long been known."
+      ],
+      "answer_word": "grotto",
+      "hint": "A small picturesque cave or a cave-like shrine."
+    },
+    {
+      "id": "cipher_00708",
+      "difficulty": "medium",
+      "categoryName": "Geography",
+      "poem_stanzas": [
+        "A narrow channel cut by running rain,\nA little gorge between the banks of clay,\nThat carries off the storm across the plain,\nAnd deepens with the water's slow way.",
+        "A cricket ground has one behind the wicket,\nA noun for a small valley is my kind,\nI am the earthen ditch where storms have bitten,\nAnd water cuts the soil it leaves behind."
+      ],
+      "answer_word": "gully",
+      "hint": "A water-worn ravine or channel."
+    },
+    {
+      "id": "cipher_00709",
+      "difficulty": "easy",
+      "categoryName": "Geography",
+      "poem_stanzas": [
+        "A little cluster round a village green,\nA church, an inn, and half a score of homes,\nA quiet place where everyone is seen,\nAnd nobody but nobody far roams.",
+        "A prince of Denmark shares my name in play,\nA Shakespeare hero and a village too,\nI am the smallest settlement that may\nHave fields and lanes and a believing pew."
+      ],
+      "answer_word": "hamlet",
+      "hint": "A small settlement or village."
+    },
+    {
+      "id": "cipher_00710",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A purple carpet on the lonely moor,\nA low and woody shrub of wind and stone,\nThat bees and grouse and walkers all adore,\nAnd makes a honey that is all its own.",
+        "A Scottish song and a colour share my name,\nA heath and a moor are mine to clothe and hold,\nI am the purple bloom of wildest fame,\nThat turns the hills of Scotland into gold."
+      ],
+      "answer_word": "heather",
+      "hint": "A low evergreen shrub with purple flowers, common on moors."
+    },
+    {
+      "id": "cipher_00711",
+      "difficulty": "easy",
+      "categoryName": "Science",
+      "poem_stanzas": [
+        "A gas so light it lifts a balloon,\nA second element upon the chart,\nA voice that rises to a comic tune,\nA word from Greek for sun and placed apart.",
+        "I filled the first great airship long ago,\nI cool the magnets that the doctors use,\nA party gas that makes the voices go\nUp high, the lightest atom none can lose."
+      ],
+      "answer_word": "helium",
+      "hint": "A light, colourless gas used to fill balloons."
+    },
+    {
+      "id": "cipher_00712",
+      "difficulty": "medium",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A hardwood tree of North America,\nWith shaggy bark and nuts the squirrels hide,\nA timber for the handle and the fire,\nA wood that swings an axe with steady pride.",
+        "A folk expression uses my name for true,\nA president and a town may bear it too,\nA smoke of mine will flavour meat for you,\nAnd boys have swung a bat of me in view."
+      ],
+      "answer_word": "hickory",
+      "hint": "A North American tree with hard wood and edible nuts."
+    },
+    {
+      "id": "cipher_00713",
+      "difficulty": "easy",
+      "categoryName": "Geography",
+      "poem_stanzas": [
+        "A little valley in the wooded land,\nA cup of earth with sides of gentle grass,\nA place where trees and shadows understand,\nAnd echoes of a distant footfall pass.",
+        "A tree may have me in its trunk and be\nA home for owl and squirrel and for bee,\nAn empty space and an echoing sound,\nAre both my name, as every child can see."
+      ],
+      "answer_word": "hollow",
+      "hint": "A small valley or a hole in something."
+    },
+    {
+      "id": "cipher_00714",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A dagger hanging from the eaves of ice,\nThat grows when days are warm and nights are cold,\nA silver spike that melts and drips precise,\nA frozen tear the winter likes to hold.",
+        "A pendant and a crystal may be mine,\nA cold and backward thing may bear my word,\nI hang upon the eaves in winter's line,\nAnd drip to nothing when the spring is heard."
+      ],
+      "answer_word": "icicle",
+      "hint": "A hanging spike of ice formed by dripping water."
+    },
+    {
+      "id": "cipher_00715",
+      "difficulty": "easy",
+      "categoryName": "Geography",
+      "poem_stanzas": [
+        "A dome of blocks of hardened snow and ice,\nA shelter in the Arctic's wind and cold,\nA rounded house that hunters build precise,\nWhere families are warm within its fold.",
+        "An Inuit has shaped me with a knife,\nA word from their own language forms my name,\nI am the rounded shelter of the north,\nThat keeps the darkness and the drift at bay."
+      ],
+      "answer_word": "igloo",
+      "hint": "A dome-shaped shelter built from blocks of snow."
+    },
+    {
+      "id": "cipher_00716",
+      "difficulty": "medium",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A deep and dusk-blue shade of violet-blue,\nA dye that India sent across the sea,\nA rainbow colour at the outer few,\nA plant that stains the vat of mystery.",
+        "A spectrum word that sits by violet,\nA blue that dyes the denim of the world,\nA child and a great trade have known my threat,\nAnd ships of mine across the ocean hurled."
+      ],
+      "answer_word": "indigo",
+      "hint": "A deep blue-violet colour, or the plant yielding it."
+    },
+    {
+      "id": "cipher_00717",
+      "difficulty": "medium",
+      "categoryName": "Science",
+      "poem_stanzas": [
+        "A pale and creamy substance of the tusk,\nA tower and a gate and a piano key,\nA carving and a chessman in the dusk,\nA colour of an age of elegy.",
+        "A coast of Africa has taken my name,\nA trade in tusks has brought the elephant harm,\nI am the pale and polished white of fame,\nThat carved the throne and carved the lady's arm."
+      ],
+      "answer_word": "ivory",
+      "hint": "A hard, creamy-white substance from tusks, or its colour."
+    },
+    {
+      "id": "cipher_00718",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A fragrant flower of the warmer air,\nA climbing shrub of white and yellow bloom,\nA scent that women weave into their hair,\nA tea that scents a room and fills the gloom.",
+        "A Disney princess and a rice both bear\nMy name, a perfume and a night of heat,\nI am the blossom of the evening air,\nWhose fragrance makes the dark complete."
+      ],
+      "answer_word": "jasmine",
+      "hint": "A shrub with fragrant white or yellow flowers."
+    },
+    {
+      "id": "cipher_00719",
+      "difficulty": "medium",
+      "categoryName": "Science",
+      "poem_stanzas": [
+        "An opaque stone of quartz in many hues,\nA red and brown and green and darkly veined,\nA gem that ancient seal-carvers would choose,\nA name that many a boy and man has gained.",
+        "A gemstone in the Bible's city wall,\nA national park in Canada bears my name,\nI am a form of quartz that stands for all\nThe dark and veined and patterned stone of fame."
+      ],
+      "answer_word": "jasper",
+      "hint": "An opaque quartz, often red, brown, or green."
+    },
+    {
+      "id": "cipher_00720",
+      "difficulty": "medium",
+      "categoryName": "Emotions",
+      "poem_stanzas": [
+        "A time of great rejoicing and of cheer,\nA fifty-year and twenty-five and more,\nA trumpet and a holiday appear,\nA freedom and a feast upon the floor.",
+        "A Hebrew year of liberty and rest,\nA diamond and a silver crown the year,\nA queen has kept two of me, and the best\nOf all my days is one of joy and cheer."
+      ],
+      "answer_word": "jubilee",
+      "hint": "A special anniversary, especially a fiftieth, or a time of rejoicing."
+    },
+    {
+      "id": "cipher_00721",
+      "difficulty": "hard",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "An evergreen of berry and of spine,\nWhose dark and bitter cones give gin its taste,\nA shrub that on the hillsides makes its line,\nA wood that burns with fragrance and no waste.",
+        "A desert and a Bible tree are mine,\nA blue and prickly berry is my own,\nIn gin and game and hillside I define\nThe sharp and fragrant shrub on land of stone."
+      ],
+      "answer_word": "juniper",
+      "hint": "An evergreen shrub with berries used to flavour gin."
+    },
+    {
+      "id": "cipher_00722",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A slender boat of skin or fibreglass,\nWith paddler sitting low and double blade,\nThat cuts the waves and lets the waters pass,\nA Greenland craft of hunter's ancient trade.",
+        "You sit inside and wear a skirt to seal,\nA roll can bring you upright when capsized,\nAn Inuit has named me, and I feel\nThe northern sea that never quite is prized."
+      ],
+      "answer_word": "kayak",
+      "hint": "A small, narrow canoe paddled by a person, originally Inuit."
+    },
+    {
+      "id": "cipher_00723",
+      "difficulty": "medium",
+      "categoryName": "Animals",
+      "poem_stanzas": [
+        "A little hawk that hovers in the air,\nWith pointed wings and tail of barred brown,\nThat watches for a vole and drops to snare,\nAnd holds its head against the wind of town.",
+        "A hunter of the motorway verge am I,\nA wind and a great hill may bear my name,\nI hover on the wind and watch the sky,\nAnd stoop upon a mouse to make my claim."
+      ],
+      "answer_word": "kestrel",
+      "hint": "A small falcon that hovers while hunting."
+    },
+    {
+      "id": "cipher_00724",
+      "difficulty": "easy",
+      "categoryName": "Mythology",
+      "poem_stanzas": [
+        "A land that is a monarch's to command,\nA realm of crown and throne and subject folk,\nA place a king rules over with a hand,\nAnd every castle has its royal yoke.",
+        "A Bible prayer and a game and a book\nMay bear my name, a fungus and a plant,\nI am a bounded realm by hook or crook,\nWhere subject kneels and king may not recant."
+      ],
+      "answer_word": "kingdom",
+      "hint": "A country or territory ruled by a king or queen."
+    },
+    {
+      "id": "cipher_00725",
+      "difficulty": "easy",
+      "categoryName": "Mythology",
+      "poem_stanzas": [
+        "A mounted warrior clad in shining steel,\nWith sword and shield and plume upon his crest,\nWho rides to tourney and to sword and wheel,\nAnd serves a lady and a lord's behest.",
+        "A chess piece shaped like horse and rider moves,\nA title given now in honour's name,\nA champion of the round table proves\nMy kind, and Galahad has known my fame."
+      ],
+      "answer_word": "knight",
+      "hint": "An armed and mounted warrior in armour, often in medieval tales."
+    },
+    {
+      "id": "cipher_00726",
+      "difficulty": "medium",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A criss-cross frame of wood or iron bars,\nThat lets the roses climb and light come through,\nA window and a gate and garden stars,\nA patterned screen that hides a view from you.",
+        "A crystal grid of atoms bears my name,\nA pie of mine is woven on the top,\nI am the crossing strips of woven frame,\nThat screen a window or a garden shop."
+      ],
+      "answer_word": "lattice",
+      "hint": "A framework of crossed strips forming a criss-cross pattern."
+    },
+    {
+      "id": "cipher_00727",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A purple field of fragrant spikes in rows,\nA shrub that scents the drawer and soothes the brow,\nA colour that the evening twilight shows,\nA pale and gentle violet in a gown.",
+        "A bride is told to wear a sprig of blue,\nA French and English garden grows my kind,\nA smell of cleanliness and a perfume too,\nAnd sleep and calm are what in me you find."
+      ],
+      "answer_word": "lavender",
+      "hint": "A fragrant purple-flowered shrub, or its pale purple colour."
+    },
+    {
+      "id": "cipher_00728",
+      "difficulty": "easy",
+      "categoryName": "Geography",
+      "poem_stanzas": [
+        "A narrow shelf that juts from wall or rock,\nA place to set a foot or pot or nest,\nA sudden step that interrupts the block,\nA perch where climbers pause and take their rest.",
+        "A window and a climber know my name,\nA ridge of ice and rock beneath the sea,\nI am the narrow shelf of rocky frame,\nThat juts from every wall and cliff and tree."
+      ],
+      "answer_word": "ledge",
+      "hint": "A narrow horizontal shelf projecting from a wall or cliff."
+    },
+    {
+      "id": "cipher_00729",
+      "difficulty": "medium",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A crusty patch of grey and green and gold,\nThat clings to rock and wall and ancient tree,\nA slow and patient thing that grows so old,\nIt measures air and time for you and me.",
+        "A partnership of two lives makes me one,\nA pioneer upon the naked stone,\nA food for reindeer in the northern sun,\nAnd bearded on the trees of wind and bone."
+      ],
+      "answer_word": "lichen",
+      "hint": "A crusty growth of algae and fungus on rocks and trees."
+    },
+    {
+      "id": "cipher_00730",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A cone of fragrant blossoms purple-pale,\nA shrub of May that scents the garden air,\nA colour that the evening makes a veil,\nA shade of violet that the spring will wear.",
+        "A Whitman poem mourns a president with me,\nA colour and a flower and a wine,\nI am the clustered bloom upon the tree,\nWhose scent is like a memory and a sign."
+      ],
+      "answer_word": "lilac",
+      "hint": "A shrub with fragrant pale purple flowers."
+    },
+    {
+      "id": "cipher_00731",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A tall and stately flower of the field,\nA trumpet white or golden on a stem,\nA symbol of the pure and of the healed,\nA bloom that Easter gives to Bethlehem.",
+        "A Bible flower and a boy's name too,\nA pad and a river and a colour share it still,\nA golden one of Easter is my due,\nAnd gilding takes my name upon the hill."
+      ],
+      "answer_word": "lily",
+      "hint": "A tall plant with large trumpet-shaped flowers."
+    },
+    {
+      "id": "cipher_00732",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A cloth of flax both cool and strong and white,\nThat sheets and shirts and tablecloths become,\nA fabric woven for the day and night,\nAnd ironed smooth and folded, still and dumb.",
+        "A closet keeps me in a stack of sheets,\nA paper made of rags may share my name,\nI am the flaxen cloth where comfort meets,\nAnd beds and tables both my weaving claim."
+      ],
+      "answer_word": "linen",
+      "hint": "Cloth woven from flax, or household items made from it."
+    },
+    {
+      "id": "cipher_00733",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A water flower rising from the mud,\nWith petals opening on a sacred pool,\nA blossom that the eastern faiths call good,\nA symbol that the wise and holy school.",
+        "A car and an eater and a yoga pose\nAre named from me, a pink and holy flower,\nI rise unspotted though in mire I rose,\nA symbol of the pure and higher power."
+      ],
+      "answer_word": "lotus",
+      "hint": "A water lily sacred in eastern religions."
+    },
+    {
+      "id": "cipher_00734",
+      "difficulty": "easy",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A stack of sawn and seasoned wood for sale,\nA plank and beam and board the sawmill cut,\nA timber load that oxen haul and trail,\nAnd build the cabin door and window shut.",
+        "To move with heavy feet is called by me,\nA room of stored-up junk may bear my name,\nI am the timber of the fallen tree,\nThat builds the house and feeds the winter flame."
+      ],
+      "answer_word": "lumber",
+      "hint": "Timber sawn into boards, or to move heavily."
+    },
+    {
+      "id": "cipher_00735",
+      "difficulty": "hard",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A tall and spiky flower of the field,\nWith palmate leaves and blossoms blue and pink,\nA legume that a richer soil will yield,\nAnd fix the nitrogen that gardens drink.",
+        "A wolf-like name is hidden in my word,\nA flower and a beastly thing are kin,\nI raise my coloured spikes and am not heard,\nAnd feed the soil that I am rooted in."
+      ],
+      "answer_word": "lupine",
+      "hint": "A plant with tall spikes of pea-like flowers."
+    },
+    {
+      "id": "cipher_00736",
+      "difficulty": "easy",
+      "categoryName": "Music",
+      "poem_stanzas": [
+        "The words that singers fit to tune and voice,\nA short and singing poem of the heart,\nA verse that on a little harp the choice\nOf ancient Greece would set to music's art.",
+        "A kind of poetry and a kind of voice,\nA soprano and a tenor may be mine,\nA poem that is made to sing and rejoice,\nAnd in a song the words and music twine."
+      ],
+      "answer_word": "lyric",
+      "hint": "The words of a song, or a short poem expressing feeling."
+    },
+    {
+      "id": "cipher_00737",
+      "difficulty": "medium",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A large and creamy blossom on a tree,\nA southern flower of the early spring,\nA bloom of wax and fragrance, fair and free,\nThat opens before the birds have voice to sing.",
+        "A street and a hotel and a film may bear\nMy name, a tree of the American south,\nI flower before my leaves and do not care,\nAnd drop my petals at the summer's mouth."
+      ],
+      "answer_word": "magnolia",
+      "hint": "A tree or shrub with large, showy, fragrant flowers."
+    },
+    {
+      "id": "cipher_00738",
+      "difficulty": "medium",
+      "categoryName": "Objects",
+      "poem_stanzas": [
+        "A loose and flowing cloak about the frame,\nA covering that wraps the shoulders round,\nA garment worn by shepherd and by dame,\nA fold of cloth where warmth and rest are found.",
+        "The earth may wear a green one for a coat,\nA gas one glows about a lamp at night,\nA role assumed is like a heavy note,\nAnd both are called my name, and both are right."
+      ],
+      "answer_word": "mantle",
+      "hint": "A loose sleeveless cloak, or to cover."
+    },
+    {
+      "id": "cipher_00739",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A tree with leaves of pointed, hand-like shape,\nWhose seeds go whirling down on little wings,\nWhose timber makes the violin and the crate,\nAnd in the autumn burns to red and sings.",
+        "A leaf of mine is on a nation's flag,\nA syrup and a hockey league take my name,\nA Canadian will wear me on her tag,\nAnd autumn sets my crown alight with flame."
+      ],
+      "answer_word": "maple",
+      "hint": "A tree with lobed leaves and winged seeds, whose sap makes syrup."
+    },
+    {
+      "id": "cipher_00740",
+      "difficulty": "easy",
+      "categoryName": "Science",
+      "poem_stanzas": [
+        "A stone of polished white and veined with grey,\nThat sculptors carve and palaces will lay,\nA rock that heat and pressure made its way\nFrom limestone into something meant to stay.",
+        "A child's small glassy ball can share my name,\nA cake of mine is swirled with chocolate,\nA sport of gods and ancients knows my fame,\nAnd floors and statues both on me are set."
+      ],
+      "answer_word": "marble",
+      "hint": "A hard crystalline limestone, or a small glass ball."
+    },
+    {
+      "id": "cipher_00741",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A golden flower of the summer bed,\nWith orange blooms and a pungent, sharp perfume,\nA herb whose petals on the salad spread,\nAnd gild the feast with colour and with bloom.",
+        "A Mary's gold is hidden in my name,\nA day of the dead will honour me with bloom,\nI guard the garden with my yellow flame,\nAnd name a colour and a common room."
+      ],
+      "answer_word": "marigold",
+      "hint": "A plant with bright yellow or orange flowers."
+    },
+    {
+      "id": "cipher_00742",
+      "difficulty": "medium",
+      "categoryName": "Animals",
+      "poem_stanzas": [
+        "A mammal with a pocket for its young,\nA kangaroo and a koala and a quoll,\nA pouched and southern clan whose babes are clung\nAnd carried till they walk and are not small.",
+        "An opossum of America is mine,\nA wallaby and a wombat are my kin,\nI am the pouched and pouching of the line,\nThat keeps the infant safe within its skin."
+      ],
+      "answer_word": "marsupial",
+      "hint": "A mammal that carries its young in a pouch."
+    },
+    {
+      "id": "cipher_00743",
+      "difficulty": "easy",
+      "categoryName": "Music",
+      "poem_stanzas": [
+        "A mixture of a varied kind and hue,\nA piece that strings a group of songs in one,\nA swimming race with strokes of every crew,\nA dish of many things beneath the sun.",
+        "A musical assortment is my name,\nA salad and a relay share the word,\nI gather many into one and claim\nA blend of every tune that can be heard."
+      ],
+      "answer_word": "medley",
+      "hint": "A varied mixture, or a piece made of several songs."
+    },
+    {
+      "id": "cipher_00744",
+      "difficulty": "medium",
+      "categoryName": "Geography",
+      "poem_stanzas": [
+        "A slender tower beside a temple wall,\nWith balcony and spiral stair and dome,\nFrom which a voice will summon one and all,\nAnd call the faithful from the street to home.",
+        "A muezzin calls from me five times a day,\nAn Arabic word for a lamp is in my name,\nI point to heaven, slender, tall and grey,\nAnd crown the mosque with an ascending aim."
+      ],
+      "answer_word": "minaret",
+      "hint": "A slender tower of a mosque, from which the call to prayer is made."
+    },
+    {
+      "id": "cipher_00745",
+      "difficulty": "easy",
+      "categoryName": "Science",
+      "poem_stanzas": [
+        "A solid thing that nature formed alone,\nA quartz and a feldspar and a mica flake,\nA substance from the earth and from the stone,\nThat miners dig and jewellers will take.",
+        "A vitamin and a water may be mine,\nA kingdom and a right and a lick may share,\nI am the crystal dug from out the mine,\nAnd gems and ores are all my children fair."
+      ],
+      "answer_word": "mineral",
+      "hint": "A naturally occurring solid substance, such as a rock or ore."
+    },
+    {
+      "id": "cipher_00746",
+      "difficulty": "easy",
+      "categoryName": "Mythology",
+      "poem_stanzas": [
+        "A king or queen who rules a single throne,\nA sovereign of a realm by right and crown,\nA ruler who must govern all alone,\nAnd bear the weight of every royal gown.",
+        "A great and orange butterfly is mine,\nA migratory one that flees the cold,\nI am the crowned and ruling of the line,\nAnd kings and butterflies my name enfold."
+      ],
+      "answer_word": "monarch",
+      "hint": "A king, queen, or sole ruler, or a butterfly."
+    },
+    {
+      "id": "cipher_00747",
+      "difficulty": "medium",
+      "categoryName": "Emotions",
+      "poem_stanzas": [
+        "A soft and low and continuous sound,\nA brook and a crowd and a bee may make,\nA quiet voice that scarcely can be found,\nA heart may do it for a loved one's sake.",
+        "A low complaint of an unhappy crowd,\nA heart and a great river both may make it,\nI am the undercurrent, never loud,\nAnd village gossip comes and cannot break it."
+      ],
+      "answer_word": "murmur",
+      "hint": "A soft, low, continuous sound, or to speak quietly."
+    },
+    {
+      "id": "cipher_00748",
+      "difficulty": "easy",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A rounded cap upon a stalk and gills,\nThat springs up overnight on rotting wood,\nA fungus of the meadows and the hills,\nA food and a poison, either bad or good.",
+        "A fairy ring may circle where I grow,\nA colour and a word for growing fast,\nI flourish in the dark and am not tame,\nAnd toad and field and forest know my cast."
+      ],
+      "answer_word": "toadstool",
+      "hint": "A fungus with a stalk and a cap, often poisonous."
+    },
+    {
+      "id": "cipher_00749",
+      "difficulty": "hard",
+      "categoryName": "Nature",
+      "poem_stanzas": [
+        "A fragrant evergreen of leaf and berry,\nA sacred shrub of Venus and of love,\nA wreath that brides have worn and poets carry,\nA symbol of the marriage and the dove.",
+        "A street and a state and a beach may bear\nMy name, a Bible tree and a liqueur,\nI am the scented shrub that Venus wore,\nAnd poets wreathe me in their flowing hair."
+      ],
+      "answer_word": "myrtle",
+      "hint": "An evergreen shrub with fragrant leaves and berries, sacred to Venus."
+    },
+    {
+      "id": "cipher_00750",
+      "difficulty": "easy",
+      "categoryName": "Food",
+      "poem_stanzas": [
+        "A sweet and sugary drop within a flower,\nThat bees and butterflies collect and drink,\nA beverage of the Olympian power,\nA fruit and a small peach are on the brink.",
+        "A juice and a soft drink may bear my name,\nA goddess pours me at a heavenly feast,\nI am the sweetest blossom's hidden aim,\nAnd gods and bees have found in me their best."
+      ],
+      "answer_word": "nectar",
+      "hint": "The sugary fluid in flowers, or a drink of the gods."
+    }
+  ]
+}
