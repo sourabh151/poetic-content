@@ -1,0 +1,17 @@
+{
+  "version": 12,
+  "ciphers": [],
+  "cipher_corrections": [
+    {
+      "id": "cipher_00969",
+      "difficulty": "medium",
+      "categoryName": "Animals",
+      "poem_stanzas": [
+        "A broad-winged bird that circles on the thermals\nI mew above the fields and scan for prey\nIn America my name means a vulture instead\nAnd I sit on a fence post hunched and patient",
+        "I am not the noble falcon of the hunt\nI eat the rabbit and the worm and the road-kill\nMy call is a plaintive, cat-like cry\nAnd I drift on the wind where the hills roll high"
+      ],
+      "answer_word": "buzzard",
+      "hint": "A large soaring bird of prey, related to the hawk."
+    }
+  ]
+}
