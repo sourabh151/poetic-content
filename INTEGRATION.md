@@ -25,12 +25,19 @@ manifest at either tag sees both streams' versions.
 ## Seed versions (bundled DBs)
 
 The app ships with SQLite DBs built from `content/full/poems_full_v1.json`
-(10 poems) and `content/full/ciphers_full_v1.json` (100 ciphers). Treat these
-as the floor:
+(**1000 poems**, the full classic corpus) and
+`content/full/ciphers_full_v1.json` (**1000 ciphers**, the full riddle corpus).
+This full corpus is version 1 — the app's bundled base. Treat these as the
+floor; a fresh install needs no OTA to have all 2000 entries:
 
 ```ts
 const SEED = { poemsVersion: 1, ciphersVersion: 1 };
 ```
+
+Bundling the whole corpus costs roughly 2.0–2.4 MB uncompressed in SQLite
+(≈0.6–0.7 MB if the DB is compressed in the app bundle). Future content is
+published as new versions (`poems v2`, `ciphers v2`, …) and fetched as deltas
+on top of this seed.
 
 Persist applied versions in the app (SQLite `_content_meta` table or MMKV —
 SQLite is preferred so versions travel with the user DB copy):

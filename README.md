@@ -17,8 +17,9 @@ content/
     poems_v2.json            # ONLY new poems (+ optional poem_corrections) for version 2
     ciphers_v2.json          # ONLY new ciphers (+ optional cipher_corrections) for version 2
   full/
+    poems_full_v1.json       # complete list for v1 — the 1000-poem bundled seed
+    ciphers_full_v1.json     # complete list for v1 — the 1000-cipher bundled seed
     poems_full_v2.json       # complete list up to v2 (script-built, never hand-edited)
-    ciphers_full_v2.json
 examples/                    # one valid delta entry each, doc ids *_09999 (CI validates these)
 schemas/                     # JSON Schemas for app-side/editor use (validate.mjs is authoritative)
 scripts/
